@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Видит не видит: 15 глупых вопросов о биоэквайринге | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/01-preve.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,520] -->
+<link rel="canonical" href="https://entermedia.io/people/vidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Видит не видит: 15 глупых вопросов о биоэквайринге&raquo;" href="https://entermedia.io/people/vidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501140&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501140&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501140&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='На время подготовки и проведения саммита БРИКС в Казани ограничат парковку' href='https://entermedia.io/news/na-vremya-podgotovki-i-provedeniya-sammita-briks-v-kazani-ogranichat-parkovku/' />
+<link rel='next' title='В ГСИ ГМИИ РТ откроется выставка, объединяющая проекты Саши Генциса и Алмонда Чу' href='https://entermedia.io/news/v-gsi-gmii-rt-otkroetsya-vystavka-obedinyayushhaya-proekty-sashi-gentsisa-i-almonda-chu/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-136042 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/01-preve.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Видит не видит: 15 глупых вопросов о биоэквайринге <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/03/IMAGE-2022-03-16-193215-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Инзиля Шакирова</div>
+          <div class="date-publish">11 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F&title=Видит не видит: 15 глупых вопросов о биоэквайринге&description=&image=https://entermedia.io/wp-content/uploads/2024/10/01-preve-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F&text=Видит не видит: 15 глупых вопросов о биоэквайринге" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Видит не видит: 15 глупых вопросов о биоэквайринге&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="136042">
+    <div id="post-136042" class="post-136042 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:136046,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136045,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136044,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid:&nbsp;LjN8KTYnF</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Биоэквайринг — инновационный способ оплаты, основанный на использовании биометрических данных. Уверены, вы заметили, как биометрия все активнее входит в нашу жизнь, упрощая  покупки, делая их более безопасными и быстрыми.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter задала 15 глупых вопросов о биоэквайринге специалистам <a href="https://www.akbars.ru/" target="_blank" class="stk-reset">Ак Барс Банка</a>, который первым в стране  запустил межбанковский платежный сервис с привязкой биометрии лица. Рассказываем, в чем заключаются основные принципы работы сервиса, его преимущества и как биоэквайринг повлияет на будущее финансовых технологий и повседневной жизни потребителей.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/02.jpg" data-image-id="136045" srcset="https://entermedia.io/wp-content/uploads/2024/10/02-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/02-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/02.jpg 1200w" data-image-name="02.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136045 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как работает оплата взглядом? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">При регистрации в сервисе, разработанном НСПК (Национальная система платежных карт, — Прим. Enter) и ЦБТ (Центр биометрических технологий, — Прим. Enter), пользователь предоставляет свое изображение, которое затем обрабатывается специальными технологиями. Фото преобразуется в биометрический «вектор» — это последовательность символов, сгенерированная на основе изображения. В процессе идентификации задействуется именно вектор, а не фотография пользователя.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каждая компания использует свои алгоритмы для преобразования фотографий в биометрические векторы. Эти алгоритмы основаны на нейронных сетях, которые обучаются на больших объемах данных.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда пользователь совершает покупку, изображение, поступающее в камеру преобразуется в вектор, который затем сравнивается с сохраненными векторами в базе данных. Если совпадение найдено, система подтверждает личность и завершает транзакцию.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как мне зарегистрироваться в системе?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Через приложение <a href="https://www.gosuslugi.ru/help/faq/biometrics/102387" target="_blank" class="stk-reset">«Госуслуги Биометрия».</a> Затем в приложении <a href="https://sbp.nspk.ru/sbpay?utm_source=nspk.ru&amp;utm_medium=referral&amp;utm_campaign=nspk.ru" target="_blank" class="stk-reset">Системы быстрых платежей</a> нужно подключить к оплате по биометрии вашу банковскую карту. Подробную инструкцию смотрите по <a href="https://sbp.nspk.ru/bio/" target="_blank" class="stk-reset">ссылке.</a> </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зачем мне пользоваться этой технологией?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оплата взглядом имеет несколько значительных преимуществ по сравнению с традиционными методами, такими как использование банковских карт. Во-первых, одно из основных преимуществ — это удобство. Пользователям не нужно носить с собой карты, что особенно актуально в ситуациях, когда они забыли кошелек или телефон дома. Это делает процесс более легким и быстрым, так как оплата занимает всего несколько секунд. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Во-вторых, сервис оплаты по биометрии  интуитивно понятен и не требует от пользователей какого-либо специального обучения. Даже для людей, которые не обладают техническими навыками, процесс оплаты становится простым и доступным. Это может значительно улучшить пользовательский опыт, особенно для пожилых людей или тех, кто не привык использовать современные технологии. В отличие от банковских карт, где могут возникать трудности с вводом данных или использованием терминала, оплата взглядом предлагает более естественный и бесконтактный способ взаимодействия.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оплата взглядом безопасна?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Да, ведь при использовании биоэквайринга применяются строгие меры безопасности, направленные на защиту биометрических данных и предотвращение несанкционированного доступа. Прежде всего, все рыночные решения должны проходить сертификацию в специализированных лабораториях. Она подтверждает их соответствие высоким требованиям по информационной безопасности и обеспечивает надежность используемых технологий.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одна из ключевых мер — шифрование биометрических данных как при передаче, так и при хранении. Шифрование позволяет защитить данные от кражи и несанкционированного доступа, что особенно важно в условиях растущих угроз кибербезопасности. Вместо  полных изображений сервис  обрабатывает только шаблоны биометрических данных — векторы, которые нельзя обратно преобразовать в изображения. Это значительно снижает риск утечки личной информации.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме того, для повышения уровня безопасности применяется многоуровневая аутентификация. Это может включать использование паролей, одноразовых кодов или других методов, которые позволяют удостовериться в личности пользователя. Такой подход делает систему более защищенной от попыток взлома и несанкционированного доступа.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Может ли компьютер перепутать людей?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Алгоритмы системы достигли столь высокого уровня точности, что вероятность ошибки составляет меньше одной миллионной доли. На практике Ак Барс Банка за последние пару лет ошибок не случалось вообще.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/3-5.jpg" data-image-id="136046" srcset="https://entermedia.io/wp-content/uploads/2024/10/3-5-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/3-5-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/3-5.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136046 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Помогает ли технология бороться с мошенниками?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Биоэквайринг, как технология, использующая биометрические данные для аутентификации пользователей, имеет потенциал в борьбе с мошенничеством. Основная идея биоэквайринга заключается в том, что уникальные биометрические характеристики значительно усложняют задачу мошенникам, так как их невозможно подделать или украсть так же легко, как традиционные пароли или карты.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие данные собирает сервис оплаты взглядом?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сервис никакие данные не собирает. Более того – регистрация биометрических данных возможна только по инициативе и с согласия пользователя. В процессе оплаты также не собираются никакие дополнительные данные, что повышает уровень конфиденциальности и безопасности.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эта технология поможет уменьшить очереди? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Да, в будущем технология значительно увеличит проходимость в точках продаж, в метро и других общественных местах. Отзывы покупателей говорят об удобстве и безопасности системы. Мы верим, что биоэквайринг может существенно сократить среднее время ожидания в очередях, так как процесс аутентификации проходит быстрее, чем традиционные методы оплаты.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">И все же, чего мне стоит опасаться?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">От первых прототипов технологических решений по биометрии до внедрения технологии «оплаты взглядом» в казанском метро прошло порядка семи лет. Время потребовалось, чтобы решить вопросы безопасности должным образом. Сейчас данный вопрос регулируется соответствующим федеральным законом. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ак Барс Банк как банк эквайер использует для биоэквайринга собственное технологическое решение. Оно прошло все необходимые тесты и обеспечивает высокую скорость, качество и безопасность данных. Это серьезный вопрос, в решение которого вложены существенные инвестиции. Поэтому можно не бояться за безопасность персональных данных.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что другие люди думают о биоэквайринге?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Согласно проведенными нами опросам, порядка 40% респондентов уже рассматривают возможность оплаты взглядом, если клиентский путь — подключение и использование биометрии — будет простым и доступным. Особенно, в пользу этого способа платежей склоняется молодежь и те граждане, которые быстрее остальных воспринимают инновации.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/4-4.jpg" data-image-id="136044" srcset="https://entermedia.io/wp-content/uploads/2024/10/4-4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/4-4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/4-4.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136044 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Биоэквайринг заменит привычные способы оплаты?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Биоэквайринг действительно имеет потенциал стать преобладающим способом платежей, аналогично тому, как карточные расчеты постепенно вытеснили наличные средства. Тем не менее, полная замена традиционных методов оплаты маловероятна. Потребители ценят разнообразие и удобство различных способов расчетов, и многие все еще предпочитают наличные или карты в определенных ситуациях. К тому же никто не собирается полностью отменять старые способы оплаты.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чем еще удивит нас биоэквайринг в ближайшем будущем?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Биоэквайринг будет одной из составляющих большой биометрической экосистемы, когда пользователь может проехать в метро, купить кофе, посетить музей по льготной карте — и все это оплатить взглядом без использования банковских карт или других устройств.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">А как технология развивается в России и в мире? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В России основным нормативным документом считается 572-й федеральный закон, который регулирует вопросы «гражданской» биометрии и отделяет базы данных для гражданских целей от баз, используемых правоохранительными органами. На международной арене важную роль играют стандарты ISO/IEC 19794, касающиеся форматов представления биометрической информации, и ISO/IEC 30107, который определяет методы оценки безопасности биометрических систем. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эти стандарты помогают обеспечить совместимость, безопасность и защиту личных данных пользователей в системах биоэквайринга, что критически важно для их широкого внедрения и доверия со стороны потребителей.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Где биоэквайринг будет применяться в первую очередь? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В будущем внедрение биоэквайринга может принести значительную выгоду в таких отраслях, как розничная торговля, здравоохранение и финансовые услуги. В частности, в розничной торговле он поможет эффективно контролировать доступ к товарам 18+, а в аптечной сфере — обеспечить верификацию возраста для рецептурных препаратов, что повысит безопасность и соответствие законодательству. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В финансовом секторе биоэквайринг может использоваться для надежной идентификации клиентов при проведении транзакций и открытии счетов, что снизит риски мошенничества и повысит уровень доверия со стороны пользователей. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как мне подключить к биоэквайрингу мою компанию? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Нужно открыть счет в Ак Барс Банке и заключить договор на подключение биоэквайринга.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Инзиля Шакирова<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Иллюстрации:</strong> aimiumiu</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реклама.&nbsp;ПАО «АК БАРС» БАНК</p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F&title=Видит не видит: 15 глупых вопросов о биоэквайринге&description=&image=https://entermedia.io/wp-content/uploads/2024/10/01-preve-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F&text=Видит не видит: 15 глупых вопросов о биоэквайринге" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Видит не видит: 15 глупых вопросов о биоэквайринге&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvidit-ne-vidit-15-glupyh-voprosov-o-bioekvajringe%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501140'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

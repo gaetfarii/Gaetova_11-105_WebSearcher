@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/prevyu1-min-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,557] -->
+<link rel="canonical" href="https://entermedia.io/people/hudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве&raquo;" href="https://entermedia.io/people/hudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501142&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501142&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501142&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В «2ГИС» появились детальные 3D-модели семи кремлей' href='https://entermedia.io/news/v-2gis-poyavilis-detalnye-3d-modeli-semi-kremlej/' />
+<link rel='next' title='В ноябре татарстанцев ждет трехдневная рабочая неделя' href='https://entermedia.io/news/v-noyabre-tatarstantsev-zhdet-trehdnevnaya-rabochaya-nedelya/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-135554 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/prevyu1-min-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">2 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F&title=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве&description=&image=https://entermedia.io/wp-content/uploads/2024/10/prevyu1-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F&text=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве&related=truemisha&hashtags=Артгид&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="135554">
+    <div id="post-135554" class="post-135554 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-artgid">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:135593,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135592,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135591,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135590,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135589,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135588,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135587,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135584,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135583,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135580,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135577,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135574,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135595,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В «Артгиде» редакция исследует молодое искусство региона, рассказывает о местных художественных процессах, а также об их героях и художественных стратегиях. Новой героиней рубрики стала художница и куратор Зульфия Илькаева.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Начав карьеру как архитектор, она постепенно трансформировала свой интерес к пространству и урбанистике в художественную практику, в которой исследования публичных историй и архивов играют центральную роль.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Zulfiya_1-min.jpg" data-image-id="135583" srcset="https://entermedia.io/wp-content/uploads/2024/10/Zulfiya_1-min-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/10/Zulfiya_1-min-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/10/Zulfiya_1-min.jpg 1200w" data-image-name="Зульфия_1-min.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-135583 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зульфия Илькаева</p></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/17-Zulfiya-Ilkaeva-Novye-issledovaniya-2023.jpg-min.jpg" data-image-id="135584" srcset="https://entermedia.io/wp-content/uploads/2024/10/17-Zulfiya-Ilkaeva-Novye-issledovaniya-2023.jpg-min-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/10/17-Zulfiya-Ilkaeva-Novye-issledovaniya-2023.jpg-min-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/10/17-Zulfiya-Ilkaeva-Novye-issledovaniya-2023.jpg-min.jpg 1200w" data-image-name="17---Зульфия-Илькаева,-«Новые-исследования»,--2023.jpg-min.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-135584 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">&nbsp;«Новые исследования», 2023</p></div></div></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk-WCDt" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зульфия Илькаева родилась в Набережных Челнах в 1997 году. В 2020 году она окончила архитектурный факультет Казанского архитектурно-строительного университета, в 2024 году вместе с командой открыла культурную площадку «Дебаркадер-30» в Набережных Челнах. Участница выставок «Эхо Стоянки» (Посольство музея современного искусства ZAMAN, Уфа, 2024), «Казань как место встречи» (ЦСК Смена, Казань, 2023), «Свое и другое» (MOÑ, Казань, 2023), Краеведческая экспозиция в Воскресенской картинной галерее (Воскресенское, 2023), «Исчезновения» (Центр городской культуры, Пермь, 2023), «Четыре угла» (MYTH Gallery х Space Four Lab, Санкт-Петербург, 2022), «Кажется, будет выставка в Казани. Хождения по краю» (ЦСК Смена, Казань, 2022), «Арт-мастерская XXI» (ГСИ ГМИИ РТ, Казань, 2022), «Архив.05» (резиденция «Сильно», Дербент, 2022), «Невесомая» (ГСИ ГМИИ РТ, Казань, 2021).</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Работает с публичной историей, трудным наследием и коллективной памятью, исследует национальные и городские конструкты. Обращается к собственной биографии, изучает архивы и наблюдения и создает инсталляции, объекты и паблик-арт.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/6-Zulfiya-Ilkaeva-Instruktsiya-2023-foto-YUlya-Lanar-min.jpg" data-image-id="135577" srcset="https://entermedia.io/wp-content/uploads/2024/10/6-Zulfiya-Ilkaeva-Instruktsiya-2023-foto-YUlya-Lanar-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/6-Zulfiya-Ilkaeva-Instruktsiya-2023-foto-YUlya-Lanar-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/6-Zulfiya-Ilkaeva-Instruktsiya-2023-foto-YUlya-Lanar-min.jpg 1200w" data-image-name="6---Зульфия-Илькаева,-«Инструкция»,--2023-фото-Юля-Ланар-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135577 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Инструкция», 2023. Фото Юли Ланар</p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/7-Zulfiya-Ilkaeva-Traditsiya-ischeznovenij-2023-foto-Nikita-Limonov-min.jpg" data-image-id="135593" srcset="https://entermedia.io/wp-content/uploads/2024/10/7-Zulfiya-Ilkaeva-Traditsiya-ischeznovenij-2023-foto-Nikita-Limonov-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/7-Zulfiya-Ilkaeva-Traditsiya-ischeznovenij-2023-foto-Nikita-Limonov-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/7-Zulfiya-Ilkaeva-Traditsiya-ischeznovenij-2023-foto-Nikita-Limonov-min.jpg 1200w" data-image-name="7---Зульфия-Илькаева,-«Традиция-исчезновений»,--2023-фото-Никита-Лимонов-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135593 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Традиция исчезновений»,  2023. Фото Никиты Лимонова</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Расскажите, как вы пришли в искусство? </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— В школе я не думала становиться художницей. Мне нравились математика и рисование, поэтому я решила совместить эти занятия и пойти учиться на архитектора. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда окончила архитектурный университет, начала карьеру. Я строила и проектировала жилые дома, общественные здания и общественные пространства. У меня был проект с Институтом развития городов Татарстана, где мы помогали с социокультурным программированием будущих территорий в малых городах. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 2019 году мы познакомились с командой URBANTATAR, когда они организовывали свою первую экскурсию на элеватор — один из самых старых районов Набережных Челнов. Как раз в это время я писала диплом и моя работа была связана с проектированием и концепцией развития береговой линии города. Элеватор как раз находится на реке, поэтому мне было интересно там погулять. Мы с URBANTATAR поняли, что нам нравится одно и то же: мы хотим развиваться в урбанистике и помогать проводить мероприятия в Челнах. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы организовывали экскурсии по городу, собирали истории о районах, проводили фестивали. Один из них — «Мин татарча сөйләшәм», ежегодный фестиваль в день рождения Габдуллы Тукая. Процесс исследования города настолько меня вдохновил, что я решила переориентировать свою деятельность в сторону искусства. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Прервала карьеру архитектора я относительно недавно, с февраля, когда началась активная подготовка к открытию «Дебаркадера-30». Мне всегда нравилось работать архитектором, но стало не хватать времени. Нужно было выбрать: или архитектура, или «Дебаркадер-30». Я сделала выбор в пользу последнего.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я очень рада, что у меня именно такой бэкграунд, потому что мое архитектурное образование и опыт работы помогают работать с пространством и инсталляциями. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Кто или что является вашим главным источником вдохновения? </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Мой главный источник вдохновения — это жизнь: ситуации, которые происходят вокруг, и люди рядом. Я люблю работать с архивом, историей, но в последнее время стала более чувствительной к природе и исследую свои отношения с ней. Сейчас я все чаще нахожусь либо рядом с водой — а это совсем другие ощущения, — либо в лесу. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Почему именно национальная и городская идентичность стали центральными темами вашего творчества?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я уже не люблю слово «идентичность» и говорю, что работаю с городскими национальными конструктами. Идентичность — это про нахождение одинаковости, чего-то совпадающего среди людей. Это слово часто используется, как будто люди не понимают, про что оно. Социальные конструкты же существуют только благодаря тому, что их придумал человек. Группа людей согласилась с этим и решила, что они будут следовать вот этому понятию, правилу. Мне интересно узнать, почему социальные конструкты возникли и как они развиваются.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я люблю работать с публичной историей, архивами, потому что я архитектор и много изучаю урбанистику. Городские истории — это истории про людей. Например, я хочу скоро сделать работу про ГЭС. В истории города и страны строительство ГЭС обычно ассоциируется с важными директорами, инженерами, которые приняли решение и запустили двигатель. А я люблю собирать городские истории про «маленьких людей», не принижая их достоинства. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Почему интересны национальные вопросы? Это собственное любопытство и поиск, становление себя, потому что национальность — прежде всего твоя семья. Мне кажется, отношения с семьей и с собой всегда будут одними из важнейших вопросов любого человека.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Какие проекты и произведения ты делала в разные периоды своего творчества?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Важные работы были сделаны в пермской резиденции MaxArt. Там я создала проект «Инструкция», который состоит из 18 историй людей, столкнувшихся с изменением своего имени. Он начался с того, что я узнала историю своей мамы, которую зовут Зухра. Она родилась в Пермском крае в татарской деревне и потом, когда переехала в Пермь, ее звали Зоя. Из таких историй я собрала 18 плакатов. Еще на протяжении трех месяцев резиденции я вела дневник и сделала книгу — новое исследование с записями дневника и фотографиями. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Там же была инсталляция «Традиция исчезновений», где в образе татарского праздничного украшения муенса происходит смена образов татарских праздников, которые переходят в унифицированную форму. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще для меня очень важна работа про ЗЯБ (район завода ячеистых блоков в Набережных Челнах, — прим. Enter), которую я делала в «Смене» в 2022 году, когда у нас с URBANTATAR был собран архив историй об этом микрорайоне. Я сделала инсталляцию в виде дома «Калуга — КАМАЗу»: зритель мог открыть окно и послушать историю жителя ЗЯБи.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/15-Zulfiya-Ilkaeva-kuratorskaya-gruppa-Kraj-Kak-neskuchno-perejti-ploshhad-2023-foto-Anna-Marchenkova-min.jpg" data-image-id="135592" srcset="https://entermedia.io/wp-content/uploads/2024/10/15-Zulfiya-Ilkaeva-kuratorskaya-gruppa-Kraj-Kak-neskuchno-perejti-ploshhad-2023-foto-Anna-Marchenkova-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/15-Zulfiya-Ilkaeva-kuratorskaya-gruppa-Kraj-Kak-neskuchno-perejti-ploshhad-2023-foto-Anna-Marchenkova-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/15-Zulfiya-Ilkaeva-kuratorskaya-gruppa-Kraj-Kak-neskuchno-perejti-ploshhad-2023-foto-Anna-Marchenkova-min.jpg 1200w" data-image-name="15---Зульфия-Илькаева,-кураторская-группа-Край,-«Как-нескучно-перейти-площадь»,--2023-фото-Анна-Марченкова-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135592 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зульфия Илькаева, кураторская группа «Край», «Как нескучно перейти площадь»,  2023</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/13-Zulfiya-Ilkaeva-Gost-2022-foto-Katya-Kraeva-min.jpg" data-image-id="135595" srcset="https://entermedia.io/wp-content/uploads/2024/10/13-Zulfiya-Ilkaeva-Gost-2022-foto-Katya-Kraeva-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/13-Zulfiya-Ilkaeva-Gost-2022-foto-Katya-Kraeva-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/13-Zulfiya-Ilkaeva-Gost-2022-foto-Katya-Kraeva-min.jpg 1200w" data-image-name="13---Зульфия-Илькаева,-«Гость»,--2022-фото-Катя-Краева-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135595 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Гость»,  2022. Фото Кати Краевой</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Как татарская культура и история влияют на ваше творчество? </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я идентифицирую себя как челнинская и татарстанская художница. Челнинскость проявляется в интересе к исследованию истории города. Набережные Челны появились в XVII веке и сейчас празднует свое 400-летие. Людям кажется непривычной эта информация, потому что до них не донесли, что в том месте, где сейчас находятся Челны, люди проживают веками. Прежде там были несколько поселков, два из которых — Бережные Челны и Мысовые Челны, чьи жители занимались перевозками по реке. Сам город начали строить с появлением КамАЗа. Современный облик Челнов — это модернистские здания 1970-х. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если говорить про Татарстан, то я много работаю с архивами и публичной историей, все еще продолжаю ее исследовать и буду использовать в своем творчестве. Я хожу в музеи, на нетипичные экскурсии по городам, в библиотеки — и не только в открытую часть. Очень люблю личные библиотеки людей, потому что там можно встретить хорошие журналы и книги. Я просто изучаю их и читаю, нахожу факты, которые многим неизвестны.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Что, по вашему мнению, отличает татарстанскую художественную сцену от московской?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Во-первых, татарстанская художественная сцена в разы меньше, чем московская. Может быть, это помогает нам больше дружить, но маленький локальный масштаб все время заставляет тебя как будто жить по одному сценарию. А московские масштабы, конечно, помогают поработать с разными людьми.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тем не менее, возможности есть и в Татарстане, и в Москве: получить мастерские и бюджеты, сделать выставку, реализовать коллабы — это все можно везде. Отличаются ли по какой-то теме татарстанцы и Москва? Нет, мне кажется, мы живем в одном контексте. Интернет настолько стер границы, что в одной технике, в одной теме могут работать люди из Казани, Москвы, Нью-Йорка или Лондона, потому что все видят друг друга в сети и знают, кто что делает. Мир, на самом деле, стал очень глобальным — и поэтому одинаковым. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Есть ли современные художники, с которыми вы чувствуете творческую близость?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Мне нравятся подходы Таус Махачевой из Дагестана. Она много работает с темой своего народа и других народов Кавказа, с историями пропадающих дагестанских сел, а также с традициями в крупных городах. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если говорить о более «старых» авторах, которые сейчас не так активно работают, то вспоминается Тимофей Радя — екатеринбургский стрит-арт-художник. Мне импонирует его смелость в некоторых вопросах, и, прежде всего, смелость перед самим собой. И еще мне нравится, что он работает с текстом, так как для меня текст тоже очень важен. Возможно, я даже воспринимаю его больше, чем визуал.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Конечно, есть еще другие современные художники, но пока назову этих двух.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Как вы разрабатываете концепции своих проектов? Есть ли у вас определенные подходы к процессу создания?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Сначала должна возникнуть мысль, произойти триггерная ситуация. Появляется повод, начинаешь думать над тем, что нарушило твой покой. Это самый длительный процесс. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вообще, я не люблю долго хранить идеи в голове — предпочитаю разговаривать, потому что это реально работает. Бывало, закидываешь человеку удочку на определенную тему, а он тебе через две недели скидывает текст и говорит: «А помнишь, мы с тобой в очереди разговаривали? Вот это тебе будет интересно». А я думаю: «Ого, вау, а сама бы я никогда не нашла этот материал». Так что один из этапов — делиться с людьми.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">И да, все еще продолжаю изучать литературу и архивы, хожу в библиотеки, музеи. А когда наступает момент создания чего-то физического, то нахожу опен колы, предлагаю идею институциям или просто появляется повод это реализовать. Тогда уже приходится искать визуал, делать эскизы, сметы, все просчитывать, упаковывать.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Над какими новыми проектами вы работаете сейчас? </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я являюсь куратором «Дебаркадера−30» — это новая культурная площадка в Набережных Челнах, открывшаяся в апреле 2024 года. В конце прошлого года «Дебаркадер» выкупил челнинский меценат Тагир Сунгатуллин, который много помогает различным социальным проектам в Челнах. Он — настоящий любитель города, фанат. Ему дорого все, что тут есть, а «Дебаркадер» — большая часть истории Челнов. Тагиру захотелось его сохранить как здание, как пространство. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Дебаркадер-30» — важная точка для того, чтобы искусство Татарстана и Прикамья развивалось не только в столице. Чем больше разных авторов, тем активнее происходит развитие. Чтобы помочь развитию молодых художников Челнах, после первой выставки мы запустили лабораторию и отобрали 10 человек. Мы сделали ее, потому что понимали, что для команды нужны единомышленники, и хотели создать городское коммьюнити художников. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В рамках лаборатории пару раз в неделю на «Дебаркадере» проходили встречи. Художники слушали лекции, которые проводила я или приглашенные эксперты. Мы много дискутировали об их идеях, общались, пробовали. И так через месяц у нас появилась выставка «Новый курс».</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera2-min.jpg" data-image-id="135588" srcset="https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera2-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera2-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera2-min.jpg 1200w" data-image-name="фото-дебаркадера2-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135588 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Здание «Дебаркадера-30» в Набережных Челнах</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera4-min.jpg" data-image-id="135590" srcset="https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera4-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera4-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/foto-debarkadera4-min.jpg 1200w" data-image-name="фото-дебаркадера4-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135590 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Спектакль в здании «Дебаркадера-30» в Набережных Челнах</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Какие ключевые уроки вы извлекли из работы с молодыми авторами в рамках лаборатории?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Ключевой урок — художники есть, и им нужно помогать реализовываться. Нам повезло, что в городе есть хорошая база в виде художественных школ и колледжей искусств. Как институция «Дебаркадер-30» должен помочь ребятам развиваться уже после выпуска, предоставлять возможности и давать площадку. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я поняла, что важно не ограничивать художников, не «лепить» их под нужды институции и, надеюсь, мне это удалось. Это результат моих долгих размышлений после дискуссий с художниками, разговора с другими кураторами и прочтения книг, в которых я искала, в чем же заключается роль куратора. Я нашла ее в том, чтобы помогать художнику развивать идею и организовывать коммуникацию с институцией, где он мог бы сделать хорошую выставку.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Художники должны развиваться самостоятельно, при этом у нас с ними могут быть общие проекты, где я совмещаю роль художника и куратора. Например, в прошлом году на выставке «Свое и другое» на театральной площадке MOÑ в Национальной библиотеке РТ у меня было две роли: мы вместе с пятью художниками исследовали, что считается национальным искусством, а что — нет, и кто это решает. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда я была в резиденции «Смены» в Казани, то старалась не заниматься делами «Дебаркадера» и позволяла себе быть куратором два часа в день, чтобы не утонуть в задачах и получить удовольствие именно от художественного процесса. Это было важно, потому что совмещать две роли действительно непросто, ведь у куратора очень много организаторских и продюсерских задач. Моя текущая задача — найти баланс между ролями. Возможно, я буду один месяц работать как художник, а следующий — как куратор.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/3-Zulfiya-Ilkaeva-Karurman.-Gerbarij-56-2024-min.jpg" data-image-id="135580" srcset="https://entermedia.io/wp-content/uploads/2024/10/3-Zulfiya-Ilkaeva-Karurman.-Gerbarij-56-2024-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/3-Zulfiya-Ilkaeva-Karurman.-Gerbarij-56-2024-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/3-Zulfiya-Ilkaeva-Karurman.-Gerbarij-56-2024-min.jpg 1200w" data-image-name="3-Zulfiya-Ilkaeva-Karurman.-Gerbarij-56-2024-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135580 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Карурман. Гербарий», 2024</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— В рамках резиденции «Смены» и фонда поддержки современного искусства «Сфера» вы работаете над новым проектом «Карурман». Как вы пришли к теме исследования татарских растений и дремучего леса?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я уже не помню, когда узнала о карурмане впервые. Наверное, еще в детстве, когда родители читали мне сказки — многие эпизоды из татарского фольклора происходят темном дремучем лесу. В последнее время образ карурмана стал попадаться мне очень часто, и я подумала: раз это происходит, нужно начать работать.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В начале XX века карурман получил развитие в песнях и произведениях и стал иллюстрировать испытание перед народом, которое нужно проходить вместе. Вдобавок он похож на мое состояние, связанное с поиском собственной роли, и на состояние людей вокруг. Но еще мне нравится, что карурман — это такое место, которое ты исследуешь один. Оно появляется и растет внутри из множества сбивчивых мыслей. Думаю, у художников всегда есть внутренние страдания, и именно мои мне нравится «упаковывать» в этот черный лес.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Что вы же успели сделать и что планируете создать дальше?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Недавно я сделала серию коллективных практик и подготовила по ним документацию. Получился такой зин «Карурман практика 1-3». В сентябре в резиденции «Смены» и «Сферы» я провела три разные прогулки по лесу в трех разных состояниях и с тремя разными компаниями. Первая прошла дистанционно: мы с художницей из Нижнего Новгорода были в двух разных лесах и общались через сообщения и звонки. Вторая прогулка была с казанскими художниками, где мы объединялись и разъединялись. А третья — с татарской поэтессой, с которой мы много говорили на татарском и разбирали литературу.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В ходе резиденции я создала серию живописи с гербарием из черных и татарских растений. Хочу, чтобы в дальнейшем это выросло в серию объектов, и еще хочу выполнить видеоработу.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Лада Поздеева<br><strong class="stk-reset">Фото:</strong> предоставлены Зульфией Илькаевой</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stk-WCDt" class="" media="all">[data-stk-css="stk-WCDt"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F&title=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве&description=&image=https://entermedia.io/wp-content/uploads/2024/10/prevyu1-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F&text=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Художница Зульфия Илькаева — о городских исследованиях и национальных темах в искусстве&related=truemisha&hashtags=Артгид&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-zulfiya-ilkaeva-o-gorodskih-issledovaniyah-i-natsionalnyh-temah-v-iskusstve%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501142'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

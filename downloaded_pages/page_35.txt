@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/prev1-min-2.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,548] -->
+<link rel="canonical" href="https://entermedia.io/food/prostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов&raquo;" href="https://entermedia.io/food/prostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501099&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501099&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501099&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Оператор карт «Мир» планирует запустить оплату через iPhone' href='https://entermedia.io/news/operator-kart-mir-planiruet-zapustit-oplatu-cherez-iphone/' />
+<link rel='next' title='В «БИЗONе» откроется выставка «Татарская перспектива»' href='https://entermedia.io/news/v-bizone-otkroetsya-vystavka-tatarskaya-perspektiva/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-136429 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/prev1-min-2.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2020/09/2020-09-25-17.12.52-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Мария Наумова</div>
+          <div class="date-publish">17 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F&title=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов&description=&image=https://entermedia.io/wp-content/uploads/2024/10/prev1-min-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="10" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F&text=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="23" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">23</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="136429">
+    <div id="post-136429" class="post-136429 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-novoe-mesto">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:136452,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136453,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136450,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136454,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136442,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136448,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136446,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136449,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136440,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136444,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136441,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136447,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136451,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136435,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136439,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136438,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136436,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136445,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136443,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136437,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136434,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136433,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136432,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На Касаткина, 23 в техническом режиме открылся The Revel — проект основателя «Ботаника Coffee Roasters» Игоря Зяблова и первая попытка его команды выйти за пределы кофейной истории. По задумке стильное минималистичное заведение должно стать для казанцев комфортным местом для встреч, где понятную еду и напитки подают без лишнего пафоса.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Журналистка Enter Мария Наумова побывала в новом месте и поговорила с арт-директором Олей Солодянкиной. Рассказываем, почему у The Revel нет определенного формата, какая у проекта концепция и что можно будет попробовать после официального открытия.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l20-min.jpg" data-image-id="136450" srcset="https://entermedia.io/wp-content/uploads/2024/10/l20-min-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/10/l20-min-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/10/l20-min.jpg 1200w" data-image-name="л20-min.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset wp-image-136450 img-responsive"></div></figure></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l22-min.jpg" data-image-id="136452" srcset="https://entermedia.io/wp-content/uploads/2024/10/l22-min-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/10/l22-min-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/10/l22-min.jpg 1200w" data-image-name="л22-min.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset wp-image-136452 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Предыстория и концепция </h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Концепцию заведения сформировало его название: идея о приятном времяпрепровождении родилась из лаконичного слова revel, которое в переводе с английского означает «наслаждение» или «кутеж». По смыслу нейминг сразу одобрили, но к позиционированию и фирменному стилю сначала были вопросы. Они отпали, когда дизайнер Оля Солодянкина набросала первые варианты логотипа и цветового оформления. Тогда стало понятно, что дизайн идеально дополняет название, и все срослось.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">От задумки до реализации команду отделяли поиски помещения. В итоге пространство нашли в новом ЖК Altura недалеко от Нацбиблиотеки. По словам Оли, изначально команда не задумывалась о потенциале места, но за полгода подготовки к открытию успела присмотреться к улице и ее обитателям и пришла к выводу, что скоро локация может стать новым центром притяжения. Следуя концепции универсального комфортного места встречи, основатели решили не определять формат The Revel и назвали заведение «пространством» вместо «кафе», «ресторана» или «бистро». Как заверяет команда, в нем будут приятно чувствовать себя самые разные гости — будь то шумные компании, пары на свидании или любители завтракать вне дома.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><h5 class="stk-theme_29689__mb_0 stk-reset wp-exclude-emoji stk-theme_29689__style_font_style-1490606702672" data-ce-tag="paragraph">The Revel</h5><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Адрес:</strong><br data-gtm-vis-has-fired10171822_255="1">ул. Касаткина, 23</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Режим работы:</strong><br data-gtm-vis-has-fired10171822_255="1">Ежедневно, 9:00 – 16:00 (после официального открытия — ежедневно, 8:00 – 21:00)</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Средний чек:</strong><br>800₽</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l11-min.jpg" data-image-id="136447" srcset="https://entermedia.io/wp-content/uploads/2024/10/l11-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l11-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l11-min.jpg 1200w" data-image-name="л11-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136447 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l12-min.jpg" data-image-id="136441" srcset="https://entermedia.io/wp-content/uploads/2024/10/l12-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l12-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l12-min.jpg 1200w" data-image-name="л12-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136441 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk15fPn" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Olga.png" data-image-id="136432" data-image-name="Ольга.png" class="stk-image stk-reset  wp-image-136432 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Olga-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Olga.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оля Солодянкина</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">дизайнер, арт-директор The Revel</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы долго думали и решили, что никак не будем себя позиционировать. Мы просто заведение или пространство от людей для людей, которым здесь будет комфортно, уютно и тепло.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">The Revel — это про тихий гедонизм. В отличие от ресторанов, в которых гостей смущают излишним вниманием, мы подходим ко всему умеренно. Это касается и общения с посетителями, и лаконичного дизайна, и эргономики в деталях. Все здесь предполагает заботу о тебе.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l15-min.jpg" data-image-id="136449" srcset="https://entermedia.io/wp-content/uploads/2024/10/l15-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l15-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l15-min.jpg 1200w" data-image-name="л15-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136449 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l17-min.jpg" data-image-id="136448" srcset="https://entermedia.io/wp-content/uploads/2024/10/l17-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l17-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l17-min.jpg 1200w" data-image-name="л17-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136448 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l14-min.jpg" data-image-id="136440" srcset="https://entermedia.io/wp-content/uploads/2024/10/l14-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l14-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l14-min.jpg 1200w" data-image-name="л14-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136440 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерьер и эстетика</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерьер The Revel разработала Davydov Studio, которую казанцы могут знать по дизайн-проектам ресторана New Asia и бистро Industry. Как рассказала Оля, минималистичное пространство с акцентными красными элементами должно подталкивать гостей к размышлению о том, что для них значит наслаждаться моментом. Красный выбран не случайно: по мнению арт-директора, этот цвет выглядит одновременно просто и кричаще, а еще хорошо сочетается и с бетоном, и с деревом. Поэтому на столах разместили живые алые розы, таким же оттенком отметили колонну в центре зала и подобрали скатерти с красной вышивкой. В будущем команда разбавит пространство другим декором: например, в зале появятся шторы, а бар украсят букетами из овощей — пробные варианты уже сделали из моркови.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Всего в заведении 40 посадочных мест: компактные столы и две небольшие диванные зоны. Кухню сделали закрытой, а бар в стиле небольших европейских гостиниц, наоборот, разместили прямо рядом основной зоной, чтобы стереть границу между гостями и сотрудниками и избавиться от лишней церемониальности. В перспективе пространство может трансформироваться под небольшие вечеринки, тематические бранчи и гастрособытия с винилом. Интерьер постарались сделать нейтральным в том числе для того, чтобы он органично смотрелся в любое время дня и подходил под любое настроение посетителей.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l1-min.jpg" data-image-id="136433" srcset="https://entermedia.io/wp-content/uploads/2024/10/l1-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l1-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l1-min.jpg 1200w" data-image-name="л1-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136433 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l3-min.jpg" data-image-id="136437" srcset="https://entermedia.io/wp-content/uploads/2024/10/l3-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l3-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l3-min.jpg 1200w" data-image-name="л3-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136437 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еда и напитки</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">При разработке блюд и напитков придерживались тех же принципов простоты. В основном это европейская кухня и понятные позиции, в которых объединены интересные сложные ингредиенты. Меню состоит из двух частей: первая — внушительный список завтраков по разделам «Каши», «Яйца», «Творог» и «Блины»; вторая — основная с закусками, салатами, супами и горячим. Пока на кухне отрабатывают все детали, в заведении подают только утренние позиции. Из них команда советует попробовать «идеальные блинчики» с вяленой вишней, утопающие в соусе из маскарпоне и кофе и напоминающие тирамису. Или французский омлет, вкус которого разнообразили спаржей и обилием пармезана.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Основные блюда в The Revel представят до конца октября. В меню заявлены салат с тунцом и вешенками, крем из печеных перцев с орехами, индийский гороховый суп, кальмар с цуккини сабайоном, филе миньон с ромеско и жареными томатами и многое другое. Когда процессы встанут на рельсы, меню начнут регулярно обновлять сезонными позициями и спешалами.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В карте нового заведения акцент сделан на китайском чае. Белый, зеленый, красный, гречишный — и это далеко не все представленные виды. Плюс есть напитки в авторском прочтении, вроде игристого чая с соусом османтуса. Про кофе, конечно, тоже не забыли — его готовят из зерен, которые Игорь Зяблов недавно сам отферментировал и привез из Колумбии. После официального открытия гостям будут предлагать около 10 этикеток вина и авторские коктейли — например, татарскую вариацию джин-физа.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><p class="stk-theme_29689__style_small_text stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что заказывать:</strong></p><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Картофельные драники с гуакамоле — 410₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Блины с соусом из маскарпоне и кофе — 440₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Гречневая каша на топленом молоке — 540₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Омлет со спаржей — 500₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Игристый чай — 290₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эйр маття — 290₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кортадо — 200₽</p></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l6-min.jpg" data-image-id="136436" srcset="https://entermedia.io/wp-content/uploads/2024/10/l6-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l6-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l6-min.jpg 1200w" data-image-name="л6-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136436 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l4-min.jpg" data-image-id="136443" srcset="https://entermedia.io/wp-content/uploads/2024/10/l4-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l4-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l4-min.jpg 1200w" data-image-name="л4-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136443 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/l2-min.jpg" data-image-id="136434" srcset="https://entermedia.io/wp-content/uploads/2024/10/l2-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/l2-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/l2-min.jpg 1200w" data-image-name="л2-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-136434 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkXxIgW" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Olga.png" data-image-id="136432" data-image-name="Ольга.png" class="stk-image stk-reset  wp-image-136432 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Olga-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Olga.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оля Солодянкина</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">дизайнер, арт-директор The Revel</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы отработать внутренние сложности, первые дни мы были открыты в техническом режиме и предлагали все блюда по себестоимости. Таким образом проверили, как все работает, успевают ли повара отдавать еду, насколько хорошо она выглядит и так далее.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас есть опыт «Ботаники», но все-таки запуск кофейни кажется легче. Здесь мы начинали все с чистого листа: полностью собирали и обучали новую команду, разбирались в незнакомом уровне сервиса и осваивали другие подходы к составлению меню.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Мария Наумова<br><strong class="stk-reset">Фото:</strong> Саша Копылов</p></div></div><style data-stk-css="stkXxIgW" class="" media="all">[data-stk-css="stkXxIgW"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk15fPn" class="" media="all">[data-stk-css="stk15fPn"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F&title=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов&description=&image=https://entermedia.io/wp-content/uploads/2024/10/prev1-min-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="10" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F&text=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Пространство The Revel — тихий гедонизм и простые блюда из сложных компонентов&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fprostranstvo-the-revel-tihij-gedonizm-i-prostye-blyuda-iz-slozhnyh-komponentov%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="23" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">23</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501099'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

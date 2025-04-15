@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>В Новом Кокшане реконструируют заводскую школу. Почему это важно? | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2025/02/1-Prevyu-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,535] -->
+<link rel="canonical" href="https://entermedia.io/city/v-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;В Новом Кокшане реконструируют заводскую школу. Почему это важно?&raquo;" href="https://entermedia.io/city/v-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501050&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501050&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501050&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Stand Up Club Kazan пройдет поэтический слэм' href='https://entermedia.io/news/v-stand-up-club-kazan-projdet-poeticheskij-slem/' />
+<link rel='next' title='В казанском «Эрмитаже» пройдет цикл лекций об импрессионистах и постимпрессионистах' href='https://entermedia.io/news/v-kazanskom-ermitazhe-projdet-tsikl-lektsij-ob-impressionistah-i-postimpressionistah/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-141536 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-Prevyu-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>В Новом Кокшане реконструируют заводскую школу. Почему это важно? <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">19 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F&title=В Новом Кокшане реконструируют заводскую школу. Почему это важно?&description=&image=https://entermedia.io/wp-content/uploads/2025/02/1-Prevyu-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F&text=В Новом Кокшане реконструируют заводскую школу. Почему это важно?" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=В Новом Кокшане реконструируют заводскую школу. Почему это важно?&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="141536">
+    <div id="post-141536" class="post-141536 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:141543,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141541,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141542,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141539,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141540,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141538,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141537,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В начале февраля глава Менделеевского района Радмир Беляев поделился планами на реставрацию заводской школы в Новом Кокшане. Это — один из памятников деревянного зодчества XIX века, подобных которому нет нигде в республике. С годами школа пришла в аварийное состояние: сначала активисты пробовали сохранить ее своими силами, а теперь за реставрацию взялись региональные власти.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter поговорила об особенностях проекта с инициатором реставрации — помощником раиса РТ Олесей Балтусовой. Рассказываем, что связывает школу со знаменитым Домом Ушковой в Казани, какая особенность досталось зданию благодаря идее Менделеева и что будет внутри после окончания работ. А еще делимся новыми рендерами!</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/1-6-1.jpg" data-image-id="141537" srcset="https://entermedia.io/wp-content/uploads/2025/02/1-6-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/1-6-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/1-6-1.jpg 2400w" data-image-name="1 (6).jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141537 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наследие Ушковых</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">История села Новый Кокшан тесно связана с семейной династией Ушковых. В 1840-х Яков Ушков — прадед Алексея Ушкова, который подарил своей супруге Зинаиде тот самый особняк на Кремлевской, — скупил земли князей Ямбулатовых в районе Нижнего Кокшана. Спустя несколько лет семья владела 1,5 тысячами десятин земли с ценным хвойным лесом — Кокшанской лесной дачей. После смерти Якова наследство перенял его сын Капитон, купец первой гильдии и активный предприниматель.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По делам Капитон Яковлевич часто бывал в Москве. Там от братьев Малютиных, которые владели химическим заводом по производству москательных товаров, он узнал, что приобретенный английский хромпик вырабатывается из российского сырья. Осознав прибыльность, купец решает вместе с Малютиными открыть свой завод на унаследованных землях. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первую продукцию Кокшанский хромпиковый завод выдал в 1850 году и постепенно стал очень влиятельным — по объемам производства он считался первым в Европе. Позже братья Капитон и Дмитрий Ушковы решили расширить свое влияние и построили в Кокшанской лесной даче стекольный завод. К концу века там же вырос завод керамических и кислотоупорных изделий и шамотного кирпича. Это предприятие Ушковым подсказал открыть химик Дмитрий Менделеев, который тесно сотрудничал с предпринимателями и ставил на заводах свои эксперименты. Со временем там стали выпускать знаменитую особопрочную метлахскую плитку.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме производственных дел Ушковы занимались благотворительностью и развитием инфраструктуры для рабочих и их семей — в окрестных деревнях Елабужского уезда они строили школы и больницы. Ремесленное училище при хромпиковом заводе в Новом Кокшане тоже появилась благодаря ним.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/5-bez-tsvetnyh-vstavok.jpg" data-image-id="141541" srcset="https://entermedia.io/wp-content/uploads/2025/02/5-bez-tsvetnyh-vstavok-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/5-bez-tsvetnyh-vstavok-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/5-bez-tsvetnyh-vstavok.jpg 2400w" data-image-name="5 без цветных вставок.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141541 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По современным представлениям, училище было начальной школой со смешанным классом. С 1870-х годов в здании учились дети заводских служащих, мастеровых и рабочих в возрасте от 7 до 13 лет. В 1890-е занятия там посещали в среднем около 70 детей — русские и татары.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Документальных источников об истории здания не сохранилось, но по устным данным известно, что училище работало до самой революции. Со сменой власти его переформатировали в поселковый клуб — так называемую избу-читальню, — а школу открыли в другом месте. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сейчас внутри официально размещается сельский дом культуры. Хотя состояние здание критично и кровля находится в аварийном состоянии, местные жители принимают там гостей и рассказывают историю села. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Деревянная жемчужина</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Г-образное здание ремесленного училища из сосновых бревен уникально для всего Татарстана. Оно строилось по индивидуальному проекту неизвестного автора и считается самым старым в Новом Кокшане. По стилю здание относят к провинциальной ветви модерна с элементами эклектики.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Особенным училище делает мезонин с резным орнаментом и окнами с треугольным завершением. Его венчает покрытый металлическим ромбовидным лемехом двухъярусный «шатер» с высоким шпилем. Рядом со зданием расположена беседка, чьи стены украшает пропильная резьба растительного орнамента. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkZSh0Z" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova.png" data-image-id="141543" data-image-name="1 Олеся Балтусова.png" class="stk-image stk-reset  wp-image-141543 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova-300x300.png 300w, https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Олеся Балтусова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">помощник раиса РТ </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще это единственное в регионе здание с достаточно хорошо сохранившейся ромбовидной Ушковской метлахской плиткой, выкладка которой создает эффект 3D. Сама плитка производилась на местном заводе. Известно, что в целях производства собственной керамики для заводских нужд в Кокшан был приглашен австрийский инженер, знаток керамики Адольф Бетгер. Качество кокшанской плитки было высоко оценено на российских и международных промышленных выставках. Плитка использовалась при строительстве различных общественных, культурных, промышленных зданий в Елабуге, Ижевске, Казани, Москве, Перми и других городах. <br></p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерес к училищу возник не вдруг. Исследование всего деревянного зодчества на территории Татарстана специалисты регионального отделения общества охраны памятников особенно активно вели с 2011 года. В поездках по региону они выявляли ценные объекты и задавали им охранный статус. Так, например, в списке объектов наследия оказались дом художника Константина Васильева в Васильево, церкви и мечети в Камском Устье и на Высокой горе.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Деньги на реставрацию училища нашлись только 2 года назад. Когда сумму утвердили, специалисты провели экспертизу, а Олеся Балтусова презентовала раису РТ проект развития территории. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk_rmTQ" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova.png" data-image-id="141543" data-image-name="1 Олеся Балтусова.png" class="stk-image stk-reset  wp-image-141543 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova-300x300.png 300w, https://entermedia.io/wp-content/uploads/2025/02/1-Olesya-Baltusova.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Олеся Балтусова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">помощник раиса РТ </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одновременно с этим шел проект реставрации музея в Менделеевске. В целом презентация прошла успешно: сначала раис поддержал реставрацию Менделеевского музея, а затем и Кокшанской школы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Новый Кокшан всегда привлекал внимание туристов и любителей истории и краеведения. А главное, здание нужно людям: клуб живет, люди в нем занимаются и не бросают его на произвол судьбы. Я это увидела при посещении в 2023 году. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Радует, что в последнее время район активно занимается увеличением туристического потока — за три года им удалось увеличить поток в четыре раза, с 15 000 до 60 000 туристов в год. Вдобавок разработан туристический маршрут «Колыбель химической промышленности»: Новый Кокшан и все объекты на его территории являются неотъемлемой его частью.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/2-4-1.jpg" data-image-id="141540" srcset="https://entermedia.io/wp-content/uploads/2025/02/2-4-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/2-4-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/2-4-1.jpg 2400w" data-image-name="2 (4).jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141540 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Новая жизнь</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реставрация ремесленного училища оценивается в 43 миллиона рублей. Все деньги выделяют из бюджета Татарстана.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По задумке, здание сохранит функцию сельского клуба и приобретет музейную. Гости будут заходить внутрь через тамбур, а оттуда попадать в вестибюль или просторный зрительный зал со сценой на платформе. В одном из помещений планируют открыть экспозицию, посвященную истории Кокшанского завода. Помимо витрин с документами посетители смогут увидеть историческую метлахскую плитку — покрытие бережно отреставрируют по всему зданию. Главным материалом отделки стен и потолков станет натуральное окрашенное дерево. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/3-7.jpg" data-image-id="141539" srcset="https://entermedia.io/wp-content/uploads/2025/02/3-7-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/3-7-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/3-7.jpg 2400w" data-image-name="3 (7).jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141539 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="6" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/4-3.jpg" data-image-id="141542" srcset="https://entermedia.io/wp-content/uploads/2025/02/4-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/4-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/4-3.jpg 2400w" data-image-name="4.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141542 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Много работы предстоит и с фасадом. Согласно схеме, реставраторы восстановят крышу, входную группу с крыльцом, часть окон, мезонин и тот самый шатер. В рамках приспособления здания проектом предусмотрены создание дополнительной лестницы к торцу и установка современной системы водоотведения.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сколько времени потребует реставрация, пока неизвестно. Сроки станут понятны по итогам разработки технического задания и проведения торгов.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Обложка:</strong> Марина Никулина на основе фото из блога <a class="stk-reset" href="https://wiizh.livejournal.com/" target="_blank">wiizh</a><br><strong class="stk-reset">Рендеры:</strong> Татинвестгражданпроект / предоставлены Олесей Балтусовой<br><strong class="stk-reset">Фото Балтусовой:</strong> официальный сайт раиса РТ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stk_rmTQ" class="" media="all">[data-stk-css="stk_rmTQ"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkZSh0Z" class="" media="all">[data-stk-css="stkZSh0Z"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F&title=В Новом Кокшане реконструируют заводскую школу. Почему это важно?&description=&image=https://entermedia.io/wp-content/uploads/2025/02/1-Prevyu-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F&text=В Новом Кокшане реконструируют заводскую школу. Почему это важно?" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=В Новом Кокшане реконструируют заводскую школу. Почему это важно?&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fv-novom-kokshane-rekonstruiruyut-zavodskuyu-shkolu-pochemu-eto-vazhno%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501050'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

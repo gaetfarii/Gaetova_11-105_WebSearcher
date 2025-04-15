@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Новые кураторы, направления и фестиваль: Как изменился RE&#039;ACTOR и что представит программа в этом году | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/06/00-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,572] -->
+<link rel="canonical" href="https://entermedia.io/people/novye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году&raquo;" href="https://entermedia.io/people/novye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501153&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501153&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501153&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Горкинско-Ометьевском лесу организуют детскую театральную лабораторию' href='https://entermedia.io/news/v-gorkinsko-ometevskom-lesu-organizuyut-detskuyu-teatralnuyu-laboratoriyu/' />
+<link rel='next' title='В Татарстане одобрили законопроект об ограничении продажи алкоголя' href='https://entermedia.io/news/v-tatarstane-odobrili-zakonoproekt-ob-ogranichenii-prodazhi-alkogolya/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-130591 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/06/00-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2021/12/IMG_5123-96x96.png" class="img-responsive async"></div>
+          <div class="name-author">Кристина Лешкова</div>
+          <div class="date-publish">20 июня</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F&title=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году&description=&image=https://entermedia.io/wp-content/uploads/2024/06/00-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F&text=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="49" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">49</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="130591">
+    <div id="post-130591" class="post-130591 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:130594,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:130595,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:130593,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:130592,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:130599,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">RE’ACTOR — творческое комьюнити, буквально создающее молодых креаторов в Татарстане. Ежегодно участники программы проходят обучение от экспертов креативной индустрии и реализуют проекты, влияющие на будущее сферы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter поговорила с Кадрией Бугровой, руководителем арт-резиденции RE’ACTOR. Рассказываем, почему RE’ACTOR — больше, чем просто программа поддержки, как команда меняет проект в этом году правда ли, что принять участие в нем может каждый творческий человек.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/01.jpg" data-image-id="130593" srcset="https://entermedia.io/wp-content/uploads/2024/06/01-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/01-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/01.jpg 1200w" data-image-name="01.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-130593 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Образовательная программа, работа с кураторами и продюсирование: что такое RE’ACTOR</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">RE’ACTOR стартовал в 2021 году как программа поддержки молодых креаторов и ключевая площадка для реализации их проектов. За три года существования команда неоднократно трансформировалась, как и сам проект. Неизменным оставалось только одно — помощь творческим деятелям в поиске себя и своей ниши в индустрии.  </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkQEQsq" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1.png" data-image-id="130599" data-image-name="Без имени-2 (1).png" class="stk-image stk-reset  wp-image-130599 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кадрия Бугрова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">руководитель арт-резиденции RE’ACTOR</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы подбираем ребят, которые хотят развиваться и горят своим творчеством. И чаще всего бывает, что креаторы — самоучки, и им не хватает теоретических и практических знаний. Поэтому мы и проводим образовательную программу, где глубже рассказываем об их направлениях. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Образовательная программа бесплатная, но не все доходят до конца. А те, кто проходит итоговый отбор, получают полный пакет поддержки в разных сферах: финансовая поддержка, поддержка с размещением, позиционированием и текстами. Тут не просто денежное вознаграждение, а полное сопровождение.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Всего обычно для реализации своих проектов создается четыре направления: от музыки до декоративно-прикладного искусства. У каждого направления есть кураторы — это партнеры и друзья арт-резиденции RE’ACTOR, заинтересованные в развитии креативной индустрии. Процесс подготовки проектов сугубо индивидуален, так как это зависит от особенностей самих направлений и методов работы кураторов. Однако путь обучение у каждого участника — похожий.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первым этапом становится образовательная программа с приглашенными экспертами. После нее резиденты выезжают на творческий глэмпинг, где знакомятся ближе между собой и разрабатывают будущие проекты. Далее всем дается месяц на его реализацию идеи, которую они презентуют на масштабном фестивале «Город — RE’ACTOR». После финальной выставки сотрудничество с резиденцией не заканчивается. Самым перспективным ребятам RE’ACTOR предлагает дальнейшую поддержку в продвижении их проектов. Но это совсем другая история.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/2-13.jpg" data-image-id="130595" srcset="https://entermedia.io/wp-content/uploads/2024/06/2-13-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/2-13-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/2-13.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-130595 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фестиваль, длиною в месяц, и новые направления программы поддержки: как изменится RE’ACTOR в этом году</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сегодня RE’ACTOR проводит четвертую программу поддержки. По условиям участие ничего не поменялось —  подать заявку  до 30 июня может любой творческий деятель от 18 до 35 лет. Однако особое отличие этого года — новые лаборатории:</p><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item"><strong class="stk-reset">Документальное кино. </strong>Ребят на направлении ждут лекции по предпродакшену, продакшену и постпродакшену, а также финальному показу. В конечном итоге у резидентов должен быть готов документальный фильм. Куратор направления — Дидар Оразов, режиссер-документалист, основатель продюсерского центра документалистики Gorizont films.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item"><strong class="stk-reset">Современное искусство. </strong>Резиденты получат новые знания о применении ИИ в искусстве, станут участниками групповой выставки и в конечном итоге создадут свой предмет искусства. Кураторы направления — Катерина Конюхова и Настя Мороз, казанские художницы, основатели арт-группы «Замороженная конина».</li><li class="stk-reset stk-list-item" data-ce-tag="list-item"><strong class="stk-reset">Искусство перформанса.</strong> Это лаборатория, которая даст возможность каждому участнику погрузиться в атмосферу перформанса и изучить теоретические и практические особенности жанра. Кураторы направления — Ангелина Мигранова и Родион Сабиров, основатели арт-группы ANGROD.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item"><strong class="stk-reset">Предметный дизайн.</strong> В рамках направления резиденты научатся создавать предметы интерьера, основной их целью будет разработка и реализации мебели для будущего пространства ДК Химиков. Кураторы — Константин Максимов и Александр Николаев из студии предметного дизайна Qullar.</li></ul></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkPhE1W" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1.png" data-image-id="130599" data-image-name="Без имени-2 (1).png" class="stk-image stk-reset  wp-image-130599 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/06/Bez-imeni-2-1.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кадрия Бугрова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">руководитель арт-резиденции RE’ACTOR</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это четвертый год, когда мы запускаем программу, и наш путь я бы определила как вечный эксперимент поиска и исследований. В 2021 году мы набивали первые шишки и все делали сами. Со второго года у нас появились кураторы направлений. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если смотреть на наш путь в общем разрезе, можно сказать, что в первом году у нас получилось создать комьюнити, но не получилось дать глубину знаний, во второй раз было наоборот, а вот в последние два года мы наконец достигли идеального баланса. Но нет предела совершенству.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/3-13.jpg" data-image-id="130594" srcset="https://entermedia.io/wp-content/uploads/2024/06/3-13-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/3-13-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/3-13.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-130594 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще одно изменение, пришедшее из 2023 года — участие в онлайн-формате. До этого RE’ACTOR был нацелен только на креаторов из Казани и ближайших территорий, но времена меняются — сейчас программу можно пройти дистанционно: два направления будут проходить в офлайн-формате, а два — в онлайн. Изменения ждет и фестиваль — в этом году он будет длиться не два дня (как обычно), а целый месяц. Гостей ждет итоговая выставка работ резидентов, параллельные мероприятия, а также образовательный модуль с приглашенными спикерами.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В этому году команда RE’ACTOR также развивает и продюсерский центр. Например, сейчас ребята находятся в музыкальном туре вместе с локальными артистами, которые принимали участие в программе. Команда организовывает концерты в республике и повышает медийное присутствие артистов, напрямую влияя на их популярность. Кроме музыкального направления RE’ACTOR планирует продвигать проекты и других резидентов: Анастасия Ивашкевич «Кино, что доктор прописал», артист МАЙКРАЙЗ, Зарина Хусаинова и ее бренд тафтовых ковров KOVERLAR, Регина Давлетова с сайтом <a href="http://tatarpeople.png/" target="_blank" class="stk-reset">tatarpeople.png</a>, апсайкл-коллекцию Алсу Валиуллиной и многое другое.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Кристина Лешкова<br><strong class="stk-reset">Изображение:</strong> aimiumiu</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stkPhE1W" class="" media="all">[data-stk-css="stkPhE1W"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkQEQsq" class="" media="all">[data-stk-css="stkQEQsq"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F&title=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году&description=&image=https://entermedia.io/wp-content/uploads/2024/06/00-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F&text=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Новые кураторы, направления и фестиваль: Как изменился RE’ACTOR и что представит программа в этом году&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnovye-kuratory-napravleniya-i-festival-kak-izmenilsya-re-actor-i-chto-predstavit-programma-v-etom-godu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="49" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">49</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501153'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

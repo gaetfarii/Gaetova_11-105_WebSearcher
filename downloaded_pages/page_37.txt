@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/12-2.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,559] -->
+<link rel="canonical" href="https://entermedia.io/food/kak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок&raquo;" href="https://entermedia.io/food/kak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501102&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501102&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501102&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Цифра дня: Сколько электромобилей числится в Казани' href='https://entermedia.io/news/tsifra-dnya-skolko-elektromobilej-chislitsya-v-kazani/' />
+<link rel='next' title='У бывшего здания ветеринарного института демонтируют и восстановят два этажа' href='https://entermedia.io/news/u-byvshego-zdaniya-veterinarnogo-instituta-demontiruyut-i-vosstanovyat-dva-etazha/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-135930 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/12-2.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">9 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F&title=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок&description=&image=https://entermedia.io/wp-content/uploads/2024/10/12-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F&text=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="2" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="135930">
+    <div id="post-135930" class="post-135930 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:135950,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135948,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135944,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135945,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135949,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135952,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135946,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135947,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135951,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135942,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135943,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135941,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135934,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135933,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135932,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:&quot;AuxCYBvG_VZwj1UJQQ8kt&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Московский рынок готовится к обновлению. В ближайшие месяцы здесь начнется реализация новых концепций, которые станут частью городской культуры и торговли. Чтобы обсудить будущее этого пространства, редакция Enter вместе с командой рынка организовала дискуссию «Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок» в рамках программы <a href="https://t.me/city_moderators" target="_blank" class="stk-reset">«Городские модераторы»</a>.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Читайте, почему городу важна рыночная культура, зачем рестораторы ездят в экспедиции по миру, сколько торговых мест откроется на Московском и как можно порекомендовать арендаторов для обновленного места. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/7-1.jpg" data-image-id="135952" srcset="https://entermedia.io/wp-content/uploads/2024/10/7-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/7-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/7-1.jpg 1200w" data-image-name="7.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135952 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Слева направо:</strong> модератор Сергей Магданов, спикеры Ольга Кукоба, Константин Моисеев, Михаил Шарипов, Альфрид Бустанов, Рустам Рахимов и Табрис Яруллин</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как и почему меняется гастрономический ландшафт Казани</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В последние годы Казань активно привлекает туристов, и это оказывает влияние на местную гастрономическую культуру. Владельцы ресторанов осознают, что разнообразие и качество предлагаемых блюд становятся решающими факторами для привлечения как приезжих, так и местных жителей. Многие заведения адаптируют свои меню, переосмысляют традиционные татарские блюда и добавляют элементы кухонь стран мира. Помимо ресторанов, важную роль в трансформации гастрономической культуры играют рынки. Они становятся не только местом для покупок, но и центром кулинарных открытий и общения. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkgCWOS" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Olga-Kukoba.png" data-image-id="135932" data-image-name="Ольга Кукоба.png" class="stk-image stk-reset  wp-image-135932 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Olga-Kukoba-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Olga-Kukoba.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ольга Кукоба</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">директор по развитию Московского рынка, экс-креативный директор Даниловского рынка (Москва)</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Появление рынков нового формата дало огромный толчок гастроиндустрии. Будем честны, в какой-то момент в прошлом у нас отняли рыночную культуру, потому что рынки постсоветского формата пришли в грустное состояние и стали очевидно проигрывать супермаркетам, где никто тебя не хватает за руку, не заставляет что-то купить. Мы же вернули ее горожанам такой, какой она была в их детстве.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рыночная культура, на самом деле, — мощный социальный клей и способ диалога. На рынках мы с вами можем повзаимодействовать друг с другом, почувствовать себя горожанами и обменяться классными новостями.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы поддержать интерес к своим предложениям и создать впечатления, современные рестораны и рынки активно используют маркетинговые мероприятия, проводят гастрономические фестивали и мастер-классы. Туристический поток способствует росту заведений, которые совмещают местные традиции с современными трендами, причем в последнее время фокус внимания смещается к кухням народов России.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если мысленно вернуться в СССР, то можно вспомнить, что тогда развитие национальных кухонь притормозили государственные стандарты. Рестораны и кафе были обязаны придерживаться ГОСТов, что ограничивало возможность использования традиционных блюд союзных народов, не включенных в списки. При этом некоторые рестораторы вели за сохранение традиций настоящую борьбу: ездили в Москву, встречались с чиновниками и пытались убедить их внести сокровища национальных кухонь в стандарты, чтобы их можно было легально готовить и подавать в ресторанах. Это удалось не с первого раза.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Настоящим пионером в области татарской кулинарии был Юнус Ахметзянов. Он стал первым автором, который собрал и издал кулинарную книгу с татарскими рецептами. Его работа не только задокументировала традиционные блюда, но и привлекла внимание к богатству татарской кухни. Спикеры подчеркивали его вклад в гастрономическую культуру, ведь именно благодаря ему многие рецепты получили шанс на передачу памяти поколениям.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сейчас кухня Татарстана переживает очередной этап переосмысления. Это проявляется не только в возрождении рецептов и их интерпретации, но и в исследовании кулинарных традиций татарских общин, которые живут за пределами республики. Местные шефы экспериментируют с фермерскими ингредиентами, технологиями приготовления и представляют актуальное прочтение блюд, запавших в память с младенчества. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkwYAYw" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Alfrid-Bustanov-2.png" data-image-id="135941" data-image-name="Альфрид Бустанов.png" class="stk-image stk-reset  wp-image-135941 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Alfrid-Bustanov-2-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Alfrid-Bustanov-2.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Альфрид Бустанов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">доктор философии, директор по внешним связям ГК «Тюбетей»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В «Тюбетее» мы смотрим на все разнообразие татарской культуры и татарской кулинарии. Ездим в экспедиции, работаем с продуктами из разных регионов России и за ее пределами, потому что татары, понятно, живут не только в республике Татарстан. Это дает возможность развить насмотренность.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда едешь в татарскую деревушку в Турции, то замечаешь, что происходящее с местной кухней совсем не похоже на Казань и никогда не было похоже, поскольку там другое ответвление исторического развития. Едешь в Мордовию — находишь казылыки, которые у них делаются испокон веков. В Сибири — другая история развития кухни, ближе к персидским моделям. И так далее.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/8-1.jpg" data-image-id="135949" srcset="https://entermedia.io/wp-content/uploads/2024/10/8-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/8-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/8-1.jpg 1200w" data-image-name="8.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135949 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каких новых проектов не хватает городу</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В условиях активного туристического развития Казани рестораторам приходится искать баланс между ностальгией и современными ожиданиями гостей. Создание проектов, которые предлагают не просто еду, а воспоминания и эмоции, становится ключевым элементом успеха. Таких концепций мало, но они помогают посетителям наслаждаться блюдами и «привязываться» к заведениям.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkxQqvn" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Mihail-SHaripov-1.png" data-image-id="135942" data-image-name="Михаил Шарипов.png" class="stk-image stk-reset  wp-image-135942 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Mihail-SHaripov-1-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Mihail-SHaripov-1.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Михаил Шарипов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">ресторатор (проекты «Сказка», Cuba Libre)</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Нас просили вернуть в меню картофельное пюре с ежиками и горошком, и когда мы это сделали, то получили ответ: «Вкусно, но не то». Тогда мы поняли, что на самом деле человек хочет не конкретное блюдо, а вернуться в прежние время с его помощью. Но не факт, что у гостя сегодня такое же настроение и он сможет испытать те же эмоции.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вложив в проект много миллионов рублей: мы поняли, что самую вкусную традиционную еду готовят бабушки — и их не переплюнешь. Но эту тему мы не оставляем, и периодически все-таки пытаемся их обойти.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По мнению спикеров, городу не хватает проектов, которые предлагают полноценные гастрономические впечатления. Гости хотят, чтобы весь процесс — от подачи до упаковки — отражал уникальную концепцию заведения. Создавая новые места, можно опираться на опыт коллег из регионов и других стран, но слепо копировать их все же не стоит.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkPKjtb" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Konstantin-Moiseev-1.png" data-image-id="135943" data-image-name="Константин Моисеев.png" class="stk-image stk-reset  wp-image-135943 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Konstantin-Moiseev-1-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Konstantin-Moiseev-1.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Константин Моисеев</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">гастроэксперт Enter, директор ресторана Branch, основатель Branch Group</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ты, конечно, можешь смотреть, что происходит в Питере, в Москве, в Европе — неважно. Вопрос в том, как привносить их идеи. Необходимо не просто вставить, но и адаптировать под условия, реалии площадки, местности, региона, людей, традиций, историй и вкусовых качеств.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/11-1.jpg" data-image-id="135948" data-image-name="11.jpg" class="stk-image stk-reset  wp-image-135948 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/11-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/11-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/11-1.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как на развитие гастрономической индустрии повлияет Московский рынок и каким он станет</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Казань находится на пороге гастрономического ренессанса, и у города есть возможность создать экосистему, которая станет новой визитной карточкой. Открытие обновленного Московского рынка в этом смысле обещает стать важным событием, в том числе потому что современные рынки предлагают возможность для гастрономических экспериментов и коллабораций между рестораторами и производителями. Помимо классических торговых точек, они могут включать в себя зоны для мастер-классов, мини-рестораны и даже поп-ап проекты. Развитие такого пространства дает возможность новым гастропроектам проявить себя, а уже существующим — расширить свое влияние. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К тому же, растущий тренд на экологичность требует развития локальных кафе и ресторанов, которые работали бы с местными фермерами и поставщиками. Здесь Московский рынок тоже выступит подспорьем и своим ассортиментом поможет создавать блюда, которые отражают характер региона. Более того, работа с местными ингредиентами обеспечивает стабильность в индустрии и позволяет не бояться непредсказуемого роста цен.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkB-CbC" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Rustam-Rahimov.png" data-image-id="135933" data-image-name="Рустам Рахимов.png" class="stk-image stk-reset  wp-image-135933 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Rustam-Rahimov-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Rustam-Rahimov.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рустам Рахимов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">шеф-повар ресторана «Умай»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вся моя продуктовая матрица выстраивается только на локальном продукте, поэтому на меня не оказывают влияния колебания, которые происходят во всем мире. Я всегда могу приехать на рынок и закупить необходимое для работы ресторана, и его ассортимента будет достаточно.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Со слов Ольги, на всей территории Московского рынка планируется организовать до 300 торговых мест для продавцов продуктового и вещевого сегмента. Архитекторы работают над созданием условий, которые позволят увеличить полезную площадь, учитывая потребности старожилов и новых арендаторов. Команда рынка сохраняет связи с теми, кто торгует на Московском годами, и уверяет, что места найдутся и для них.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Арендная плата для предпринимателей останется неизменной. Ситуация с торговыми местами будет структурирована так, чтобы установить справедливость — торговцы будут платить не за точку, а за ее квадратуру. Чтобы определиться с резидентами, команда рынка запустила прием заявок и уже получила больше 100 откликов. Выбирая, кто останется в пространстве, они дегустируют продукты, обращают внимание на качество и отзывы. У команды есть несколько уверенных претендентов на места, но пока договоры с ними не подписаны и названия проектов не раскрываются.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Все жители Казани могут помочь рынку определиться с арендаторами, обратившись в соцсети Московского — например, можно оставить комментарий под постами <a href="http://t.me/moscowmarketkzn" target="_blank" class="stk-reset">Telegram-канала</a>, где время от времени транслируются обновления. Поделиться попросят в том числе и идеями по событийному наполнению площадки, тем более, что инфраструктура для нее готовится полным ходом.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkIR2J5" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Tabris-YArullin.png" data-image-id="135934" data-image-name="Табрис Яруллин.png" class="stk-image stk-reset  wp-image-135934 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Tabris-YArullin-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Tabris-YArullin.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Табрис Яруллин</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">арт-директор Московского рынка</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне хотелось бы воспринимать Московский рынок как центр общественной жизни. Я не готов говорить про конкретные запланированные мероприятия, потому что это не совсем правильно. Считаю, лучше сначала сделать, а после получить обратную связь.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Команда рынка надеется открыть здание до конца 2024 года. Там уже начались отделочные работы, закуплено необходимое торговое оборудование и продумано зонирование — расширенные антресоли для гастрономических проектов, инфраструктура для продавцов, складские помещения и ветеринарная лаборатория. Территория вокруг здания будет меняться постепенно вплоть до лета и будет включать как торговую зону, так и общественные пространства, утопающие в зелени. Подбор растений команда осуществляет вместе с профессионалами и следует их рекомендациям по высадке и уходу.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Лада Поздеева<br><strong class="stk-reset">Фото:</strong> Кирилл Буздалов</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stkIR2J5" class="" media="all">[data-stk-css="stkIR2J5"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkB-CbC" class="" media="all">[data-stk-css="stkB-CbC"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkPKjtb" class="" media="all">[data-stk-css="stkPKjtb"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkxQqvn" class="" media="all">[data-stk-css="stkxQqvn"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkwYAYw" class="" media="all">[data-stk-css="stkwYAYw"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkgCWOS" class="" media="all">[data-stk-css="stkgCWOS"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F&title=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок&description=&image=https://entermedia.io/wp-content/uploads/2024/10/12-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F&text=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как развивается гастроиндустрия Казани и как на нее повлияет обновленный Московский рынок&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fkak-razvivaetsya-gastroindustriya-kazani-i-kak-na-nee-povliyaet-obnovlennyj-moskovskij-rynok%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="2" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501102'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

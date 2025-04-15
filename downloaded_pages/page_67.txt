@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/09/2-13.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,549] -->
+<link rel="canonical" href="https://entermedia.io/people/kak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции&raquo;" href="https://entermedia.io/people/kak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501145&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501145&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501145&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Werk выступит Boulevard Depo' href='https://entermedia.io/news/v-werk-vystupit-boulevard-depo/' />
+<link rel='next' title='В Казани показывают фильм «Драйв»' href='https://entermedia.io/news/v-kazani-pokazyvayut-film-drajv/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-135207 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/09/2-13.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/04/IMAGE-2022-04-01-181719-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Камила Саитова</div>
+          <div class="date-publish">25 сентября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F&title=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции&description=&image=https://entermedia.io/wp-content/uploads/2024/09/2-13-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F&text=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="135207">
+    <div id="post-135207" class="post-135207 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:135210,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135211,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135212,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135213,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135214,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135215,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135216,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135217,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135218,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С 21 сентября по 13 октября в Казани проходит Всероссийский фестиваль креативных индустрий <a href="https://reactor-art.com/fest" target="_blank" class="stk-reset">REACTOR FEST</a>. Он является итоговым этапом программы поддержки креаторов со всех уголков страны. В течение всего лета ребята развивали свои проекты по нескольким лабораториям: предметный дизайн, документальное кино, современное искусство, искусство перформанса. Теперь резиденты представляют результат трехмесячной работы в виде масштабного фестиваля.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter поговорила с кураторами и резидентами о сложностях работы с творческими людьми, источниках вдохновения резидентов, какое будущее стоит за новыми художниками фестиваля REACTOR.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ангелина Мигранова и Родион Сабиров </h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основатели независимого камерного театра «Театр. Акт», кураторы лаборатории «Искусство перформанса»</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/8-Rodion-i-Angelina.jpg" data-image-id="135217" data-image-name="8 Родион и Ангелина.jpg" class="stk-image stk-reset  wp-image-135217 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/09/8-Rodion-i-Angelina-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/8-Rodion-i-Angelina-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/8-Rodion-i-Angelina.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Родион: Мы наблюдали за REACTOR примерно 2 года, нам эта лаборатория всегда была очень любопытна и интересна. Именно в этом году окончательно сформировали свою собственную образовательную программу по искусству перформанса, поэтому обратились к Кадрие с предложением: «Мы очень хотим дать возможность любому желающему познакомиться с жанром искусства перформанса. Как смотрите на то, чтобы искусство перформанса стало частью REACTOR?». Самое замечательное, что Кадрия была открыта к диалогу, и мы стали частью проекта.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Перформанс — направление, которое соединяет в себе разные медиумы искусства. Это позволяет объединить в одном поле не только профессионалов, чья деятельность связана с искусством, но и горожан. Поэтому среди наших участников есть не только певцы, танцоры, фотографы, музыканты, артисты но и врачи, педагоги, психологи, IT специалисты.  </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ангелина: Для нас в перформансе очень важно отыскать ту самую идею, рожденную из «внутренней необходимости» и подобрать к ней наиболее точный визуальный образ, который станет проводником между художником и зрителем, человеком и человеком. Да, важно отметить, что в перформансе — граница между художником и зрителем сокращается до минимума, это очень тесное взаимодействие от человека к человеку. Резиденция дала повод через искусство переосмыслить себя и собственные личные вопросы. Кто-то из участников находится еще на пути формирования идеи, поэтому несколько работ не были готовы к показу. Процесс создания индивидуален, знаем на собственном опыте, некоторые перформансы вынашиваются годами, это очень сложный и длительный процесс. Но мы рады, что за короткий срок нам удалось создать 15 работ.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для нас было очень важно быть доступными для всех без ограничений, единственное условие — готовность открыться новому опыту и не бояться преодолевать собственные самоограничения и страхи.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Настя Мороз и Катерина Конюхова</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">участницы арт-группы «Замороженная конина», кураторы лаборатории современного искусства</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/1-Nastya-i-Katerina.jpg" data-image-id="135218" srcset="https://entermedia.io/wp-content/uploads/2024/09/1-Nastya-i-Katerina-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/1-Nastya-i-Katerina-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/1-Nastya-i-Katerina.jpg 1200w" data-image-name="1 Настя и Катерина.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135218 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Катя: Я знакома с REACTOR с самого открытия, мне они помогали c персональной выставкой «Молчание» в ГСИ. А когда куратором лаборатории  «Современного искусства» была Вера Белова, мы выступали на образовательной программе, читали лекцию «Как правильно составить портфолио и CV». В прошлом году уже сами выступили как кураторы. Нам очень понравилась комфортная среда, потому что Кадрия очень мягкий руководитель и не вмешивалась в процессы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В том году мы были очень довольны результатом, потому что резиденты выступили на все 100 процентов. Поэтому мы волновались, что не сможем достичь той же планки в 2024 году, ведь все немного по другому, даже образовательная деятельность выстраивалась иначе. В прошлом году была одна тема и мы от нее креативили идеи. А в этом у каждого резидента была своя идея, которая сформировалась еще на этапе опен-колла.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для отбора мы дали задание написать эссе на тему «Эмоциональные предметы из детства» — мы получили мишек, конфетки, запахи, определенные события и мероприятия. Мы решили взять именно детство, потому что часто художник должен рефлексировать о воспоминаниях, событиях, хранить своего внутреннего ребенка. С возрастом создавать что-то новое становиться сложнее, потому что появляются внутренние блоки, и внутренний ребенок погибает. А этот предмет поможет вернуться в точку начала, в легкость и свободу, когда ты ни за что не ответственен. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Приоткрою тайну выставки. В этом году получился реальный эксперимент с материалами. Например, есть работа из расшитого камнями хлеба, кто-то паял метал, делал папье-маше, еще создавали гипсовые слепки — все это разнообразие творческих идей пришло во время наших заданий. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Настя: У нас есть своя методология, по которой тема не важна, и отправной точкой может быть все что угодно — главное процесс выстраивания результата. Для этого необходимо постоянно работать, разговаривать с резидентами, направляя их и помогая. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас в резиденции будут разные художники: некоторые только дебютируют, другие уже выставлялись, например, Марат Алиакберов. Классно, что у всех разный возраст — от 16 до 40 лет и среда для работы все равно остается плодотворной — никто не ругался, а только поддерживали друг друга.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У одной девушки изначально была идея сделать конфеты «цапки-царапки», но в работе это так преобразилось, что на выставке вы сами сможете увидеть. Ведь можно будет перейти по QR-коду и увидеть процесс трансформации идеи в зарисовках из скетчбуков каждого участника выставки. Это фиксация онлайн-работы на протяжении трех месяцев. Там же будут эссе, по которому мы делали отбор, читая его, можно увидеть, насколько человек готов открыться.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кадрия Бугрова </h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основательница и руководительница REACTOR</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/4-Kadriya.jpg" data-image-id="135210" srcset="https://entermedia.io/wp-content/uploads/2024/09/4-Kadriya-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/4-Kadriya-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/4-Kadriya.jpg 1200w" data-image-name="4 Кадрия.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135210 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">REACTOR отличается от других казанских резиденций тем, что мы постоянно обновляем поток и проводим через себя огромное количество резидентов. Сейчас у нас около 70 итоговых работ, конечно, не со всеми мы будем заключать дальнейшее соглашение на резидентство. Повезет только инициативным ребятам, которые проявили себя определенным образом. В соглашении мы предоставляем информационную поддержку, консультационную, ресурсную, помощь в коммуникации с людьми, которые им нужны.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Классическая резиденция приглашает к себе художника, выдает ему материалы, жилье и другие ресурсы для того, чтобы он выдал продукт. У нас тоже есть такое, но наша первая задача показать, как развиваться в этой среде — объяснить процесс создания выставки, донести, что это должна быть серия работ, что у галерей выставочный план расписан на год-два вперед. При этом за год может поменяться внутреннее состояние и уже не захочется выставляться с этой темой. Далее необходимо описать свою работу, подготовить этикетаж, быть готовым дать интервью. Это вроде базовые вещи, но некоторые не готовы даже интересно рассказать о себе.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Можно сказать, что как мы никто не работает, и многие выбирают готовых деятелей или бизнесы. Наша годичная программа — лакмусовая бумажка, потому что в рамках нашего первичного сотрудничества, мы понимаем нужны мы человеку и можем ли помочь в дальнейшем развитии. За четыре года было много классных и талантливых креаторов, но я понимаю, что мы никак их не поддержим и нет смысла продолжать взаимодействие. А есть те, которым хватает нашего ресурса, у которых есть понимание вещей и правила выстраивания коммуникации для получения необходимой помощи.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В будущем мы бы хотели создать отдельную базу данных креаторов, где можно будет по запросу находить того или иного специалиста. Например, нужен фотограф для коммерческой съемки интерьера или одежды, репортажа или фотосессии. По этим параметрам можно подобрать человека. Через нас прошло огромное количество людей, и мы можем рекомендовать классных специалистов. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Динара Гайнуллина </h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">инженер-тестировщик, резидентка лаборатории современного искусства</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/7-Diana.jpg" data-image-id="135212" srcset="https://entermedia.io/wp-content/uploads/2024/09/7-Diana-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/7-Diana-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/7-Diana.jpg 1200w" data-image-name="7 Диана.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135212 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я всегда занималась каким-то искусством и кастомом. Объявление о REACTOR увидела в лифте и подумала: «Класс, можно теперь свои вещи сделать не просто красивыми, но придать им еще смысл», — поэтому решила участвовать. Собрала портфолио, написала эссе и прошла отбор».</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы писали эссе на тему «Эмоциональный предмет из детства», а потом еще прописывали майнд-мэп, связанный с этим предметом. Самая большая ветка шла от теплых воспоминаний к тому, что я чувствую сейчас, но этого уже нет. Потом наложились события, происходящие вокруг. Это все сильно беспокоило, тогда возникла ассоциация с ломкими мыслями в хаосе. Внешние события оказались непредсказуемыми и новыми, расшатывающими состояние и ухудшающими самочувствие. Так родилась идея моего проекта.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В первой художественной работе удалось отлично соединить мою инженерную натуру и творческую. Когда вкладываешь все свои мысли и ощущения в конкретный объект, делаешь его реальным, получается, безусловно, классный опыт.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С участниками других направлений мы общались в глэмпинге, было классно послушать об истории создания их работ. Это заинтересовало меня и захотелось посмотреть и на результаты остальных резиденций. Все мои коллег прошли большой путь длиною в 3 месяца, и я не могу выделить конкретную работу, потому что все получили невероятные результаты, реализуя идею в настоящий арт-объект. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Айгуль Найдышева</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">художница, резидентка лаборатории современного искусства</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/6-Ajgul.jpg" data-image-id="135216" srcset="https://entermedia.io/wp-content/uploads/2024/09/6-Ajgul-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/6-Ajgul-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/6-Ajgul.jpg 1200w" data-image-name="6 Айгуль.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135216 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В своей работе «Расплетай корни рода» я исследую тему семьи и отдаю дань своему роду. Это некий поиск себя, своей идентичности и опыта. Я считаю, что моя родословная дает мне силу и знания. Так перенимали информацию родители у бабушки и дедушки, а их родители у своих.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Про REACTOR я узнала год назад, тогда ко мне обратилась девушка с просьбой сплести для нее костюм на выступление в танцевальной резиденции. А в этом году реклама фестиваля пестрела везде, и я приняла это за знак и подала заявку. Когда меня взяли, была очень рада и воодушевлена, но было тяжело, из-за жестких дедлайнов к каждому заданию. Они иногда совпадали с жизненными моментами: участие в других фестивалях и ярмарках, моей работой, детьми и семьей. Мне пришлось расставить приоритеты, и я рада, что преодолевая трудности, моя работа оказалась представлена здесь.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Корень, который я обвязала, был найден моим мужем на реке у дачи, я долго к нему присматривалась и решила взять его все-таки в работу. Это было непросто, приходилось постоянно держать его вертикально и продолжать обвязывать лентами. В некоторых местах используется ткань икат — неотъемлемая часть национального костюма родного для меня Узбекистана, что стало небольшой отсылкой к моему детству. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У меня есть небольшой выставочный опыт — участвовала в трех проектах, но здесь все равно особенная работа. Она совершенно новая, полная импровизации — не было никаких эскизов, это чистый поток. Мне так понравилось, что решила в будущем, продолжать авторское создание искусства, творить и участвовать в выставках.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Константин Максимов</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">сооснователь Qullar, куратор лаборатории предметного дизайна </p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/2-Konstantin.jpg" data-image-id="135211" srcset="https://entermedia.io/wp-content/uploads/2024/09/2-Konstantin-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/2-Konstantin-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/2-Konstantin.jpg 1200w" data-image-name="2 Константин.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135211 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Лаборатория прошла отлично, благодаря тому, что коммуникация между участниками была рабочая, между нами не было проблем — все разрабатывали проекты строго по нашей образовательной программе.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отбирали участников по портфолио. Мы старались дать возможности большому количеству людей даже с минимальными навыками. Все работы, которые сегодня представлены, сделаны людьми без опыта предметного дизайна, поэтому можно сказать, что наш план удался. Конечно, у них есть опыт в смежных отраслях — дизайн интерьера или графический, мы понимали, что они смогут мыслить в эту сторону для этого было достаточно дать им знаний и опыта и немного курировать их работу. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В первую очередь резиденты занимались проектированием, потому что REACTOR не про столярство, а про креативные идеи. Сделать дизайн-проект и отдать его в производство — тоже большой опыт. Все-таки интерес лаборатории в том, чтобы художники придумали мебель для конкретного пространства, в котором они были внутри. Сначала они сделали чертежи, схемы, а потом уже реализовали прототипы. Много деталей еще будет дорабатываться, но это один из финальных этапов производства. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Резиденты понимают, что это может в будущем стать частью реального интерьера, а такой шанс выпадает далеко не каждому начинающему дизайнеру. Сложно сказать, кому удастся стать частью ДК «Химиков», но думаю, что все финалисты имеют потенциал и шансы стать профессионалами своего дела. Они уже потратили на это много своего времени — это означает, что они горят этим и интересуются. Они уже получили свой первый результат, узнали на них отзыв, а это очень мотивирует работать дальше. Однозначно кто-то станет хорошим дизайнером. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Гузель Гарипова </h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">иллюстратор, дизайнер, резидентка лаборатории предметного дизайна</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/3-Guzel-Garipova.jpg" data-image-id="135213" srcset="https://entermedia.io/wp-content/uploads/2024/09/3-Guzel-Garipova-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/3-Guzel-Garipova-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/3-Guzel-Garipova.jpg 1200w" data-image-name="3 Гузель Гарипова.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135213 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К сожалению, я подключилась не с самого начала, а с середины, поэтому пришлось еще самостоятельно изучать материал. Тем не менее мне очень интересно быть здесь, и реализовывать идеи и круто, что позвали хороших лекторов, они помогли разобраться в теме. У меня уже был небольшой опыт работы с мебелью, потому что мое первое образование архитектурное — мы немного делали интерьерные наброски. Для меня сложность во время рецензии была в том, что сроки сжатые, а на изготовление прототипа времени мало, но мы старались успеть.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Конкретно у нас была задача привязаться к интерьеру ДК Химиков — придумать что-то новое, но в рамках исторической темы интерьера и экстерьера, также важно было соответствовать новой концепции от дизайнеров интерьера. С одной стороны — новый взгляд на историю, с другой — соблюдение множества нюансов.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тимур Ребенчук</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">IT-специалист, танцор и резидент лаборатории перформанса </p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/5-Timur.jpg" data-image-id="135215" srcset="https://entermedia.io/wp-content/uploads/2024/09/5-Timur-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/5-Timur-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/5-Timur.jpg 1200w" data-image-name="5 Тимур.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135215 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я был весной на другой лаборатории вместе с Ангелиной и Родионом, тогда они пригласили нас поучаствовать в REACTOR. Перформанс — направление, где ты вдохновляешься жизнью вокруг, нужно быть очень внимательным к мелочам, потому что мы можем поднять абсолютно любую тему, но нужно ее раскрыть через себя, придать ей собственную индивидуальность. В этом направлении каждый сильно раскрывается и оголяет свои страхи перед окружающими. Чаще всего при генерации идей для нового перформанса отталкиваются от пространства вокруг, но самое неожиданное и «правильное» приходит неожиданно во время разговора или любого другого действия. Ты можешь придумать с нуля все что угодно, но эта идея будет отличаться на чувственном уровне от тех, что возникли сами собой. Ангелина с Родионом говорили нам, что мы обязательно почувствуем, когда придет та самая идея.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Так получилось, что я придумал свою работу очень внезапно — кураторы дали нам задание придумать пять перформансов разных жанров. Один из них был ритуальный, и я долго не мог придумать. В тот день, поздно встав с кровати, первое, что я сделал после подъема — это написал родителям «Доброе утро, хорошего дня» и тогда я понял, что это мой ритуал, который можно превратить в перформанс. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кажется, что это было очень просто вспомнить, ведь с сообщения родителям начинается каждое мое утро. Раньше мы не всегда созванивались, и не часто общались, но этот ритуал уже два года делает нас немного ближе и напоминает о важности связи в семье. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Объединение перформеров появилось благодаря нашим кураторам Ангелине и Родиону. У них была миссия создать комьюнити людей, которые бы горели одной идеей, у них это получилось. Мы можем коллаборировать, давать взгляд на идеи со своей стороны. Например, я программист, есть еще тренер творческих состояний, фотограф, танцор и психолог — это уже комьюнити, действующее с весны этого года. Мы пока в поиске собственной резиденции, где мы можем базироваться постоянно. Чтобы следить за нами, можно подписаться в социальных сетях на Ангелину и Родиона, потому что отдельных страниц у объединения еще нет. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дидар Оразов</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">директор Gorizont Films, куратор лаборатории документального кино</p></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/9-Didar.jpg" data-image-id="135214" srcset="https://entermedia.io/wp-content/uploads/2024/09/9-Didar-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/9-Didar-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/9-Didar.jpg 1200w" data-image-name="9 Дидар.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135214 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы с Кадрией Бугровой знакомы уже давно, но первое сотрудничество произошло в прошлом году. Тогда арт-группа «Замороженная конина» делала свою лабораторию и пригласила меня. Я увидел, что фестиваль направлен не просто на освоение средств, а для развития комьюнити. После этого мы начали обсуждать, что можно сделать лабораторию. Для нас это было очень интересно, потому что у Gorizont Films просветительская работа и создание документального кино — миссия продюсерского центра.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На лабораторию мы отбирали по нескольким критериям. Главное — опыт, важно, чтобы человек хотя бы немного, но держал камеру, или был в креативной индустрии не менее 3-5 лет. Это нужно, чтобы понимать заинтересованность человека, потому что очень часто приходят на лабораторию в поисках каких-то эмоций, впечатлений — такие нам не подходят. Пришли участники с разным уровнем подготовки, кто-то с опытом в продакшене, кто-то студент института культуры, были новички — все талантливые и интересные. Они загорелись идеей, начали работать в этом направлении и выдали крутой результат. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы создали фильм именно о Казани. Это оммаж на работу СКБ Прометей «Казань вспоминает» — нереализованный проект о Казани. Большинство фильмов и проектов у Gorizont Films связаны с Казанью. Это наш город, мы его сильно любим разными видами любви. Это не только на уровне эмоций, но и действий. Стараемся Казань поддерживать, работая в социальных направлениях, в области экологии, социального служения, с его историей и краеведами. Это очень важное для нас направление, поэтому захотелось снять историю про Казань. А название «Казань [со]всем» придумано Татьяной из нашей лаборатории. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст</strong>: Камила Саитова<br><strong class="stk-reset">Фото</strong>: предоставлены REACTOR FEST</p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F&title=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции&description=&image=https://entermedia.io/wp-content/uploads/2024/09/2-13-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F&text=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как создавать искусство: Кураторы и художники REACTOR FEST об итогах резиденции&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-sozdavat-iskusstvo-kuratory-i-hudozhniki-reactor-fest-ob-itogah-rezidentsii%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501145'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

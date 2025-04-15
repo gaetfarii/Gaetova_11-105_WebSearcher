@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана» | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2021/11/1-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,552] -->
+<link rel="canonical" href="https://entermedia.io/city/shest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»&raquo;" href="https://entermedia.io/city/shest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501071&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501071&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501071&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='500na700, CHUKCHA и другие' href='https://entermedia.io/city/500na700-chukcha-i-drugie/' />
+<link rel='next' title='В «Киномаксе» покажут «Гарри Поттера и Кубок Огня»' href='https://entermedia.io/news/v-kinomakse-pokazhut-garri-pottera-i-kubok-ognya/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-137669 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2021/11/1-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана» <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">25 ноября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F&title=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»&description=&image=https://entermedia.io/wp-content/uploads/2021/11/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F&text=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="137669">
+    <div id="post-137669" class="post-137669 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:137675,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137677,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137676,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137674,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137975,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137976,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:137977,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid: 2SDnjdTm6wM</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ипотека дорожает, а льготные предложения становятся все менее льготными. Из-за этого покупатели стали более избирательными и внимательными к деталям сделки. Теперь недостаточно предложения «у нас дешевле»: от застройщиков ждут благоустроенный двор, необычные планировки и бонусы в виде консьерж-сервиса и замков с отпечатком пальца.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вместе с экспертами <a href="https://kamastroyinvest.ru/our-projects/30" target="_blank" class="stk-reset">«КамаСтройИнвест»</a> обсудили, как менялись ЖК в течение 100 лет и что представляет наполнение современных домов. На примере комплекса «Оригана» на Оренбургском тракте разобрались, каким должно быть придомовое благоустройство, зачем на первых этажах диваны, лапомойки и колясочные и что еще могут предложить современные девелоперы.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/11/0.jpg" data-image-id="137976" data-image-name="0.jpg" class="stk-image stk-reset  wp-image-137976 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/11/0-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/11/0-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/11/0.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Двор</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Требования по благоустройству дворов появились в 1920-х годах. С этого момента на придомовой территории должна была быть песочница, качели, снежная горка и каток. Гражданская инициатива шагнула дальше: пока дети играли на площадке, взрослые ухаживали за цветами в палисадниках, разводили голубей и создавали арт-объекты из покрышек.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В начале 2000-х годов в бум девелопмента, когда деньги у застройщиков уже появились, а нормативные акты у государства еще нет, в погоне за квадратными метрами дворы почти исчезли. В лучшем случае это был спартанский минимализм с качелями, горкой и песочницей.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После кризиса 2008 года россияне стали чаще ездить за границу. У насмотренных покупателей изменилось понимание о качественной новостройке. Одновременно с этим на рынке недвижимости выросла конкуренция, а на бирже — стоимость квадратного метра и ипотечные условия. Девелоперы, которые не хотели демпинговать, начали работать над инфраструктурой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наполнение современных ЖК во многом зависит от класса жилья: покупателям эконом-сегмента предлагают детские площадки и лавочки в тени, бизнеса — всесезонное озеленение и инфраструктуру с разными сценариями отдыха, премиума — огороженную территорию и сады для медитаций. ЖК «Оригана» от «КамаСтройИнвест» — это квартал бизнес-сегмента с соответствующим придомовым благоустройством. <strong class="stk-reset">Концептуальный двор</strong> разделили на три уровня.</p><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">«Каньон» находится «на земле» между домами, будто между скалами. Здесь высадят всесезонные растения и символ проекта — кусты ориганы. В тени установят лавочки и лежаки для отдыха, детские площадки и велостоянки. Акцентным элементом двора станет арт-объект с качелями, гамаками и аэрарием.</li></ul><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">Уровень «лес» расположен на стилобате. Вход во двор доступен только жильцам домов: можете быть спокойны за детей, их игре и безопасности никто не помешает. В этой зоне есть детские площадки из природных материалов и с безопасным покрытием, теннисный стол и воркаут. Двор хорошо освещен фонарями и декоративными гирляндами.</li></ul><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">Зигзагообразное пространство «река» отличается разнообразным озеленением и необычными зонами отдыха. Полукруглые лавочки с высокими спинками закроют от окружающих и послужат отличным рабочим местом в ясный день. Их необычную форму дополнят декоративные полупрозрачные экраны в форме овала.</li></ul><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На первом этаже одного из домов «Ориганы» появится <strong class="stk-reset">детская комната</strong>. Пространство с горкой, шведской стенкой и скалодромом, рабочей зоной и местами для тихих игр подойдет для разных возрастных групп.Пол в комнате покрыт безопасным мягким материалом, который убережет от травм. Детская комната станет альтернативой для игр зимой и в дождливую погоду и будет доступна только жильцам ЖК.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Планировки</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Планировки в «хрущевках», «брежневках» и «чешках» были стабильнее советских зарплат. В 1960-е годы квартиры состояли из небольших комнат, часто проходной спальни и маленькой кухни до 6 м². В планировках не было прихожих и балконов. В «брежневках» размер кухонь увеличился до 8 м². В «чешках» конца 1980-х годов все комнаты сделали изолированными, в каждой квартире был балкон или лоджия.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В проекты 2000-х годов стали закладывать многокомнатные квартиры и планировки с увеличенной площадью: например, больше 50 м² для однокомнатных вариантов и 80–100 м² — для трехкомнатных. При этом планировки «лужковской архитектуры» или застройки капиталистического романтизма (так называли первые элитные дома конца 1990-х — начала 2000-х годов — прим. Enter) были неудачными. На квартиру 200–300 м² могло быть два окна, огромный холл и отдельная гардеробные для шуб.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В современных ЖК планировки становятся УТП. В привычные схемы включают террасы, витражи, мансардные этажи, отводы для каминов и так далее. В домах ЖК «Оригана» есть <strong class="stk-reset">планировки от студий до четырехкомнатных вариантов</strong>. За счет переменной этажности можно выбрать видовые квартиры и слоты с лоджиями, балконами или террасами. Во всех вариантах <strong class="stk-reset">расширенные оконные проемы</strong>, за счет которых комнаты будут наполнены естественным светом весь солнечный день.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/11/2-6.jpg" data-image-id="137975" data-image-name="2.jpg" class="stk-image stk-reset  wp-image-137975 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/11/2-6-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/11/2-6-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/11/2-6.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отделка</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В СССР квартиры сдавали с чистовой отделкой: напольным покрытием, бумажными обоями и дешевой сантехникой. Не люкс, конечно, зато можно сразу въехать и жить. Сейчас покупатели получают ключи от квартир или без отделки и со свободным планированием, когда можно самостоятельно зонировать пространство, или с чистовой отделкой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В одном из домов «Ориганы» доступен <strong class="stk-reset">чистовой ремонт</strong>, сразу после которого можно въехать в квартиру. На этапе покупки есть возможность выбрать светлый или темный стиль, в котором отделают стены, пол и потолок. В <strong class="stk-reset">ремонт от застройщика</strong> также входят проводка, базовый набор электроприборов и сантехники. Все материалы для интерьерных работ и технические приборы от лучших российских и зарубежных производителей, так что ремонт прослужит долго. Остальные квартиры будут сдаваться с фиксированными планировками с увеличенной долей полезной площади или без межкомнатных перегородок — как зонировать квартиру, выбирать вам.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Общественные пространства в доме</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Несмотря на мультифункциональное наполнение советских дворов, дома состояли из квартир и лестниц. Единственной доступной инфраструктурой были кладовки в подвалах. Чтобы разнообразить одинаковые пролеты, жильцы в коридорах выращивали цветы — вот, кажется, и все УТП советских домов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Со временем наполнение стало разнообразнее. На первых этажах появилась коммерческая инфраструктура и колясочные. Сейчас это ожидаемое наполнение ЖК. Уникальными предложениями становятся дизайнерские лоджии и цифровые технологии. В «Оригане» кроме базового наполнения типа велосипедных, санузла для гостей и лапомойки, на первых этажах есть уютные <strong class="stk-reset">холлы с диванами</strong>. Пространство сочетает функции рабочей зоны, места отдыха и встреч. В холле постоянно дежурит <strong class="stk-reset">консьерж</strong>: он проконсультирует по вопросам работы УК, поделится новостями, примет доставку или передаст документы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На первом этаже также откроют <strong class="stk-reset">коворкинг</strong> для жильцов. Рабочее пространство нужно в том числе для формирования культуры добрососедства: сначала вы сидите за одним столом, потом здоровайтесь в лифте, как итог — ведете смол-токи, пока дети играют на площадке. С этой же целью в ЖК посадят елку. Она станет центром притяжения жильцов и общедомовых традиций. Зимой дерево можно украшать всем двором, а летом устраивать под ним пикники.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/11/01.jpg" data-image-id="137977" data-image-name="01.jpg" class="stk-image stk-reset  wp-image-137977 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/11/01-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/11/01-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/11/01.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Паркинг</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 1991 году на 1 000 жителей страны было всего 59 легковых автомобилей. Под каждый отводили щедрых 18 м² гаража со смотровой ямой и освещением. Многоуровневые парковки с пандусами тоже были — их начали строить еще в 1960-х годах, но только для таксопарков.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Машин на улицах становилось все больше. Постановление о том, что в доме должно быть хотя бы одно парковочное место на квартиру, появилось в середине 2000-х годов. До этого все в той же погоне за квадратными метрами машиномест во дворах почти не было. Автомобили оставляли на обочинах, проезжих участках или у домов с паркингом, недовольные жители которых стали устанавливать шлагбаумы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Так как жилых комплексов появляется все больше, а свободной площади в городах остается все меньше, застройщики занимают парковкой минус первые этажи домов. Территорию подземного паркинга можно эффективно организовать. В «Оригане», например, на минус первом уровне есть <strong class="stk-reset">кладовые</strong> разной площади для несезонного инвентаря и других ненужных в квартире вещей. Во всех общественных пространствах ЖК установлены <strong class="stk-reset">камеры</strong>, так что имущество всегда будет под контролем.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Архитектура</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В вопросе архитектуры много не изменилось: типовая застройка все еще остается дешевым простым решением. Несмотря на то, что в какой-то момент депрессивные дома начали украшать цветными вентфасадами, одинаковые «человейники» высотой в несколько десятков этажей все еще выглядят грустно.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Уникальные архитектурные решения стали одним из способов отстроиться от конкурентов. Для разработки проектов девелоперы приглашают топовые бюро и дизайнеров. Архитектуру ЖК «Оригана» в стиле <strong class="stk-reset">арт-деко</strong> разработало питерское бюро Степана Липгарта. Первое, что бросается в глаза, — каскады этажей. Такое решение позволяет наполнить квартиры естественным светом. Фасады домов выполнены в зеленых и серых природных оттенках. Это продолжает концепцию ЖК как прохладного оазиса в центре города.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk99UFN" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Подробнее о «КамаСтройИнвест» и проекте ЖК «Оригана» читайте <a class="stk-reset" href="https://kamastroyinvest.ru/our-projects/30" target="_blank">на сайте</a>. Там же есть удобный калькулятор подбора квартир, коммерческих помещений, машиномест и кладовых.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Застройщик ООО «Специализированный застройщик Гринвич», входит в группу компаний «КамаСтройИнвест». «КамаСтройИнвест» — инвестиционно-строительная компания, специализирующаяся на строительстве жилой и коммерческой недвижимости с авторской архитектурой. Строит уникальные объекты жилой и коммерческой недвижимости в Казани и реставрирует исторические здания, возвращая жизнь в знаковые уголки города. <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/60753" target="_blank">Проектная декларация</a>. Строительство ведется при финансировании банка дом.рф.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Ксения Монастырская<br><strong class="stk-reset">Изображения: </strong>Марина Никулина</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0" data-ce-tag="paragraph">Реклама. ООО «Специализированный застройщик Гринвич»</p></div></div><style data-stk-css="stk99UFN" class="" media="all">[data-stk-css="stk99UFN"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F&title=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»&description=&image=https://entermedia.io/wp-content/uploads/2021/11/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F&text=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Шесть отличий советского и современного дома — разбираемся на примере ЖК «Оригана»&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fshest-otlichij-sovetskogo-i-sovremennogo-doma-razbiraemsya-na-primere-zhk-origana%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501071'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

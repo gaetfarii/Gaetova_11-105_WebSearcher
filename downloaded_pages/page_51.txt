@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/12/6-Prevyu.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,579] -->
+<link rel="canonical" href="https://entermedia.io/people/kak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене&raquo;" href="https://entermedia.io/people/kak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501122&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501122&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501122&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Казани выступит Илья Соболев' href='https://entermedia.io/news/v-kazani-vystupit-ilya-sobolev/' />
+<link rel='next' title='В «Смене» пройдет фестиваль «Казань Философская»' href='https://entermedia.io/news/v-smene-projdet-festival-kazan-filosofskaya/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-139192 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/12/6-Prevyu.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">19 декабря</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F&title=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене&description=&image=https://entermedia.io/wp-content/uploads/2024/12/6-Prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F&text=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="139192">
+    <div id="post-139192" class="post-139192 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-intervyu">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:139193,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139195,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139197,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139196,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139198,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139194,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вторник, Васильевский рынок в Санкт-Петербурге. Зал наполняет толпа в кипенных платьях и комбинезонах. «Дай знак мне, если ты на нашей стороне», — толпа начинает петь неожиданно хором, неожиданно трек «АИГЕЛ». Обычный вторник постмодернистского хора Attaque de panique.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как питерские хористы перезагрузили индустрию и собрали новаторский коллектив с поп-роком в репертуаре и экспериментальной сценографией — обсудили с основателем Attaque de panique Виктором Улаевым. Внутри много инсайдов о музыке с претензией, проблемах современного хора и первом альбоме о взрослении.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хор умер, да здравствует хор — что такое хоровое исполнение</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/1-8.jpg" data-image-id="139194" srcset="https://entermedia.io/wp-content/uploads/2024/12/1-8-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/1-8-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/1-8.jpg 2400w" data-image-name="1.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-139194 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В интернете много академических и философских определений, что такое хор. Вы нашли идеальную дефиницию для себя?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я не теоретик, не историк и даже не профессиональный музыкант. Я не страдаю синдромом самозванца, потому что и есть самозванец. У меня обывательское представление, что такое хор. «Это группа людей, которые поют одновременно», — скажет обычный человек. Я дополню, что у этой группы есть голосовая структура из партий.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Хор — самая распространенная форма культурного самовыражения». Вы согласны?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Самая распространенная» — навряд ли, по крайней мере на сегодняшний день. Скорее, одна из доступных. Многие пели в хоре в школе или университете. Для этого не нужны были особые навыки и музыкальное образование. Вход в хоровое искусство ниже, чем, например, в какой-нибудь бэнд. Да, людей, которые пели в хоре больше, чем тех, у кого была своя группа. Тем не менее речь точно не о массовости.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Небольшой ликбез по истории хора</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хоровое пение появилось на Руси после крещения в X веке и развивалось как <strong class="stk-reset">церковное искусство</strong>. Первый хор, отделившийся от церкви, но все еще исполнявший церковную музыку, был основан Иваном III. 30 Государевых певчих дьяков сопровождали царя в поездках и пели на придворных церемониях. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В XVI век церковь боролась со скоморохами: «глумотворцам» запрещали участвовать в свадьбах и ходить по деревням. Развитие инструментальной музыки почти остановилось, что привело к <strong class="stk-reset">расцвету хоровой культуры. </strong>В это же время Иван IV Грозной открыл в Александровской слободе <strong class="stk-reset">школу певчих — по сути, первую консерваторию. </strong></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Второй Придворный хор принадлежал Петру I. В XVIII веке хор Государевых певчих дьяков и петровский Придворный хор объединили в <strong class="stk-reset">Императорскую придворную певческую капеллу </strong>— современную Государственную академическую капеллу Санкт-Петербурга.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В советское время массовая песня стала основным средством воздействия и воспитания. Появилась <strong class="stk-reset">система хорового образования национального масштаба. </strong>Были разработаны методички преподавания основ музыкальной грамотности [спасибо Струве], появлялись песни для хорового исполнения «Крылатые качели», «Моя Москва» и другие.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что пошло не так в современной России? Почему хор представляют как коллектив в народных костюмах и с репертуаром из прошлого?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хор — большая форма искусства, которая требует финансирования. В советское время хоры развивались за счет государства. Сейчас этой поддержки нет, а найти спонсора сложно. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkXeG3G" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="align-center stk-theme_29689__style_font_style-1490606764478 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Проще купить гитару на «Авито» и пойти репетировать в гараж, чем организовать и прокормить 50 человек»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще одна причина может быть в том, что за 50, 100 и даже 150 лет ничего аудиально и визуально не изменилось. Люди просто устали от формата.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Другая эстетика, другой стиль, другой посыл слушателям — постмодернистский хор Attaque de panique</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/2-7.jpg" data-image-id="139198" srcset="https://entermedia.io/wp-content/uploads/2024/12/2-7-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/2-7-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/2-7.jpg 2400w" data-image-name="2.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-139198 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В массовой культуре появился запрос на усложнение: людям нужны смыслы и объемные формы. Новый этап развития хорового пения как альтернативной сцены связан с этим?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У сегмента аудитории действительно есть запрос на непопсовую музыку с претензией. Наша целевая аудитория — люди, которые ходят на концерты Shortparis, Хаски, IC3PEAK и далее по списку. Им классическое хоровое исполнение любимых треков кажется сложным, и поэтому — интересным. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К этому добавляется вечный поиск нового звучания, особенно в периоды стагнации сцены. По понятным причинам у нас стало меньше музыкантов. Организаторам приходится искать артистов в разных нишах.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkOpPrE" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Несмотря на то, что хоровое пение всем известно, необычные аранжировки в застойный период привлекают, а идея пригласить выступить хор после Хаски не кажется бредовой»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каким должен быть современный хор и должен он быть вообще?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы не знаем правильного ответа. Для себя решили, что современный хор действует <em class="stk-reset">вопреки</em>. Есть набор штампов: от внешнего вида и репертуара до правила, в какой руке держать папку, когда выходишь на сцену. Это все странно. Мы выходим, как нам угодно — хоть на руках, поем современный инди и выступаем в платьях, напоминающих смирительную рубашку, учим все песни наизусть [не потому что не решили, в какой руке выносить папку] и много двигаемся по сцене.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как пришла идея создать Attaque de panique?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это был крик души. В осознанном возрасте я пошел петь в студенческий хор. Так как это был новый опыт, я испытывал диссонанс: пока современные группы давали концерты с рейвами, хоровое исполнение оставалось странно законсервированным.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Начал предлагать знакомым из хоровой тусовки сделать что-то новое. Многие или не воспринимали идею, или сильно сомневались. Не знаю, почему: из-за снобизма, консерватизма или силы привычки. «А давай!» — первым сказал наш дирижер Дмитрий Шелковин. С тех пор он отвечает за весь профессионализм в Attaque de panique.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как вы собрали первый состав? Не каждый поверит в идею хора с инди-репертуаром и экспериментальной сценографией.</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В миру я графический дизайнер. Однажды моим заказчиком стала Shortparis. В тот же момент у группы появилась концепция концертов с хором. Я посоветовал дирижера, который собрал певцов. После концертов чат с участниками сохранился, и я закинул туда идею создать экспериментальный хор. Плюс, остались знакомые из студенческого коллектива. Так собрались первые 10–12 человек. Этого естественно было мало. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk9v7yE" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="align-center stk-theme_29689__style_font_style-1490606764478 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Собрать хор стоило бесконечной череды актов отчаяния»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 2018–2019 годах в Санкт-Петербурге была популярна реклама женщин низкой социальной ответственности на листах А4 кислотных цветов. Мы сделали такие же: напечатали «ХОР» и номер телефона, и развесили по музыкальным школам, караоке и другим местам, где потенциально могут водиться хористы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хор как пединститут: женский конкурс 500 человек на место, мужской — кто придет. Чтобы добрать тенора и басы, наши девушки создали аккаунт в Tinder и смешно его заполнили, типа: «Я сопрано, ищу бас». Участницы так вдохновились идеей Attaque de panique, что, когда ходили на свидания, всегда спрашивали парней, не хотят ли они петь в хоре. Таким образом к нам пришло несколько хористов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сейчас мы точечно закрываем некоторые позиции. Требования стали жестче: у кандидата должно быть базовое музыкальное образование или хотя бы серьезный опыт в хоровом пении. Когда мы начинали, писали и разучивали аранжировки постепенно. Сейчас в репертуаре 44 трека. Выучить все — сложный челлендж, так что еще и память должна быть отличной.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/3-5.jpg" data-image-id="139196" srcset="https://entermedia.io/wp-content/uploads/2024/12/3-5-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/3-5-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/3-5.jpg 2400w" data-image-name="3.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-139196 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сколько хористов в Attaque de panique и кто эти люди?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В максимуме нас 55 человек, на концертах выступает 40–45 человек. Большая часть участников — люди творческих специальностей. Это и музыканты, и театральные артисты, и иллюстраторы. Но есть и самые обычные профессии. Раньше была традиция каждую репетицию представляться: «Я Витя, я — дизайнер» и так далее. К нам приходила девушка-рекордсменка Книги рекордов Гиннесса, вебкам-модель, физик-ядерщик — в общем, весь срез общества.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Проектно работаем с аранжировщиками, звуко- и светорежиссерами, декораторами, мультипликаторами — теми, кто технически помогает реализовать идеи.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Есть прекрасные любительские хоры и не очень хорошие профессиональные — где грань?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что отличает любителя от профессионала — философский вопрос. По идее, если человек зарабатывает деньги на профильной деятельности, то он профессионал. Наши хористы с музыкальным образованием и основной музыкальной работой не получают гонорары в хоре. Получается, они любители? Не уверен.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В первой версии сайта мы назвали себя любительским хором, потому что любим музыку. Хотя спустя время тезис переписали, нас по-прежнему обозначают как будто важным саблайном «любительский». Мне кажется эта категоричность лишней, так как хор не относится ни к одному из вариантов.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда и как прошел первый концерт Attaque de panique?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас было три первых концерта. Самый-самый первый прошел для одного человека. Мы разыграли билет среди подписчиков и исполнили для победителя около пяти песен. Это стало традицией: каждый день рождения 15 марта мы устраиваем концерт с одним слушателем в зале.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Второй первый концерт случился на хоровом фестивале классического пения. На фоне академических коллективов мы выглядели мягко говоря ярко. Благодаря этому нас заметила основательница Doing Great Agency и теперь наш менеджер Катя Штарева. Она пригласила выступить на Sofar Sounds (секретные концерты, место и время которых раскрывают накануне, а лайн-ап держится в секрете до выступления артистов — прим. Enter). Это был третий первый концерт, наконец-то на целевую аудиторию.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каждое появление Attaque de panique — заявление. Вы объединяете концерты и театр, выступаете на рынках и рейвах. Эти перформансы — попытка изменить представление о хоровом искусстве?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы поем чужие песни, но тоже хотим высказываться. И высказываниями становится то, <em class="stk-reset">как</em> мы исполняем аранжировки: в каком порядке, с какой громкостью и в окружении каких декораций. Есть огромный неповоротливый механизм в центре — песня. Остается крутить шестеренки и изменять настройки вокруг: в них и есть наш голос.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас несколько концертных направлений. Первое и главное — концерт-спектакль. Пока есть одна часть, скоро планируем продолжение. Это будет недомюзикл или переконцерт с перфоративным театром. В этот раз в постановке поучаствуют хористы и приглашенные артисты. Мы не можем полностью делегировать театральную часть, так как хор и театр по отдельности выглядят искусственно, а нам нужен синтез.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Второе направление — «обычные» концерты. На них, как правило, тоже случаются перформансы. Например, в последний день лета мы выступали на Новой Голландии (искусственный остров в центре Санкт-Петербурга — прим. Enter) на сцене «Летнего театра». У площадки необычная конфигурация, поэтому мы решили встать в круг спиной к зрителям и <a href="https://t.me/attaquedepanique/240" target="_blank" class="stk-reset">надеть на затылки маски</a>. В этом есть элемент перформанса, хотя он и получился, потому что не было других вариантов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На ближайшем концерте 21 декабря <a class="stk-reset" href="https://www.cosmonavt.su/attaque-de-panique#" target="_blank">в клубе «Космонавт»</a> будет, как обычно, зал с танцполом и наполненная программа. Я за то, чтобы люди на наших концертах танцевали, общались, выпивали — делали все, что привыкли делать на рейвах.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В одном из интервью вы сказали, что ваша деятельность «не коммерческая, а самореализационная». Это принцип, или пока не получается зарабатывать?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Представьте, зовут на фестиваль группу, а фронтмен говорит, что его барабанщика не отпустили с работы. Смешно? А у нас это вполне возможно.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы люди занимались хором как работой, нужно платить зарплату. Возьмем средние 70 000 рублей и умножим на 50 — это 3,5 млн рублей ежемесячно. Плюс аренда зала для репетиций, техника, гонорар проектным специалистам, костюмы, декорации, съемки — в общем и целом, 5 млн рублей. Я не представляю, сколько и на каких площадках нужно выступать, чтобы зарабатывать такие деньги. Известные хоры финансово поддерживает бизнес. Мы рады спонсорству, но пока нет времени и сил обивать пороги в поисках.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По этой же причине хор не ездит на гастроли. Когда нас приглашают организаторы из других городов, первое, что мы просим сделать, — посчитать стоимость трансфера. После этого организаторы пропадают. Для пример: дорога до Москвы и обратно обходится в 250 000 рублей, а это мы еще не пели.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Конечно, какие-то финансовые возможности имеются. У нас есть хоровой взнос 1 500 рублей в месяц и выручка от билетов на концерты. Эти деньги тратим на бытовые расходы: нанимаем режиссеров и театральных художников, платим за запись и фотосъемки, арендуем помещение для репетиций.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Attaque de panique 50 человек! Как вы справляетесь с организационными задачами? Есть журнал посещений и санкции для прогульщиков?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас есть конституция и «социальный рейтинг». Баллы начисляются за посещения: если пришел вовремя — три балла; немного опоздал — два балла; опоздал на 15 минут — один балл. Рейтинг влияет на попадание в концертный состав и бонусные проходки и мерч от партнеров. Люди не только не получают деньги, но и делают взносы. Как будто они и так мотивированы, раз продолжают заниматься. Тем не менее за коллективом, как за расползающейся кучей песка, приходится постоянно следить.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По другим задачам: какую-то часть обязательств делят концертный менеджмент, эйчар и бухгалтер. Социальные сети ведем силами участников хора. Остальной менеджмент на мне, в основном это задачи, плотно связанные с творческой деятельностью.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«От «АИГЕЛ» до «Хадн Дадн» — как Attaque de panique предлагают новое звучание аудитории фолка, инди и арт-панка»</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/4-3.jpg" data-image-id="139197" srcset="https://entermedia.io/wp-content/uploads/2024/12/4-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/4-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/4-3.jpg 2400w" data-image-name="4.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-139197 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В репертуаре Attaque de panique нет попсы — только нишевый инди, фолк, хип-хоп. Почему? Песни «Руки вверх!» понятнее и собирают больше слушателей.</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Идея перепеть хит — поверхностная. Можно взять песню из чартов и набрать прослушиваний за счет узнаваемости. И что дальше? Хочется верить, что смысл нашего творчества не только в исходном материале. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkrSYEI" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Мы знакомим людей из разных тусовок с новым звучанием: публике ниши показываем академическую музыку, а ценителям классического — авангардный поп-рок»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На каких условиях артисты соглашаются на сотрудничество? Есть те, кто отказывает?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы связываемся с артистами и в переписке согласовываем возможность исполнить аранжировку их творчества. В 99,9% случаях на этом все заканчивается, так как для концертного исполнения, по закону, достаточно заключить договор с РАО. Для записи треков действуют другие юридические договоренности.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отказов от авторов пока не было, все положительно реагируют. Иногда начинающие музыканты просят исполнить их трек для пиара, но мы таким не занимаемся. Иногда крупные артисты предлагают фиты. Так, например, случилось с <a href="https://www.youtube.com/watch?v=-PWCXLoC5NA" target="_blank" class="stk-reset">polnalyubvi</a>.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Представить альтернативный рок «АИГЕЛ» в хоровом исполнении сложно, но у вас получилось. Как из песни получается оратория?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если коротко, я нахожу песню и показываю дирижеру. Если трек нравится, отдаем его аранжировщику. Потом записываем демку готовой модификации — ее обычно отправляем послушать автору песни — и разучиваем партии.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В чем разница между кавером и аранжировкой?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы сделать кавер, достаточно взять укулеле и спеть примерный оригинал. Количество потраченного времени, сил и эмоций несопоставимо с аранжировкой. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хору нужна песня с музыкальными партиями для каждого голоса. Вариант первый: скачать ноты в интернете. Из минусов то, что онлайн-библиотека ограничена [навряд ли вы найдете адаптированные песни Хаски], и ею пользуются все. Если не хотите петь б/у произведения, для вас второй вариант: пойти к аранжировщику. Он сделает уникальные партитуру любой композиции.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каждая аранжировка — маленький перформанс: О первом мини-альбоме Début.</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/5-2.jpg" data-image-id="139195" srcset="https://entermedia.io/wp-content/uploads/2024/12/5-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/5-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/5-2.jpg 2400w" data-image-name="5.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-139195 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вы долго не публиковали <a class="stk-reset" href="https://music.yandex.ru/album/33590953?utm_source=web&amp;utm_medium=copy_link" target="_blank">альбом</a>, в этом была некоторая эксклюзивность творчества Attaque de panique. Почему решились на релиз?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Формат записи хора очень сложный, по крайней мере он таким получился с первым альбомом. Мы записывали всех хористов по отдельности. В финале получилось 30 дорожек, которые долго обрабатывал и сводил звукорежиссер из категории «про» Роман Харюков.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Выкладывать треки на стриминги логично, это один из способов промоушена. Долгий релиз альбома не то чтобы спланирован. Просто пока не получается организовать машину по производству контент. У нас 44 песни, записанных 4 — звучит, как пространство для творчества. Сложность в том, как запараллелить запись и концерты.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если внимательно слушать альбом, он посвящен взрослению: от школьной влюбленности до семейной однообразной жизни, в которой важно «от себя не устать». Я права? Почему вы выбрали эту тему для дебютного альбома?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В EP вошли четыре песни из первой программы, которая позднее стала частью того самого концерта-спектакля в Александринке. Постановка посвящена жизни человека, и каждый трек в ней действительно обозначает этап взросления. Альбом из четырех треков — как бы демоверсия спектакля, в которой удалось сохранить нарратив постепенного развития и к концу затухания.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Паническая атака», тема маленьких людей и смирительные рубашки как концертные костюмы — что вы хотите сказать?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В начале пути прозвучала шутка о том, что нормальные люди не будут ходить в хор [в том смысле, что «нормальные» выбирают футбол и танцы]. Мы в это заигрались, и получилась Attaque de panique со всей перечисленной атрибутикой. Первый альбом неслучайно называется Début — это и музыкальное выступление, и термин в психотерапии, который означает начало расстройства.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkGQ7Au" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Хор — социальное хобби, которое для многих становится формой психотерапии. Я, например, боюсь сцены. Тем не менее пять лет выхожу и пою. В этом есть некоторый символизм — вместе не страшно»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Поделитесь с теми, кто дочитал интервью и вдохновился творчеством Attaque de panique, с кого начать слушать и как полюбить хоровое пение?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Нескромно прозвучит, но начать нужно с Attaque de panique, так как одна из наших целей — мягкий вход в академическую музыку. Дальше можно двигаться по моему топу или, как я его называю, триумвирату великих женщин: сходить на концерты Веры Сласной и ее музыкального проекта <a href="https://vk.com/vgamajunv?ysclid=m4eivxa022906029825" target="_blank" class="stk-reset">GAMAJUN</a>, <a href="https://next.music.yandex.ru/artist/10403279" target="_blank" class="stk-reset">Настасьи Хрущевой</a> и <a href="https://music.apple.com/us/artist/elene-gvritishvili/1703234778" target="_blank" class="stk-reset">Елене Гвритишвили</a>.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkcOLVB" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ближайший концерт Attaque de panique пройдет 21 декабря в Санкт-Петербурге в клубе «Космонавт», билеты — <a class="stk-reset" href="https://www.cosmonavt.su/attaque-de-panique#" target="_blank">по ссылке</a>. Чтобы не пропустить анонсы следующих выступлений хора, следите за новостями <a class="stk-reset" href="https://attaquedepanique.ru/" target="_blank">на сайте</a>, в <a class="stk-reset" href="https://t.me/attaquedepanique" target="_blank">Telegram</a> и <a class="stk-reset" href="https://vk.com/attaquedepanique" target="_blank">«ВКонтакте»</a>, подписывайтесь на <a class="stk-reset" href="https://www.youtube.com/@Attaquedepaniquechoir/videos" target="_blank">YouTube</a>.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Ксения Монастырская<br><strong class="stk-reset">Изображения:</strong> Марина Никулина</p></div></div><style data-stk-css="stkGQ7Au" class="" media="all">[data-stk-css="stkGQ7Au"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkXeG3G" class="" media="all">[data-stk-css="stkXeG3G"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkOpPrE" class="" media="all">[data-stk-css="stkOpPrE"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk9v7yE" class="" media="all">[data-stk-css="stk9v7yE"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkrSYEI" class="" media="all">[data-stk-css="stkrSYEI"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkcOLVB" class="" media="all">[data-stk-css="stkcOLVB"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F&title=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене&description=&image=https://entermedia.io/wp-content/uploads/2024/12/6-Prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F&text=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как в России перезагрузили хор: Основатель постхора Attaque de panique об экспериментах в звучании и на сцене&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkak-v-rossii-perezagruzili-hor-osnovatel-posthora-attaque-de-panique-ob-eksperimentah-v-zvuchanii-i-na-stsene%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501122'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

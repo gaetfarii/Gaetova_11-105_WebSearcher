@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/12/0-prevyu.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,536] -->
+<link rel="canonical" href="https://entermedia.io/people/hronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ&raquo;" href="https://entermedia.io/people/hronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501127&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501127&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501127&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Татарстане ввели обязательную регистрацию собак' href='https://entermedia.io/news/v-tatarstane-vveli-obyazatelnuyu-registratsiyu-sobak/' />
+<link rel='next' title='Новогодние ночи в барах, рождественские концерты и другие вечеринки на праздничные выходные' href='https://entermedia.io/weekend/novogodnie-nochi-v-barah-rozhdestvenskie-kontserty-i-drugie-vecherinki-na-prazdnichnye-vyhodnye-3/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-139884 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/12/0-prevyu.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">28 декабря</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F&title=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ&description=&image=https://entermedia.io/wp-content/uploads/2024/12/0-prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F&text=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="19" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">19</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="139884">
+    <div id="post-139884" class="post-139884 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:139891,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139890,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139889,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139888,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139887,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139886,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139885,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Нам очень нравится традиция подводить итоги в конце года. В этот раз, кроме личных результатов, решили отметить научные открытия и разработки 2024 года. В шорт-лист вошли достижения ученых КФУ — вуза, который на протяжении 220 лет формирует и развивает научный дискурс, совершает индустриальные прорывы и меняет жизнь миллионов обычных людей.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы поговорили с семью учеными из разных сфер: от генетики и микробиологии до астрофизики и нефтехимии. Зачем открывать звезды, как исправлять поломки в генах и что делать, когда закончится легкая нефть, — о сложных явлениях и процессах читайте в простых ответах ученых КФУ.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Генетика</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/1.-Genetika.jpg" data-image-id="139885" srcset="https://entermedia.io/wp-content/uploads/2024/12/1.-Genetika-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/1.-Genetika-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/1.-Genetika.jpg 1200w" data-image-name="1. Генетика.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139885 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Альберт Ризванов</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">руководитель центра превосходства «Персонифицированная медицина», профессор и главный научный сотрудник кафедры генетики Института фундаментальной медицины и биологии КФУ, академик-секретарь и член-корреспондент Академии наук РТ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Что открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Препараты генной терапии для лечения редких заболеваний</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редкие заболевания связаны с наследственными мутациями генов, из-за которых организм не производит важные для жизнедеятельности белки. Вариантов таких поломок генов более 7 000, но встречаются они редко: у одного из десяти тысяч или даже одного из млн человек.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Генная терапия борется не с последствиями заболеваний, а с их первопричинами. Это можно сравнить с компьютером, где геном — жесткий диск. Когда в нем случается сбой, например, не открывается файл, можно воспользоваться флешкой и скачать документ заново или запустить его с носителя. Генный препарат, подобно флешке, содержит правильные копии генов. Клетки считывают информацию и начинают выполнять инструкцию по биосинтезу недостающих белков.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы разрабатываем препараты для лечения нескольких наследственных заболеваний: метахроматической лейкодистрофии (повреждение «оболочки» нервов — миелина, которое приводит к проблемам с координацией и развитием), болезни Тея-Сакса (нарушение работы ферментов, из-за чего страдают клетки мозга), ихтиоза (кожное заболевание, при котором дерма покрывается чешуйками) и других.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью генной инженерии и платформенного подхода</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Правильные гены синтезируются с помощью генной инженерии. Здоровые копии встраиваются в различные векторы, например, безопасные для человека вирусные. Они работают почти как вакцина от COVID-19, где искусственно измененный безопасный вирус доставляет в клетки ген коронавируса, что приводит к выработке вирусного белка. Организм формирует иммунитет — антитела и Т-клетки. Генные препараты стимулируют не иммунный ответ, а приводят к биосинтезу недостающих белков человека.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В КФУ мы практикуем платформенный подход — конструктор, в котором вместо деталек — гены. Мы меняем кубики и получаем варианты препаратов для разных мутаций. Получается серийная разработка лекарств, которые к тому же можно делать на одной производственной линии. Так как генные болезни редкие, много лекарства не нужно, поэтому строить завод для производства только одного препарата — неэффективно. Платформенный подход с работой над несколькими лекарствами одновременно решает эту проблему.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вылечить любое генное заболевание будет просто и недорого</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В сентябре 2024 года в законе <a href="https://www.consultant.ru/document/cons_doc_LAW_103587/e7c24d4d454e79debe2a0972818afd5742d0da46/" target="_blank" class="stk-reset">«Об обращении лекарственных средств»</a> добавили понятие «биотехнологические лекарственные препараты». Теперь организации, которые разрабатывают препараты генной терапии, могут проводить их клинические исследования по индивидуальным показаниям для пациентов. Уже в следующем году на базе вуза появится биофармпарк. Фармкомпании, которые заинтересованы в опыте КФУ, смогут не только заказать разработку препаратов, но и получить пилотные партии для доклинических и клинических исследований. Мы сможем быстрее и дешевле разрабатывать, производить и внедрять лекарства, которые помогут справиться взрослым и детям с очень серьезными заболеваниями.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Медицина и биология</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/2.-Meditsina-i-biologiya.jpg" data-image-id="139886" srcset="https://entermedia.io/wp-content/uploads/2024/12/2.-Meditsina-i-biologiya-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/2.-Meditsina-i-biologiya-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/2.-Meditsina-i-biologiya.jpg 1200w" data-image-name="2. Медицина и биология.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139886 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Яна Мухамедшина</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">доктор медицинских наук, профессор Академии наук республики Татарстан, ведущий научный сотрудник Института фундаментальной медицины и биологии КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset"><em class="stk-reset">Что открыли</em></strong><em class="stk-reset"> </em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Генактивированные матриксы</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для восстановления после травм используют матриксы — имплантируемые материалы, которые выполняют функцию каркаса и помогают тканям регенерировать. Клетки из сохранной здоровой области мигрируют на имплант и быстрее восстанавливают поврежденный участок.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первое поколение матриксов выполняло исключительно механическую функцию. Для усиления регенераторного потенциала ученые засеяли имплант кольцевой ДНК с генами. Кольцевая ДНК проникает в клетки, заставляет их синтезировать терапевтические молекулы и эффективнее заполнять область дефекта. Время показало, что «заражение» клеток плазмидными векторами идет хуже, чем вирусными. Так появилось следующее поколение препаратов — генактивированных матриксов, которые стали насыщать (адгезировать на их поверхность) генными вирусными препаратами. В нашем случае — аденоассоциированными вирусами, которые показали свою безопасность и эффективность. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Подобные генактивированные матриксы биосовместимые, не вызывают иммунные и воспалительные реакции и со временем разлагаются в организме. Матриксы могут быть в виде пластин и полых трубок (кондуитов). Например, при повреждении спинного мозга на травмированную область можно наложить генактивированный матрикс в виде пластины. При разрывах периферических нервов в области дефекта (диастаза) можно использовать аналогичные матриксы в виде полых трубок.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью электроспиннинга и адгезии</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы создаем матриксы при помощи электроспиннинга: напыляем полимерный биологический или синтетический раствор на тонкий цилиндр для полых матриксов и на толстый цилиндр для пластин. Под микроскопом они выглядят как трехмерная сетчатая структура, которая может быть разной пористости и толщины. На поверхность и внутрь матрикса «прикрепляются» вирусы. После проверки адгезии (сцепления) матрикс можно использовать в организме.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Быстрое восстановление пациентов с травмами нервной ткани</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Матриксы обеспечивают лучший прогресс восстановления. Это один из вариантов в острый период нейротравмы улучшить регенерацию и способствовать полному или частичному восстановлению двигательной и чувствительной функций.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Матриксы сами по себе — изделия медицинского назначения, так как выполняют механическую функцию. Матриксы, засеянные кольцевой ДНК или вирусами, требуют предварительной регистрации генного компонента как лекарственного препарата. В России индустриальные партнеры заинтересованы нашими разработками, и есть надежда на появление новых инновационных лекарственных препаратов отечественного происхождения. В ближайшее время мы планируем начать тестирование генактивированных матриксов на животных.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Астрофизика</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/3.-Astrofizika.jpg" data-image-id="139887" srcset="https://entermedia.io/wp-content/uploads/2024/12/3.-Astrofizika-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/3.-Astrofizika-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/3.-Astrofizika.jpg 1200w" data-image-name="3. Астрофизика.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139887 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ильхам Галиуллин</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">заведующий молодежной НИЛ «Космические источники рентгеновского излучения», ассистент кафедры астрономии и космической геодезии Института физики КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Что открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Четыре двойные звезды</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В космосе есть одиночные звезды как Солнце и двойные системы. В них звезды вращаются друг вокруг друга наподобие Земли и Луны. Нас интересовали не просто двойные системы, а те, у которых один из объектов проэволюционировал и стал белым карликом — объектом размером с Землю и массой с Солнце. Такие тесные двойные системы называются катаклизмическими переменными, где белый карлик перетягивает вещество (газ) с соседней звезды. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У катаклизмических переменных широкий спектр наблюдательных особенностей. При особых условиях на поверхности белого карлика может накопиться достаточное количество вещества и начаться термоядерная реакция, что станет причиной дальнейшего взрыва белого карлика — одного из самых мощных событий во Вселенной. Такие вспышки называются сверхновыми типа Ia, где выделяется огромное количество света и энергии, превышающих на тысячи порядков излучение нашего Солнца.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью многоканальной астрофизики</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Многоканальная астрономия позволяет изучать космос в разных диапазонах электромагнитного спектра: радиоволны, оптического (видимого) света, микроволнового, инфракрасного, ультрафиолетового, рентгеновского и гамма-излучений. Благодаря комбинации данных в разных диапазонах мы получаем более полное и точное представление о природе космического объекта — это как смотреть на вещь в очках с разными стеклами и видеть ее каждый раз по-новому.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы обнаружить двойные системы, мы занимались анализом архивных данных рентгеновской космической обсерватории Chandra (около 300 тысяч объектов), оптического космического телескопа Gaia (около млрд объектов) и наземной оптической системы Zwicky Transient Facility (около млн объектов). На основе анализа каталогов удалось выделить около 26 000 источников нашей Галактики, излучающих в рентгеновском и оптическом диапазонах. Среди 26 000 источников оказалось 10 кандидатов катаклизмических переменных. Чтобы подтвердить их природу, мы провели наблюдение на крупных телескопах: 10-метровом телескопе в обсерватории Кека и 5-метровом телескопе в Паломарской обсерватории.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Космические объекты в Галактике станут известнее, а физические процессы — понятнее</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Большая часть астрофизических исследований фундаментальны. Изучать космические объекты и явления нужно для понимания разных физических процессов и свойств веществ в экстремальных условиях. Эти знания пригодятся для развития технологий в будущем. Только представьте, в XIX веке звезды помогали в навигации, а сегодня те знания, методы и технологии, которые были разработаны для изучения космических объектов, используются в космической отрасли, энергетике, медицине, климатологии, поиске сверхпроводников, развитии компьютерных технологий и многих других направлениях.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Нефтехимия</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/4.Neftehimiya.jpg" data-image-id="139889" srcset="https://entermedia.io/wp-content/uploads/2024/12/4.Neftehimiya-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/4.Neftehimiya-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/4.Neftehimiya.jpg 1200w" data-image-name="4.Нефтехимия.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139889 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Алексей Вахин</h4><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">руководитель НИЛ «Внутрипластовое горение» Института геологии и нефтегазовых технологий КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset"><em class="stk-reset">Что открыли</em></strong></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Технология внутрипластовой нефтепереработки с использованием катализаторов для освоения месторождений высоковязкой нефти</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ресурсы обычной нефти в мире снижаются, и все больше компаний обращают внимание на тяжелое высоковязкое сырье — нефть высокой плотности с крупными молекулами, так называемыми асфальтенами. В такой нефти содержится много серы. Чтобы добыть тяжелую нефть, ее нагревают. Для этого в пласт закачивают пар: он конденсируется, происходит фазовый переход, пласт нагревается, и тяжелая высоковязкая нефть становится более подвижной.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В условиях теплового воздействия возможно добиться не просто «размягчения» нефти, но и ее химического преобразования с помощью катализаторов. Это такие вещества, которые ускоряют химические реакции. То есть благодаря катализаторам мы можем в некоторой степени начать перерабатывать нефть уже на этапе добычи. Это помогает более рационально использовать энергию: на тот же объем закачанного в пласт пара, добывается больше сырья.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Исследовали катализаторы</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Исследования катализаторов проводятся по всему миру уже много лет. Первые опыты в КФУ стартовали 10 лет назад. Мы стали пионерами в России по практическому внедрению внутрипластовых катализаторов. Наши составы запатентованы и испытаны на нескольких месторождениях.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Продукты нефтехимии и топливо станут дешевле</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Во время первичной переработки на этапе добычи в нефте становится меньше трудноперерабатываемых компонентов — тех самых крупных молекул асфальтенов и серы. Это снижает нагрузку на нефтеперерабатывающие заводы. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Широкому потребителю сложно ощутить прямой эффект, потому что многие разработки по совершенствованию нефтедобычи имеют отложенный эффект. Но в целом, любое повышение рентабельности сказывается на снижении стоимости продуктов нефтехимии и углеводородного топлива.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/4.1-Neftehimiya-_-Reagenty-dlya-povysheniya-nefteotdachi.jpg" data-image-id="139888" srcset="https://entermedia.io/wp-content/uploads/2024/12/4.1-Neftehimiya-_-Reagenty-dlya-povysheniya-nefteotdachi-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/4.1-Neftehimiya-_-Reagenty-dlya-povysheniya-nefteotdachi-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/4.1-Neftehimiya-_-Reagenty-dlya-povysheniya-nefteotdachi.jpg 1200w" data-image-name="4.1 Нефтехимия _ Реагенты для повышения нефтеотдачи.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139888 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Михаил Варфоломеев</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">заведующий кафедрой разработки и эксплуатации месторождений трудноизвлекаемых углеводородов Института геологии и нефтегазовых технологий КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset"><em class="stk-reset">Что открыли</em></strong></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реагенты для повышения нефтеотдачи</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В современной нефтегазовой сфере есть две проблемы. Легкой нефти, которую можно добыть простыми способами, становится меньше. На многих крупных месторождениях  добывают только 30–40% от имеющихся запасов, несмотря на вложенные средства на обустройство месторождений. Чтобы извлечь остаточную нефть на старых месторождениях и наладить добычу тяжелого высоковязкого сырья, мы создаем химические реагенты и разрабатываем технологии.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одни из таких реагентов — ПАВ для заводнения нефтяного пласта. Поверхностно-активные вещества содержатся в средствах для мытья посуды и помогают отмыть жир от тарелок. Что-то подобное мы реализуем на нефтяных месторождения на глубине до нескольких километров: закачиваем раствор ПАВ и он «отмывает» нефть. Ценность разработки в том, что посуду мы моем чистой пресной водой при комнатной температуре. На нефтяных месторождениях совсем другие условия. Температура может варьироваться от 0 до 150 °C, а концентрация соли в воде доходить до 40%.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Другой вызов заключается в том, что объекты нефтегазодобычи смещаются в районы со сложными климатическими условиями. Из-за низкой температуры и повышенного давления образуются твердые частицы в виде гидратов. Они уменьшают объемы добычи, блокируют системы сбора и транспорта нефтепродуктов. Мы создали реагенты, которые позволяют ингибировать или замедлить эти процессы. Это обеспечит стабильную добычу, сбор и подготовку нефти и газа в районах с осложненными условиями.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Увеличится объем добычи нефти</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Растворы ПАВ и другие разрабатываемые нами реагенты помогут увеличить добычу нефти на 15–20%. Эти объемы важны как для внутреннего потребления нефтепродуктов в стране, так и для экспорта. Кроме топлива, из нефти получают огромное количество полезных компонентов для нефтехимии и новых материалов, в том числе пластмасс, синтетические ткани и даже лекарственные препараты. Это важное ископаемое сырье, от которого мы не можем отказаться.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Многие рассуждают, что нефтяная индустрия загибается и что мы в ближайшее время перейдем на возобновляемые источники энергии. На самом деле это не так. Все прогнозы говорят, что объем потребления нефти не будет снижаться еще несколько десятилетий. И только во второй половине XXI века ожидается более серьезный переход от нефти к возобновляемым источникам.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Материаловедение — полимерные композиты</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/5.-Materialovedenie-polimernye-kompozity.jpg" data-image-id="139890" srcset="https://entermedia.io/wp-content/uploads/2024/12/5.-Materialovedenie-polimernye-kompozity-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/5.-Materialovedenie-polimernye-kompozity-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/5.-Materialovedenie-polimernye-kompozity.jpg 1200w" data-image-name="5. Материаловедение — полимерные композиты.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139890 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Игорь Антипин</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">научный руководитель НИЛ «Синтетические полимерные материалы и композиты» и профессор Химического института им. А.М. Бутлерова КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Что открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Технология получения изделий из суперконструкционного полимера</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Суперконструкционные пластики отвечают самым жестким условиям эксплуатации: они устойчивы к экстремальным температурам, механически прочные, жесткие, химически стойкие, негорючие и стабильные — сохраняют постоянный размер и форму в любых условиях. Это важные свойства для современных высокотехнологичных производств: автомобилестроения, авиакосмической промышленности, медицины и оборонно-промышленного комплекса.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сегодня, чтобы быстро изготовить изделия сложной формы, используют 3D-печать. Но для работы любого принтера нужен расходный материал: для струйного — чернила, для лазерного — порошок, для 3D-принтера — филамент, который выглядит как полимерная проволока (нить) на катушке. Мы первые в России разработали технологию производства филамента из отечественного суперконструкционного пластика. Преимуществом разработки в том, что мы работаем с российскими материалами, а именно с полифениленсульфидом казанской компании ООО «НТЦ “Ахмадуллины”». </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Другой важной разработкой стала технологии производства тонких пленочных материалов из суперконструкционных термопластов. Благодаря их химической стойкости и хорошим электроизоляционным свойствам, у них самый широкий спектр применения в качестве полифункциональных (многослойных), упрочняющих, проводящих и диэлектрических материалов при формировании контактов, изготовлении печатных плат, элементов интегральных схем в микроэлектронике, создании светофильтров, элементной базы оптоэлектроники и так далее.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью уникальной производственной линии, объединив химические и инженерные знания</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Простыми словами: мы берем специально сконструированный (это ноу-хау) композит в виде гранул, расплавляем в специальном устройстве экструдере при температуре 300–400 °C и с помощью «толкателя» шнека выдавливаем этот расплав через тонкое отверстие, который при охлаждении застывает в нить филамента. Для того чтобы получить пленку, тонкое отверстие заменяем на узкую щель.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">При всей кажущейся простоте метода, это сложнейшая технологическая задача: подобрать состав, температурный режим переработки, скорость протяжки материала и так далее. Мы единственные в России и немногие в мире, которые могут производить тонкие пленки из суперконструкционных полимеров.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открытие повлияет на будущее</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Повысится износостойкость многих элементов </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По многим характеристикам такие полимеры и композиты на их основе превосходят металлы, при этом их вес на 50–70% меньше. Мы даже не замечаем, что суперпластики находятся вокруг нас и делают нашу жизнь более комфортной и безопасной. Например, в самолете до 40% изделий могут быть изготовлены из таких композитов. Или зубной протез может быть напечатан на 3D-принтере из высокопрочных пластиков. Важен также и экологический аспект применения эти полимеров: они долговечны и могут подвергаться повторной переработке, что резко снижает количество загрязнений в природной среде.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Энергетика</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/7.-Energetika.jpg" data-image-id="139891" srcset="https://entermedia.io/wp-content/uploads/2024/12/7.-Energetika-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/7.-Energetika-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/7.-Energetika.jpg 1200w" data-image-name="7. Энергетика.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139891 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Руслан Батулин</h4><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">доцент кафедры общей физики, ведущий научный сотрудник и руководитель НИЛ «Квантовые симуляторы» Института физики КФУ</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Что открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Технология создания гибкого сверхпроводящего композита на основе магния и бора</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы в розетке появился электрический ток, энергию солнца, ветра, воды или атомов необходимо преобразовать и передать на большие расстояния. Для этого используют воздушные линии электропередач (ЛЭП). Чтобы передать электроэнергию на большие расстояния, напряжение сначала повышают до 35–110 кВ и 330–750 кВ, а потом понижают до привычных 220–230 В с помощью мощных трансформаторов. В них и в высоковольтных ЛЭП и заключается некоторая проблема.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Провода для ЛЭП делают из алюминия, а для бытовой электропроводки — из меди. И алюминий, и медь — хорошие проводники электричества. Когда ток протекает по проводнику со сопротивлением, часть энергии рассеивается и преобразуется в тепло. При передаче по ЛЭП теряется 2%–5% — при небольшом потреблении электроэнергии потери незначительные. Но когда передаются значительные мощности в 25–50 МВт и более, годовые потери составляют значительные суммы. Это критично для промышленности и крупных городов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сверхпроводники при определенных условиях (ниже критической температуры) не обладают электрическим сопротивлением и, соответственно, не имеют потерь. Но сверхпроводники нужно охлаждать — для чего тоже тратится энергия. Несмотря на это, охладить сверхпроводник и поддерживать его в этом состоянии дешевле, чем использовать обычные проводники.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Идея использовать сверхпроводники для передачи электроэнергии неновая. Например, российская компания «С-Инновации» производит сверхпроводники второго поколения в виде гибких композитов на основе редкоземельных купратов REBCO. А «Россети» уже тестируют сверхпроводящую линию 2,5 км в Санкт-Петербурге. Но пока все эти системы очень дороги. Наша группа разработала технологию, объединяющую преимущества гибкого композита и относительно дешевый сверхпроводник на основе диборид магния MgB2.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">Как открыли</em></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Напылили сверхпроводник из мишеней магния и бора </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сверхпроводник может быть проводом или многослойной лентой — композитным материалом. Наш вариант выглядит как композит, в основе которого металлическая лента шириной 10 мм и толщиной 100 мкм. На ленту наносится защитный буферный слой, а на него сверхпроводящий слой из мишеней магния и бора. Для этого используют метод магнетронного напыления.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset"><em class="stk-reset">Как открытие повлияет на будущее</em></strong></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Плата за электроэнергию станет меньше</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Формула простая: чем больше электроэнергии поставляет оператор при тех же финансовых затратах, тем дешевле конечная стоимость электричества для людей. Плюс, сверхпроводники решают инфраструктурную проблему, могут быть эффективными токоограничивающими устройствами, сверхпроводящими накопителями энергии и так далее. В городах с плотной застройкой иногда невозможно проложить кабельную линию, которая позволит увеличить пропускную способность с помощью обычных проводников: для этого нужно выделить землю для строительства целого туннеля. Для увеличения пропускной способности при прочих равных условиях помогут только сверхпроводники.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Ксения Монастырская<br><strong class="stk-reset">Изображения:</strong> Айгуль Мирханова</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F&title=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ&description=&image=https://entermedia.io/wp-content/uploads/2024/12/0-prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F&text=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Хроника научных открытий: Чем занимаются ученые в лабораториях КФУ&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhronika-nauchnyh-otkrytij-chem-zanimayutsya-uchenye-v-laboratoriyah-kfu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="19" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">19</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501127'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

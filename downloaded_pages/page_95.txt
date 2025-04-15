@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Фестиваль НУР, девелопер «Авторы» и другие | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/2-11.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,512] -->
+<link rel="canonical" href="https://entermedia.io/city/festival-nur-developer-avtory-i-drugie/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Фестиваль НУР, девелопер «Авторы» и другие&raquo;" href="https://entermedia.io/city/festival-nur-developer-avtory-i-drugie/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501186&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501186&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501186&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Фотограф Ленар Карим прочтет лекцию о композиции в галерее «БИЗОN»' href='https://entermedia.io/news/fotograf-lenar-karim-prochtet-lektsiyu-o-kompozitsii-v-galeree-bizon/' />
+<link rel='next' title='Пять причин подать заявку в школу для креаторов от агентства BBDO' href='https://entermedia.io/weekend/pyat-prichin-podat-zayavku-v-shkolu-dlya-kreatorov-ot-agentstva-bbdo/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-136841 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/2-11.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Фестиваль НУР, девелопер «Авторы» и другие <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2024/11/IMAGE-2024-11-01-162348-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Лада Поздеева</div>
+          <div class="date-publish">28 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F&title=Фестиваль НУР, девелопер «Авторы» и другие&description=&image=https://entermedia.io/wp-content/uploads/2024/10/2-11-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F&text=Фестиваль НУР, девелопер «Авторы» и другие" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Фестиваль НУР, девелопер «Авторы» и другие&related=truemisha&hashtags=Вакансии недели&url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="136841">
+    <div id="post-136841" class="post-136841 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-vakansii-nedeli">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><em class="stk-reset">В рубрике «Вакансии недели» Enter рассказывает про интересные вакансии нашего города в креативной сфере и не только.</em></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stksM3fh" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Творческий SMM-менеджер</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В команду Международного фестиваля медиаискусства НУР</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Составлять контент-план для соцсетей фестиваля, писать и выпускать посты и сторис, формировать ТЗ для отдела контента и дизайна, поддерживать связь с аудиторией и привлекать новую, участвовать в собраниях команды</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Релевантный опыт, понимание специфики работы на фестивале, знание алгоритмов соцсетей, развитый вкус и насмотренность, способность генерировать идеи вирусного контента</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Полную или частичную занятость в офисе в центре Казани, необходимые ресурсы для работы, зарплату по итогам собеседования</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рассказ о себе, мотивационное письмо, портфолио и ожидания по зарплате присылать в <a href="https://t.me/kamkamonn" target="_blank" class="stk-reset">Telegram</a> с пометкой «от редакции Enter»</p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkxbVsM" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Внимательный системный администратор</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В девелоперскую компанию «Авторы»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Подбирать, закупать и поддерживать работоспособность офисной техники для сотрудников; устанавливать ПО; настраивать сервер; администрировать связь, почтовую и файловую систему</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Знание Windows на уровне администратора, почтовых и файловых служб основных ОС, протоколов TCP/IP; умение ремонтировать технику; аналитическое мышление</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Белую зарплату до 80 000 рублей на руки, стандартный график из офиса, участие в корпоративных мероприятиях и мастер-классах</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108690907?hhtmFrom=vacancy_search_list" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkg7UAN" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Креативный видеооператор</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Центр социальной реабилитации «Приют Человека»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Снимать шортсы, рилсы и другие видео разных форматов; монтировать отснятый материал; развивать каналы Центра</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опыт работы от полугода, свое оборудование будет преимуществом</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 70 000 до вычета налогов, гибкий график, корпоративное питание, неограниченный потенциал для творчества</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/109198696" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkWuU0q" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ответственный руководитель брендов</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В АО «Татспиртпром»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Разрабатывать новые продукты и выводить их на рынок, контролировать динамику продаж и улучшать позиции бренда, разрабатывать стратегии позиционирования и оптимизировать ассортимент</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опыт работы в маркетинге от двух лет (желательно — в сфере крепкого алкоголя или продуктах питания), умение управлять несколькими проектами одновременно, знание современных маркетинговых трендов</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оформление по ТК РФ; ежемесячные, ежеквартальные и годовые премии; ДМС с расширенным пакетом с первой недели работы; возможность обучения и карьерного роста; скидки на продукцию компании</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108987618" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkzd6cL" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Системный арт-менеджер</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В детский город KidSpace</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Разрабатывать концепции и сценарии игровых станций, адаптировать существующие материалы и внедрять их в работу, составлять сметы для игровой деятельности, обучать сотрудников и контролировать работу на игровых станциях</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опыт работы методистом или сценаристом, умение писать сценарии и адаптировать их для детей, многозадачность, любовь к детям, коммуникабельность и требовательность</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 45 000 рублей по итогам собеседования, стандартный график из офиса, возможность работать в единственном проекте формата «играй-учись» в Татарстане</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/109036738?hhtmFrom=vacancy_search_list" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkHMdwC" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ведущий дизайнер мест общего пользования</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В архитектурное бюро «АЕ»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Анализировать исходно-разрешительную документацию, готовить и утверждать задания на выполнение работ по объектам капитального строительства и дизайну интерьеров, формировать команды и организовывать процессы</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опыт работы на аналогичной должности, активную жизненную позицию, нацеленность на результат</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 150 000 до 250 000 рублей на руки, график на выбор, соцпакет, участие в интересных российских и зарубежных проектах, систему адаптации и повышения квалификации</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108967591" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkapeqi" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Внимательный корректор</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Университет Иннополис</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Корректировать и редактировать организационно-нормативные, локально-нормативные и информационно-справочные документы; проверять их на наличие приложений и других дополнительных материалов</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Среднее профессиональное или высшее образование, безупречную грамотность, ответственность</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оформление по ТК РФ, сокращенный рабочий день по пятницам, ДМС после испытательного срока, бесплатный трансфер Казань-Иннополис-Казань, корпоративную скидку в фитнес-клуб, доступ к лекциям университета и корпоративной библиотеке</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/109232500" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkag4sP" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мудрый менеджер</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Общественный фонд татарской культуры РТ имени Рашита Вагапова</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вести переговоры с зарубежными партнерами; координировать артистический, художественный и управленческий персонал; собирать документы</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Знание английского, коммуникабельность, исполнительность</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 50 000 рублей на руки, стандартный график, карьерный рост</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108053635?hhtmFrom=vacancy_search_list" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkgD2TD" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Трудолюбивый кондитер</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В бистро «Артель»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Делать заготовки по технологическим картам, соблюдать технику безопасности, поддерживать чистоту на рабочих зонах</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опыт от года, исполнительность, ответственность</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 63 000 до 70 000 рублей на руки, график 2/2 или 3/3, бесплатное питание, ежегодное повышение зарплаты и летний бонус, участие в поварских конкурсах</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108892967" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk9vLyp" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Общительный официант</h5><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Куда нужен:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В ресторан New Аsia</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что нужно будет делать:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Грамотно обслуживать гостей, соблюдать порядок</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что требуют:</strong></p><p class="align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Стрессоустойчивость, способность работать в быстром темпе</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">
+      Что предлагают:
+    </strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зарплату от 50 000 до 80 000 рублей на руки, общие чаевые, гибкий график, карьерный рост, 20% скидку в проектах NK Group, питание, развоз после поздней смены</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><p class="stk-theme_29689__mb_0 stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Контакты:</strong></p><p class="stk-theme_29689__style_small_text align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://kazan.hh.ru/vacancy/108974389" target="_blank" class="stk-reset">Вакансия</a></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid stk-layout__overhangs_both" data-ce-tag="grid" data-stk-css="stkriTnM"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="align-center stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji stk-theme_29689__style_font_style-1490606809211 ce-element--empty stk-element_no-text" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606809211 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если вы хотите найти сотрудников для своей компании или стартапа, заполняйте <a href="https://docs.google.com/forms/d/e/1FAIpQLScWCxd6AWzBPuf0JGgV27U_6Csa1_2h1965XD2Zu9yM2RDccA/viewform?usp=sf_link" target="_blank" class="stk-reset">форму</a>. Поможем, чем сможем.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Лада Поздеева<br><strong class="stk-reset">Изображение:</strong> miniaiu</p></div></div><style data-stk-css="stkriTnM" class="" media="all">[data-stk-css="stkriTnM"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk9vLyp" class="" media="all">[data-stk-css="stk9vLyp"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkgD2TD" class="" media="all">[data-stk-css="stkgD2TD"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkag4sP" class="" media="all">[data-stk-css="stkag4sP"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkapeqi" class="" media="all">[data-stk-css="stkapeqi"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkHMdwC" class="" media="all">[data-stk-css="stkHMdwC"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkzd6cL" class="" media="all">[data-stk-css="stkzd6cL"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkWuU0q" class="" media="all">[data-stk-css="stkWuU0q"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkg7UAN" class="" media="all">[data-stk-css="stkg7UAN"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkxbVsM" class="" media="all">[data-stk-css="stkxbVsM"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stksM3fh" class="" media="all">[data-stk-css="stksM3fh"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F&title=Фестиваль НУР, девелопер «Авторы» и другие&description=&image=https://entermedia.io/wp-content/uploads/2024/10/2-11-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F&text=Фестиваль НУР, девелопер «Авторы» и другие" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Фестиваль НУР, девелопер «Авторы» и другие&related=truemisha&hashtags=Вакансии недели&url=https%3A%2F%2Fentermedia.io%2Fcity%2Ffestival-nur-developer-avtory-i-drugie%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501186'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

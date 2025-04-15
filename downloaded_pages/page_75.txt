@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе» | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/06/Prevyu.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,542] -->
+<link rel="canonical" href="https://entermedia.io/people/anastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»&raquo;" href="https://entermedia.io/people/anastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501158&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501158&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501158&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Как в Казани отметят Сабантуй 2024' href='https://entermedia.io/news/kak-v-kazani-otmetyat-sabantuj-2024/' />
+<link rel='next' title='В Казани пройдет форум Beinopen х «Долями» «Система моды 2024+6: предвидение новых сил»' href='https://entermedia.io/news/v-kazani-projdet-forum-beinopen-h-dolyami-sistema-mody-2024-6-predvidenie-novyh-sil/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-129764 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/06/Prevyu.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе» <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">4 июня</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F&title=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»&description=&image=https://entermedia.io/wp-content/uploads/2024/06/Prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F&text=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="7" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">7</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="129764">
+    <div id="post-129764" class="post-129764 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-intervyu">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:129766,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:129767,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:129768,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:129769,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:129770,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Совсем недавно в Казани прошел международный фестиваль медиаискусства «НУР». В рамках события было представлено множество инсталляций на более, чем 10 локациях по всему городу. «НУР» — возможность раз в год окунуться в мир медиаискусства и поближе познакомиться с художниками из разных уголков мира. Анастасия Слабиняк — один из деятелей искусства, которая представила в этом году свою инсталляцию STORM совместно с Тинькофф.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter поговорила с Анастасией Слабиняк и теперь рассказывает, что можно отнести к медиаискусству, а что — нельзя, в чем замысел инсталляции STORM и какую роль в реализации проекта сыграла коллаборация.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/2-1.jpg" data-image-id="129769" srcset="https://entermedia.io/wp-content/uploads/2024/06/2-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/2-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/2-1.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-129769 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Понятие «медиаискусство» относительно молодое. Но все же, когда в искусстве впервые начали использовать высокие технологии?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Медиаискусство всегда шло в ногу с технологическим развитием и трансформировалось с появлением новых медиумов. Историю медиаарта отсчитывают с начала 1960-х и экспериментов группы Флюксус, куда входил Нам Джун Пайк — пионер видеоарта, разрушивший привычную концепцию телевидения, превратив экраны в медиаскульптуры.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Художники искали нестандартное применение появляющимся технологиям, и часто создание произведений мультимедиа арта начинается не с концепции и высказывания, а с исследования и комбинирования знаний из области инженерии, программирования, архитектуры, биологии, музыки и других смежных сфер.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что же можно отнести к цифровому искусству, а что — нельзя?   </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К цифровому искусству мы относим работы, где цифровые технологии выступают не как инструмент в создании продукта (как в фотографии), а как медиум, то есть работа создается, хранится и распространяется исключительно в цифровом формате, и художественный процесс также происходит в рамках этой среды.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Расскажите, как родилась идея создать инсталляцию STORM для фестиваля «НУР»? </h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Меня всегда вдохновляли чистые технические решения. Как будто, чем проще и уникальнее сетап, тем большего эмоционального отклика можно добиться.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это самая сложная задача, которую можно себе поставить в мультимедиа, так как вся индустрия работает в рамках существующих технологий и комбинирует их в поиске новых решений. Добиться вау-эффекта, соединив множество разных приемов, — просто. Но найти какую-то одну вещь, которая будет работать, и которую не использовали ранее — уже не самый простой путь. Для меня это самая интересная часть процесса — поиск нестандартных решений в том, что у нас есть, исследование смежных сфер и интеграция этого в мультимедиа.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В этом минимализме я очень восхищаюсь NONOTAK — тем, как гениально они простыми средствами работают с пространством, то, какую драматургию выстраивают звуком, как нестандартно подходят к материалам. STORM, как и большинство моих концепций, начался не из идеи, а из технологии. И хотя в процессе сетап почти полностью изменился, так как первоначальная версия не прошла тесты, технология переотражений лазера, проходящего через клубы дыма в капсуле, и идея шторма соединились в единое целое.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/3-2.jpg" data-image-id="129770" srcset="https://entermedia.io/wp-content/uploads/2024/06/3-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/3-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/3-2.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-129770 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Медиаинсталляции довольно своеобразны. Если мы условно понимаем, как оценивать классические картины, то как правильно оценивать цифровое искусство (качественно и материально)?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Думаю, к оценке цифрового искусства надо подходить с точки зрения задачи. Коммерческий сегмент индустрии преследует одни цели — тут присутствует специфика работы с заказчиком, правильной коммуникации, продакшена в крупных командах. Первичная задача в коммерции — закрыть запрос клиента. Если это удалось, а работа выполнена так, что довольны и сами художники —  проект удался.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Артовый сегмент — про высказывание, он работает в другом темпе и с другой аудиторией. Здесь есть место поискам и экспериментам, и ответственность за проект только перед самим собой. Это тоже высокая планка, но иная. Так что для меня успешный проект в арте, это открытие — техническое или концептуальное.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Действительно уникальные работы появляются, когда художник взаимодействует одновременно с двумя этими сторонами и создает, например, работу в коллаборации с брендом. Так, инсталляция TOKUJIN YOSHIOKA × LG : S.F_Senses of the Future — тот случай, когда коммерция — настоящее искусство.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В чем основной замысел инсталляции и какие инструменты были использованы при его создании?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">STORM — инсталляция о соприкосновении стихии и цивилизации. Оказаться посреди поля во время грозы и наблюдать за штормом вплотную — одно из самых мощных для человека переживаний, которое пробуждает из глубины души первобытный, животный страх перед неконтролируемым и неизбежным, но в то же время — восторг от красоты, силы и свободы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Инсталляция построена на контрастах — она капсулизирует шторм как метафору опасности и мощи, а после проникает в помещение — место, призванное уберечь человека от любой угрозы. Находясь в инсталляции, мы можем прикоснуться к границе стихии и цивилизации, ощутить как пространство наполняется напряжением грозы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Форма инсталляции стала экспериментом и с инженерной точки зрения. Задача состояла в том, чтобы создать модульную конструкцию из стеклянных колб, внутри каждой из которых дым, ветер и лазерные лучи создавали бы иллюзию шторма. Вместе с командой Formate мы прорабатывали разные варианты компоновки оборудования и пришли к конструкции, где лазерный проектор и дым-машина маскируются в нижнем основании каждого из модулей, а дым с лучами попадают в стеклянную часть колбы через отверстия. Расщепляясь, лазерный луч переотражается от зеркальных стенок колонны, проходит через клубы дыма, подсвечивая его, создавая непредсказуемые световые потоки, схожие с визуализацией грозы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наличие автономных модулей дает пространство для трансформации инсталляции. В зависимости от расстановки мы можем достигать абсолютно разных визуальных эффектов — лезвием рассекать пространство помещения ритмичной линией (на Intervals 2024) или погружение посетителя внутрь штормового полукольца, создав световую молнию прямо над ним (как сейчас на «НУРе»), а можно попробовать множество других вариантов.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/1.jpg" data-image-id="129766" srcset="https://entermedia.io/wp-content/uploads/2024/06/1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/1.jpg 1200w" data-image-name="1.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-129766 img-responsive"></div></figure><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">s — lab x Тинькофф.&nbsp;<em class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Storm, фотограф:&nbsp;Марат Салихов</em></p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/06/2.jpg" data-image-id="129767" srcset="https://entermedia.io/wp-content/uploads/2024/06/2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/06/2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/06/2.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-129767 img-responsive"></div></figure><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">s — lab x Тинькофф. <em class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Storm, фотограф:&nbsp;Марат Салихов</em></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Знаем, что инсталляции создавали вместе с Тинькофф. Расскажите, как проходила ваша коллаборация?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Партнерство с Тинькофф дало возможность не только воплотить идею, но и увидеть, насколько органичным может быть взаимодействие художника с брендом. Чаще всего партнерство означает интеграцию в презентацию арт-объекта рекламных носителей, что просто себе представить в работе с контентом. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Здесь же отсутствие фигуративности и необходимость сохранить чистоту идеи не позволяло этого сделать, так что команда предоставила нам свободу действий, создав безопасное пространство для развития концепции, не стараясь интегрировать в нее коммерцию.Тинькофф экспериментировали вместе с нами, используя нестандартные форматы и высокие технологии, чтобы реализовать уникальную концепцию инсталляции.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие эмоции должна была вызвать инсталляция у зрителей, какую цель преследовали при создании?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Посыл вызвать у посетителя сложную контрастную эмоцию — очень увлекательная и нетривиальная задача. Мы работали над ней и старались использовать простые инструменты — лазерную проекцию, звук. Важно было сохранить чистую форму и позволить посетителю самому анализировать свои ощущения, оставляя пространство для интерпретации.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Цикл инсталляции не только воспроизводит драматургию природного явления, но и с помощью саунда и визуальных эффектов привносит туда человеческие эмоции. Мы слышим нагнетающееся ожидание, моменты глухой тишины перед разрывом молний; кульминацию, когда в страхе и восторге сливаешься с мощью стихии; радость, но сожаление от близкого окончания; и то, как биение сердца возвращает тебя в реальность, замедляется и дарит покой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Работа стала настоящим экспериментом с пространством, светом, эмоциями, сторителлингом, и в результате она сложилась в визуальную метафору, открывающую в душе каждого из нас что-то потаенное и неосязаемое. </p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Редакция Enter<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Изображение:</strong> Марина Никулина</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F&title=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»&description=&image=https://entermedia.io/wp-content/uploads/2024/06/Prevyu-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F&text=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Анастасия Слабиняк — о цифровом искусстве, визуальных метафорах и «НУРе»&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fanastasiya-slabinyak-o-tsifrovom-iskusstve-vizualnyh-metaforah-i-nure%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="7" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">7</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501158'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

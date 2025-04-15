@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/08/rabota3-min.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,539] -->
+<link rel="canonical" href="https://entermedia.io/people/hudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности&raquo;" href="https://entermedia.io/people/hudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501159&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501159&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501159&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Возле Миллениума установили первые шумозащитные экраны' href='https://entermedia.io/news/vozle-milleniuma-ustanovili-pervye-shumozashhitnye-ekrany/' />
+<link rel='next' title='В Присутственных местах пройдет лекция о влиянии ИЗО на кинематограф' href='https://entermedia.io/news/v-prisutstvennyh-mestah-projdet-lektsiya-o-vliyanii-izo-na-kinematograf/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-133124 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/08/rabota3-min.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">14 августа</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F&title=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности&description=&image=https://entermedia.io/wp-content/uploads/2024/08/rabota3-min-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F&text=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности&related=truemisha&hashtags=Артгид&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="133124">
+    <div id="post-133124" class="post-133124 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-artgid">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:133130,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133129,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133128,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133127,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133126,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133125,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Продолжаем рубрику «Артгид», где исследуем современное искусство Татарстана, знакомимся с локальными художниками и узнаем больше о скрытых смыслах, художественном выражении и философских вопросах в работах.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В этот раз героиней рубрики стала художница Надя Ригова. Enter поговорил с ней о христианских отсылках в образе ягненка, коммерциализации искусства и о сочетании личного и общечеловеческого в работах.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/Nadya-Rigova-min.jpg" data-image-id="133130" srcset="https://entermedia.io/wp-content/uploads/2024/08/Nadya-Rigova-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/Nadya-Rigova-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/Nadya-Rigova-min.jpg 1200w" data-image-name="Надя Ригова-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-133130 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkqigEB" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Надя родилась в 1996 году в Зеленодольске. В 2019-ом она окончила Казанское художественное училище им. Фешина по специальности «Скульптура». В своей практике художница отдает предпочтение керамике, но хочет двигаться дальше и совмещать различные медиумы. Искусство представляет как честный диалог со зрителем, задавая вопросы посредством своих работ. Художница размышляет о грани между состоянием распада и витальностью, а также ограниченностью бытия и человеческой склонности к насилию.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Надя была участницей групповых выставок «Два и два» (ТИАМ, Тула), «Улица с односторонним движением» (Terminal A, Нижний Новгород), «Поле» (ЦСК «Смена» , Казань), «Свои» (галерея «Бизон», Казань) и других. А в июле в «Смене» открылась ее первая персональная выставка «Почему люди бросают кроликов?»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/rabota2-min.jpg" data-image-id="133126" srcset="https://entermedia.io/wp-content/uploads/2024/08/rabota2-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/rabota2-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/rabota2-min.jpg 1200w" data-image-name="работа2-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-133126 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkLqtl3" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«В керамике есть возможность ухода в своеобразную живописность»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Ты всегда хотела стать художницей?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— У меня никогда не было таких планов, но я с дошкольного возраста любила лепить из пластилина. Это всегда было частью моей жизни. Я ходила в художественную школу, а после поступила в [Казанское художественное] училище. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Как сформировался твой художественный стиль?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я не старалась намеренно сформировать свой стиль — получилось само собой. В основном я занимаюсь анималистикой, потому что люблю живых существ. Наблюдая за ними, всегда невольно обращаю внимание на их пластику. Мне хотелось сделать свои работы живыми, чтобы в них присутствовало ощущение движения. Не могу сказать, что на мой стиль сильно повлияли преподаватели, потому что в училище меня чаще поправляли, а мои оценки были не очень хорошими.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— То есть у тебя не было конкретного примера для вдохновения? Например, из мировых художников?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Из мировых я бы выделила итальянского скульптора 1920-1930-х <a href="https://veryimportantlot.com/ru/news/obchestvo-i-lyudi/marino-marini-genialnyj-skulptor-iz-florencii" target="_blank" class="stk-reset">Марино Марини</a> и <a href="https://old.bigenc.ru/fine_art/text/2184045" target="_blank" class="stk-reset">Джакомо Манцу</a> примерно того же времени. Последний для многих моих одногруппников тоже был примером. Манцу умел сочетать академизм и непосредственность, точно передавая пластику живого существа, через которую проступал характер.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Почему ты выбрала преимущественно керамику как способ художественного выражения?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Это доступно по цене. К примеру, бронза — тяжелый и более дорогой материал. Также в керамике есть возможность ухода в своеобразную живописность, то есть выражение своих идей и мыслей через цвет с помощью глазури. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— В твоих соцсетях помимо керамики есть несколько фотографий акварельных работ. К тебе не приходила мысль активно развиваться в направлении живописи?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Иногда я просто экспериментирую с акварелью. Из всех красок она кажется более легкой, воздушной, в ней есть какая-то спонтанность и возможность быстро схватить образ. Но все-таки мне всегда была ближе скульптура. В ней привлекательна именно объемность, через которую можно раскрыть все грани работы, иначе показать с разных сторон.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/rabota4-min.jpg" data-image-id="133128" srcset="https://entermedia.io/wp-content/uploads/2024/08/rabota4-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/rabota4-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/rabota4-min.jpg 1200w" data-image-name="работа4-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-133128 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk8JS87" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Кто мы такие, если наше общество строится на потребности чьей-то жертвы?»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Недавно открылась твоя персональная выставка «Почему люди бросают кроликов?» Можешь подробнее рассказать о названии экспозиции?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Я выбрала название случайно: наткнулась на ролик в интернете, где мужчина рассказывал о том, почему нерентабельно содержать кроликов на приусадебном участке. Среди прочего говорилось о восприимчивых, излишне чувствительных людях, не способных на убийство ради такого способа заработка. Это меня особенно зацепило.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне запомнилось название своей нечеткостью и некой неструктурированностью. Если забить в интернете «Почему люди бросают кроликов?», то, возможно, выйдет много статей на тему содержания зверя в квартире как домашнего питомца. И для меня это стало параллелью между тем, как люди заводят животных, просто очаровавшись их внешним видом, и общечеловеческими отношениями, в которых нет терпимости и чуткости к другому. В названии экспозиции содержится отсылка к обществу и в том числе к жертвенности, которая является одной из тем моей выставки.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Почему тебя привлекают анималистические образы, в особенности ягнят?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— У меня было много опыта создания эскизов и набросков на скотном дворе и на конюшне. И в принципе животные как модели более доступны: за ними проще наблюдать, чем договориться с человеком о позировании. К тому же, по моим наблюдениям за другими художниками в информационном поле, фигура человека уже перестала быть центром дискурса в искусстве. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">А ягненок — это прообраз Христа. Вообще в иудаизме было принято приносить в дар Богу  определенных домашних животных: бычков, овец и птиц. Образ ягненка закрепился за фигурой Христа как символ жертвы за мир и за человечество, не совершивший ничего плохого, но вынужденный пострадать за других. И здесь рождается мое вопрошание: «Кто мы такие, если наше общество строится на потребности чьей-то жертвы?» Мы даже не всегда это осознаем, но невольно какая-то прослойка общества жертвует своими комфортом, благополучием и даже жизнью ради других. Возможно, здесь есть какая-то скрытая ложь и укоренившийся в самом фундаменте нашего общества потребительский принцип отношения к другому. Может быть, наше отношение к жертве Христа отчасти тоже стало потребительским. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— У теоретика искусства Натальи Серковой была лекция «О том, что такое современное искусство — в пяти пунктах». И один из них говорит, что произведение должно содержать общемировую повестку и высказываться о текущей ситуации. Как художнику удается исключить личное из своих работ и мыслить так глобально?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— По моим наблюдениям, в хорошем искусстве это получается само собой. Влияние мировых событий на художника происходит непроизвольно, просто потому что мы все являемся частью большого общественного процесса и включены в повестку. В искусстве для меня никогда не было разделения на сугубо личное и общемировое — все переплетено. Одно маленькое событие в моей жизни может послужить триггером для размышления над более глобальными темами.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Твои работы кажутся милыми, но в то же время они физиологически подробны, что создает двоякое впечатление. Ты стремишься оказать на зрителя определенный эффект?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Да, я делаю это специально, чтобы показать, насколько страшной может быть реальность. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В природе всегда есть сторона, пугающая своей физиологичностью и неотвратимой правдой. В моих работах выраженный физиологический аспект — скорее, про смерть и тревогу о том, что мы живем немножко как в тумане, воспринимая многие серьезные вещи с легкостью. Сейчас простое отношение к жизни культивируется, но на самом деле все очень непросто, и рано или поздно приходит осознание жестокости окружающего мира.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/rabota5-min.jpg" data-image-id="133129" srcset="https://entermedia.io/wp-content/uploads/2024/08/rabota5-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/rabota5-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/rabota5-min.jpg 1200w" data-image-name="работа5-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-133129 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk30gFp" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Если ближайшие год-два я не смогу полностью обеспечивать свою жизнь искусством, то, наверное, перестану им заниматься»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Часто работу художника принято ассоциировать с вдохновением и творческим подъемом, но иногда это и монотонный кропотливый процесс. Встречалась ли ты с рутиной в своей деятельности?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Обычно у меня в голове есть образ, требующий воплощения, и настроение, которое я стараюсь передать зрителю. Пробуя много раз сделать задуманное, я добиваюсь идеального для меня результата. Так что рутины нет, есть скорее творческий поиск.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Насколько я знаю, у тебя есть своя мастерская. Расскажи, как она устроена?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Это обычное помещение, арендуемое у торгового центра. Раньше там я проводила занятия с детьми по керамике. Сейчас в этом пространстве работает другой преподаватель, а я появляюсь все реже — в основном творю дома. Все больше моя мастерская становится местом, приспособленным именно для детских занятий, поэтому я нахожусь в поиске своего рабочего пространства, предпочтительнее в Казани.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Есть разница в ощущениях при изготовлении утилитарного изделия и предмета искусства? Или ты с одинаковым воодушевлением подходила к обоим процессам?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Нет, мне не нравится делать посуду и другие утилитарные вещи. На тот момент это был один из самых доступных способов заработка.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Коммерциализация работ художника — это важная составляющая сегодняшнего искусства?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Конечно. Чтобы сделать что-то по-настоящему новое и выдающееся, нужны свободное время и возможность учиться, а еще финансы на это обучение и дальнейшее развитие. Если работы не продаются, то как? Для себя я решила: если ближайшие год-два не смогу полностью обеспечивать свою жизнь искусством, то, наверное, перестану им заниматься. </p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Не будет ли тебе жаль бросать искусство, если твои работы не окажутся коммерчески успешными?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Будет. Сейчас искусство для меня — одна из приоритетных сфер в жизни. Но, думаю, так будет все-таки честнее.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— А ты сама покупала работы других художников?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Пока еще нет. В будущем мне хотелось бы купить тиражную графику, так как я сама этим не занимаюсь и могу максимально воспринимать такое искусство только со стороны, как зритель.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Посоветуй места, где можно было бы купить произведения современных художников.</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">— Мне кажутся интересными <a href="https://blazar.art/" target="_blank" class="stk-reset">blazar</a> и маркет современного искусства <a href="https://winzavod.ru/projects/market-win-win/" target="_blank" class="stk-reset">WIN-WIN</a> на базе «Винзавода», хотя я сама еще не успела посетить такие ярмарки. Любопытно познакомиться с работами признанных художников современности сразу в одном месте. Например, я мечтаю увидеть вживую керамику Никиты Макарова.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Екатерина Гусева<br><strong class="stk-reset">Фото:</strong> предоставлены художницей</p></div></div><style data-stk-css="stk30gFp" class="" media="all">[data-stk-css="stk30gFp"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk8JS87" class="" media="all">[data-stk-css="stk8JS87"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkqigEB" class="" media="all">[data-stk-css="stkqigEB"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkLqtl3" class="" media="all">[data-stk-css="stkLqtl3"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F&title=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности&description=&image=https://entermedia.io/wp-content/uploads/2024/08/rabota3-min-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F&text=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Художница Надя Ригова — о ягнятах, жертвенности и пугающей реальности&related=truemisha&hashtags=Артгид&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fhudozhnitsa-nadya-rigova-o-yagnyatah-zhertvennosti-i-pugayushhej-realnosti%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501159'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

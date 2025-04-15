@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2025/02/2-8.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,541] -->
+<link rel="canonical" href="https://entermedia.io/city/kruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани&raquo;" href="https://entermedia.io/city/kruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501049&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501049&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501049&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='«Синема 5» устроит специальный показ фильма «Мелочи жизни»' href='https://entermedia.io/news/sinema-5-ustroit-spetsialnyj-pokaz-filma-melochi-zhizni/' />
+<link rel='next' title='В Steam выйдет татарская игра Tatar Altan vs Shaitan' href='https://entermedia.io/news/v-steam-vyjdet-tatarskaya-igra-tatar-altan-vs-shaitan/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-141870 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-8.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">26 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F&title=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани&description=&image=https://entermedia.io/wp-content/uploads/2025/02/2-8-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F&text=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="6" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="141870">
+    <div id="post-141870" class="post-141870 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:141877,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141875,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141873,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141876,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141874,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вспоминая историю питейных заведений своего города, казанцы обязательно назовут бары «Грот» или «Бегемот», а кто-то и «Горлов кабак», про который писал Пушкин. Но вообще кабацкая история Казани представляет собой сплошную Terra Incognita.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Постоянный автор Enter, краевед Марк Шишкин разобрался в теме и составил гид по питейным домам старой Казани. Кое-какие сохранились до наших дней, а на месте некоторых и сейчас находятся заведения.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/5-prevyu.jpg" data-image-id="141877" srcset="https://entermedia.io/wp-content/uploads/2025/02/5-prevyu-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/5-prevyu-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/5-prevyu.jpg 2400w" data-image-name="5 превью.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141877 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">История кабаков: от неприкосновенной собственности государства к редевелопменту</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Самое главное при исследовании кабацкой истории любого города — не путать питейный дом с трактиром. Первый в просторечии назывался кабаком и прежде всего специализировался на продаже хлебного вина — разновидности самогона. Водки в современном понимании в Российской Империи до конца XIX века не было: пока в государстве не распространились технологии производства чистого спирта, водками именовали ароматизированные настойки. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В отличие от трактира, питейный дом всегда принадлежал казне. За него отвечали учреждения, подведомственные министерству финансов. Естественно, сами чиновники изготовлением или продажей алкоголя не занимались. Хлебное вино производили дворяне на винокурнях в своих поместьях, а продавали откупщики, которые платили за это право деньги в казну. Они же содержали питейные дома и помимо хлебного вина могли организовать там продажу водок, пива, меда и легких закусок.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С виду кабаки были простыми одноэтажными зданиями из кирпича или дерева, но, как государственная собственность, имели особый статус. Выдающийся краевед Сергей Саначин обратил внимание, что многие питейные дома Казани стоят на углах улиц. Это неслучайно, ведь собственность казны просто так с места не сдвинешь, а, стало быть, аккуратная застройка кварталов с соблюдением красных линий будет гарантирована.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 1863 году систему винных откупов отменили, а в январе 1866 года 17 казенных питейных домов Казани перешли в ведение города, о чем сохранилось увесистое дело в Государственном архиве РТ. Оказавшись муниципальной собственностью, бывшие кабаки прошли целую историю редевелопмента, похожую на то, как сейчас преобразуют промзоны. Их перестраивали под торговые помещения, размещали в них благотворительные и учебные заведения. Несмотря на это, несколько каменных питейных домов XVIII века сохранилось в Казани практически в первозданном виде. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/1-9.jpg" data-image-id="141874" srcset="https://entermedia.io/wp-content/uploads/2025/02/1-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/1-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/1-9.jpg 2400w" data-image-name="1.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141874 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Из питейного дома — в коктейльный бар </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Все знают, что главная барная улица Казани — Профсоюзная. В старину она тоже была одним из самых людных торговых мест города. Поэтому не удивительно, что именно здесь располагалось целых три казенных питейных дома: Кружечный, Хлебный и Первотрактирный. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первый из них сохранился до наших дней. Невзрачное одноэтажное здание Кружечного дома второй половины XVIII века можно увидеть, спускаясь с Профсоюзной на Баумана через отель «Ногай» (Кави Наджми, 14). Название ему дано не просто так: при царе Алексее Михайловиче казенные питейные дома назывались кружечными дворами, а еще кружка была старинной русской мерой объема, равной 1,23 литра. Выбор расположения Кружечного дома объясним близостью Хлебной площади. На территории между современными улицами Кави Наджми и Мусы Джалиля продавали муку, крупы, молочные продукты, зачитывали царские указы и исполняли приговоры.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Во второй половине XIX века, когда в обществе активизировалась борьба с кабаками, решилась и судьба Кружечного дома. В 1888 году в нем открыли Андреевскую дешевую столовую. Ее назвали в честь святого Андрея Критского, поскольку в день его памяти император Александр III и его семья выжили в железнодорожной катастрофе. По замыслу городских деятелей, бедняки могли получить здесь горячий обед за считанные копейки, но самыми преданными клиентами дешевой столовой стали студенты.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На другом краю Хлебной площади рядом с Медовым корпусом Гостиного двора располагался такой же каменный одноэтажный Хлебный питейный дом. В отличие от Кружечного, от него ничего не осталось, ведь еще в 1860-е годы купец Иван Гребеньщиков перестроил здание в двухэтажный торговый корпус. Примерно на том же месте находится популярный коктейльный бар ReLab. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Другой исчезнувший питейный дом — Первотрактирный или просто Трактирный. Он стоял на легендарном <a class="stk-reset" data-gtm-vis-has-fired10171822_255="1" href="https://entermedia.io/people/baryshniki-s-tolchka-kak-zhili-kazanskie-predprinimateli-s-samoj-plohoj-reputatsiej/" target="_blank">Толкучем рынке</a> после перекрестка нынешних Профсоюзной и Чернышевского. В 1870 году городская власть в очередной раз безуспешно попыталась навести на рынке порядок: торговые ряды перенесли во двор главного корпуса Гостиного двора (ныне Национальный музей РТ, — прим. Марка Шишкина) и Первотрактирный дом лишился оживленного трафика. Тогда купец Андрей Курманаев перестроил его в торговый корпус, а сейчас в этом реконструированном здании — ресторан More &amp; More.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как питейный дом стал домом общества трезвости</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще два казанских питейных дома назывались по старинным мерам объема и тоже тяготели к давно уже забытым торговым площадям. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ведерный питейный дом находился на Рыбнорядской площади (ныне Площадь Тукая, — прим. Марка Шишкина), которая служила главным продовольственным рынком. Согласно документам Государственного архива РТ, это было одноэтажное каменное здание, расположенное между домами купцов Докучаева и Андреева. Свои первоначальные функции Ведерный дом исполнял дольше других казанских питейных домов. Теперь на его месте казанский ГУМ и примыкающие к нему здания. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чарочный или Каменночарочный дом находился на правом берегу Булака близ Лебедевских казарм, то есть примерно на площади Тысячелетия. В старину по берегам проводилась Весенняя ярмарка, имевшая также историческое татарское название — Ташаяк. Из всех питейных домов у Чарочного — самая парадоксальная судьба: в 1893 году его передали Казанскому обществу трезвости. До наших дней здание не дошло, так как в ХХ веке Булак в этой части засыпали, а затем снесли историческую застройку. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/4-6.jpg" data-image-id="141875" srcset="https://entermedia.io/wp-content/uploads/2025/02/4-6-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/4-6-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/4-6.jpg 2400w" data-image-name="4.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141875 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Верхнесеребряный дом и горе в семье Батуриных</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Самое поэтичное название было у Верхнесеребряного питейного дома, который в исторических текстах встречается под названиями Верхне-Серебряный или Серебряный. Наверное, поэтому он чаще других упоминается в популярных статьях, и с ним же связаны расхожие заблуждения. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Из публикации в публикацию повторяется, что дом принадлежал купцу Ульяну Прохоровичу Батурину, чью фамилию носит небольшая улица под Кремлем. На самом деле принадлежать ему казенный, а потом городской питейный дом никак не мог. Да и среди арендаторов при жизни Ульяна Прохоровича упоминаются совсем другие лица: купец Брызгалов и отставной корнет Станиславский. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В одном из рассказов казанского писателя Дениса Осокина лирический герой размышляет, что Ульян Батурин мог быть настоящим отцом Ульянова-Ленина. Якобы по этой причине вождь велел не трогать название улицы в честь купца, и она спокойно просуществовала всю эпоху Советского Союза. Верхнесеребряный дом в рассказе тоже был упомянут.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Связь между питейным домом и Батуриным действительно есть, и ей посвящено целое дело в Государственном архиве РТ. Владения купцов Батуриных располагались по современным улицам Батурина и Миславского — с той стороны, где сейчас здание Исполкома Казани. На самом же углу этих улиц с давних пор стоял одноэтажный казенный Верхнесеребряный питейный дом. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Со временем дом обветшал настолько, что в 1853 году решили не тратить деньги на ремонт, а перестроить его заново. Недостатком старого кабака были и его малые размеры. Управляющий откупом купец Коробанов жаловался, что из-за тесноты подвала туда сложно загружать бочки с пивом и медом, а также производить разлив напитков.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Место для постройки нового Верхнесеребряного дома выбрали прямо через дорогу, рядом с давно утраченным <a href="https://entermedia.io/city/pyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina/" target="_blank" class="stk-reset">Банноозерским садом</a> и сохранившимся до наших дней зданием типографии. Сын Ульяна Батурина Иван предложил построить новое здание кабака за половину сметной суммы при условии, что казна отдаст ему в собственность участок под прежним Верхнесеребряным домом. 5 марта 1856 года Иван умер и дело продолжил его отец. К 1858 году старший Батурин выстроил новый питейный дом. В документах отдельно оговаривалось, что новый участок отдан не в собственность купца, а под постройку казенного дома.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В архивном деле сохранился типовой план, который использовался при постройке нового здания. В нем всего две комнаты: отдельно для приходящих и для продажи питий, — а рядом лестница, отмеченная как сход в ледник, то есть погреб. До конца ХХ века Верхнесеребряный дом дошел в сильно перестроенном виде со вторым этажом и числился по адресу Миславского, 6. Сейчас здание утрачено.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интересно, что во второй половине ХIХ века и Верхнесеребряному дому планировали дать новое благородное применение. В 1885 году купец-благотворитель Иван Яковлевич Павловский просил отдать ему это здание под училище для глухонемых, но в процессе согласования проекта выбрал другой бывший питейный дом на Грузинской — современной Карла Маркса.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/2-8.jpg" data-image-id="141876" srcset="https://entermedia.io/wp-content/uploads/2025/02/2-8-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/2-8-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/2-8.jpg 2400w" data-image-name="2.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141876 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какой кабак прозвали «Разувай», а какой — «Раздевай»</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме официальных названий у казанских питейных домов были неофициальные, в которых отразилась хлесткая народная ирония. «Даже пресловутые, блаженной памяти, кабачки Разувай, бывший против кладбища, и Раздевай на Грузинской улице куда-то скрылись», — писал о новых временах обозреватель газеты «Казанский биржевой листок» за 1879 год.  </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Под прозвищем «Разувай», вероятнее всего, подразумевался деревянный Никольский питейный дом рядом с Арским кладбищем на выезде из города по Сибирскому тракту. А вот идентификация питейного дома на улице Грузинской с прозвищем «Раздевай» представляет проблему, ведь на современной улице Карла Маркса в престижной дворянской части Казани располагались сразу два казенных питейных дома: Покровский и Надолбинский. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Здание Покровского питейного дома, построенное в конце XVIII века, дошло до нас в целости и сохранности на Жуковского, 13. Иногда его ошибочно называют зданием гимназии. Самая первая мужская гимназия в 1762—1774 годах действительно располагалась в этом районе в двух деревянных домах, но, по мнению краеведа Загоскина, находилась на противоположной стороне улицы Грузинской, где потом построят телеграф.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кабацкая история Покровского дома закончилась, когда на другой стороне улицы Поперечно-Грузинской (Жуковского, — прим. Марка Шишкина) открылся Ветеринарный институт. В 1880 году бывшее питейное заведение арендовал преподаватель института, ученый-кузнец и автор пособий по ковке лошадей Карл Кальнинг. В институтской кузнице можно было безопасно подковать лошадь по последнему слову науки и получить консультацию, если от подков возникли осложнения.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Надолбинский питейный дом с надстроенным вторым этажом и мансардой сохранился на углу Карла Маркса, 58 и Гоголя, 12. На плане 1796 года он указан как деревянный. В 1840-х деревянное здание разобрали и построили на его месте одноэтажное каменное, о чем сохранилось дело в Государственном архиве РТ. Именно в этом здании с осени 1885 года начались занятия школы для глухонемых. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/3-9.jpg" data-image-id="141873" srcset="https://entermedia.io/wp-content/uploads/2025/02/3-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/3-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/3-9.jpg 2400w" data-image-name="3.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-141873 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Где бывал Пушкин </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Разумеется, питейные дома были и в самой густонаселенной рабочей слободе Казани — Суконной. 6 сентября 1833 года по местным кабакам таскался (как он сам это назвал, — прим. Марка Шишкина) Александр Сергеевич Пушкин, искавший на окраине города воспоминания об эпохе Емельяна Пугачева. В каком из кабаков Суконки рабочий Бабин рассказывал главному русскому поэту местные предания о Пугачевщине и где был Горлов кабак, у которого в 1774 году произошел бой, спорят до сих пор. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Предполагают, что Горловым кабаком назывался Суконный питейный дом. Иногда за него принимают типичное одноэтажное здание на углу Петербургской, 47 и Волкова, 1, но в архивном деле о передаче питейных домов из казны в ведение города вообще не упоминается дом с таким названием. Зато там многократно говорится про каменный Егорьевский питейный дом, получивший название от Георгиевской (Егорьевской) улицы, как называлась раньше Петербургская.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На деле Суконный питейный дом был деревянным и сгорел в пожаре в 1848 году. Найти ему новое место долго не могли, и в 1859 году контора акцизно-откупного комиссионерства попросила воссоздать его на базарной площади, «на которой питейный дом существовал с давних времен». </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Судя по документам, работа не сдвинулась. Зато на архивном плане показан участок под питейный дом на углу с улицей Большой (ныне Тихомирнова, — прим. Марка Шишкина). В XIX веке вместо гула машин, которые поднимаются в овраг под бывшей Шамовской больницей или едут с проспекта Универсиады, шумел рынок Суконной слободы, а в 1774 году — наступали на Казань пугачевцы. Стало быть, именно у этого питейного дома было прозвище, которое записал Пушкин. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По следам исчезнувшей инфраструктуры</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Деревянные питейные дома располагались почти во всех слободах старой Казани: Адмиралтейской, Ягодной, Козьей, Архангельской и Подлужной. По понятным причинам их не строили в Старой и Новой Татарских слободах, но в соседней Плетеневской слободе с русско-татарским населением питейный дом был. Он стоял недалеко от Борисоглебской церкви по улице Екатерининской — примерно там, где теперь перекресток улиц Габдуллы Тукая и КСКа.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Питейные дома сформировали целую инфраструктуру, вокруг которой взаимодействовали самые разные субъекты городской жизни и где делались большие деньги. Повышение требований к сервису и тренд на более осознанный образ жизни привели к кризису и перепрофилированию заведений этого типа во второй половине XIX века.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Длинная история питейных домов старой Казани может послужить источником вдохновения для развития аутентичной барной культуры и креативного нейминга. Тем более, что в городе сохранилось несколько подлинных зданий XVIII—XIX столетий. </p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Марк Шишкин<br><strong class="stk-reset">Иллюстрации:</strong> Марина Никулина</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F&title=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани&description=&image=https://entermedia.io/wp-content/uploads/2025/02/2-8-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F&text=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Кружечный, Ведерный и Надолбинский. Гид по питейным домам старой Казани&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fkruzhechnyj-vedernyj-i-nadolbinskij-gid-po-pitejnym-domam-staroj-kazani%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="6" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501049'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

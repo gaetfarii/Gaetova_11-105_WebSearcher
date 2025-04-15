@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/01/s-prev0-min.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,569] -->
+<link rel="canonical" href="https://entermedia.io/people/kazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях&raquo;" href="https://entermedia.io/people/kazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501193&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501193&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501193&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Игры «Ак Барса» перенесут из «Татнефть Арены» во Дворец спорта' href='https://entermedia.io/news/igry-ak-barsa-perenesut-iz-tatneft-areny-vo-dvorets-sporta/' />
+<link rel='next' title='КФУ в новом учебном году увеличит количество бюджетных мест' href='https://entermedia.io/news/kfu-v-novom-uchebnom-godu-uvelichit-kolichestvo-byudzhetnyh-mest/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-124477 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/01/s-prev0-min.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">24 января</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F&title=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях&description=&image=https://entermedia.io/wp-content/uploads/2024/01/s-prev0-min-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="3" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F&text=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="124477">
+    <div id="post-124477" class="post-124477 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:124483,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:124482,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:124481,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каждый день мы видим сотни афиш, логотипов и сайтов и почти никогда не задумываемся, кто их сделал. За каждым постером и иллюстрацией стоит художник, который прошел длинный путь, прежде чем появились его работы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Enter и <a href="https://mastera.academy/" target="_blank" class="stk-reset">«Мастера»</a> поговорили с коммуникационным дизайнером, леттерером, художниками книжных иллюстраций и театральных декораций. Рассказываем, зачем дизайнеру профильное образование и можно ли развиваться без него, как определить, сколько стоит работа, и почему в коммерческих проектах нет творчества, а в творческих — денег.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/01/s10-min.jpg" data-image-id="124482" srcset="https://entermedia.io/wp-content/uploads/2024/01/s10-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/01/s10-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/01/s10-min.jpg 2400w" data-image-name="с10-min.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-124482 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://www.behance.net/refogelll" target="_blank">Рената Фогель</a></h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">дизайнер, арт-директор группы «Сироткин»</p></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я графический и коммуникационный дизайнер: создаю брендинг, делаю визуал для социальных сетей и проектов, работаю арт-директором и отвечаю за стиль бэнда «Сироткин». На графического дизайнера я училась в КГАСУ, коммуникационным стала со временем. Коммуникационный дизайн охватывает больше навыков, чем графический, и в нем важны не только хард, но и софт скиллы, которым можно обучиться только на практике.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После вуза я проходила курсы, но по моему мнению, ничто не заменит опыт. К интенсивам для дизайнеров-новичков я отношусь скептически: нет волшебного курса, который человек закончит и с нуля станет специалистом. Базовые вещи можно узнать из бесплатных видео на YouTube. На первом этапе намного важнее найти наставника. Им может стать преподаватель в университете или дизайнер с опытом — можно напроситься на стажировку в студию и поучиться у тех, кто давно в индустрии. Поэтому я думаю, очная учеба и практика эффективнее курсов в интернете.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первое время я не брала деньги за проекты. Это хорошее решение для начинающих дизайнеров: есть время посмотреть, как устроена работа изнутри, и научиться новому. Постепенно можно формировать чек, как — каждый решает сам, отталкиваясь от своего уровня. Есть общие советы: посчитайте, сколько стоит ваш час, и сколько времени займет работа. Со временем и с опытом повышайте прайс.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дизайн — это не всегда про творчество. В основном приходится подстраиваться под тренды, которые постоянно меняются. Несколько лет назад дизайн был аккуратным и вылизанным, сейчас в моду вернулся брутализм: картинки становятся живее и небрежнее, появился тренд на CGi или 3D элементы. То есть дизайнер — не художник, который так видит и все. Есть правила, которые приходится соблюдать.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В прошлом году появились много генеративных нейросетей. Мнение разделилось: кто-то уверен, что у дизайнеров не останется работы, другие относятся к ИИ как к инструменту для быстрого решения рутинных задач. В вакансиях для дизайнеров все чаще появляется требование «уметь пользоваться нейросетями». Я не уверена, что это действительно важный навык, но думаю, он отсеивает людей, которые не понимают, что происходит в индустрии. Я считаю, что нейросеть — классная штука. Кто-то использует ИИ как инструмент для создания изображений, кто-то вдохновляется работами MidJourney и на их основе создает свои. Так что не нужно отрицать новый тренд, ИИ точно не отберет работу.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вообще рекомендую новичкам постоянно пробовать новое. Несмотря на то, что в дизайне есть правила, не бояться их нарушать. Обязательно прочтите книгу Скотта Беркуна «Дизайн всего: Как появляются вещи, о которых мы не задумываемся» об ошибках и неудачных дизайнерских решениях, которыми мы пользуемся до сих пор и, спойлер, от этого никто не пострадал. Учитесь у бюро Design Prosmotr — рекомендую обратить внимание на выступления Александры Корольковой и Вовы Лифанова. И тренируйте насмотренность в профилях студий и гуру дизайна, мои фавориты — pragmatica_design, thebrandidentity, youaretypography, bymaciemiller, cherkasov_co, onyagency, the_daily_dose_of_design и bbe_school.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://www.behance.net/Bulazz?tracking_source=comments" target="_blank">Булат Хасаншин</a></h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">мастер букв, автор шрифта для фильма «Бери да помни»</p></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я увлекся леттерингом и каллиграфией на втором курсе художественного училища им. Н. И. Фешина: увидел стиль Покраса Лампаса, взял перо и тушь и попытался повторить. Это было непросто, так как работы художника и прописи по готической каллиграфии были созданы правшами, а я левша. Плюс, в 2014—2015 годах не было курсов по леттерингу, поэтому во всем приходилось разбираться самому.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Первое время я рисовал для себя: расписывал остановки, потолки, стены — занимался культурным вандализмом, экспериментировал с инструментами, техниками и материалами. Потом стали появляться небольшие коммерческие проекты по дизайну открыток, росписи пространств и авто. Сейчас заказчики приходят в основном за логотипами, потому что авторские буквы на символике компании выглядят интереснее, чем привычные наборные шрифты типа Arial и Roboto.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне нравится процесс создания букв и надписей. С одной стороны, работа для меня своего рода медитация, с другой — я никогда не знаю, что получится, и иногда результат выглядит интереснее задумки. В этом есть какой-то азарт. Приятнее процесса — видеть мои работы на улицах: вывеску парка «Прибрежный» в Набережных Челнах, вывеску Молодежного центра «НУР» в Челнах, шрифты на книгах и логотипах городских проектов. В этот момент я думаю о том, что вношу вклад в визуальное развитие Казани и Татарстана.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Обычно леттереры работают с каждой буквой, которая есть в слове или выражении. Например, в названии может быть две «а». Они могут быть разными, иначе слово не получится закомпоновать, пропадет ритм. Но есть проекты-исключения: для бульвара Белые цветы я создал весь алфавит. Это нужно было из-за сжатых сроков и большого объема. Из готовых букв оставалось собрать фразы на русском и татарском — их вырезали на металлическом заборе и вылили на люках.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Несмотря на объем работы для фильма «Бери да помни» — кроме основных надписей, нужно было сделать титры, — отрисовывать алфавит не пришлось. На самом деле работать было легко: на пре-продакшене я предложил несколько вариантов написания титров, доработал тот, который выбрал продюсер, и подогнал под него текст. Это было, скорее, долго, чем сложно.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Начинающим леттерерам и дизайнерам нужно понимать, что коммерция — это не про творчество. Клиент работает с массовой аудиторией, поэтому просит читаемый продающий шрифт. Когда хочется сделать что-то творческое, нужно проявлять инициативу. Например, год назад я сделал из глины слово «мәхәббәт» на улице Столбова. В 2021 году поучаствовал в проекте по реконструкции Казанки и нарисовал на стене Хрущевского спуска мурал со стихотворениями Мансура Шигапова. Можно редизайнить логотипы и предлагать их брендам или сделать мерч — в общем, для творческих проектов не нужно ждать заказчика.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одновременно с работой над стилем и насмотренностью я советую получить базовые знания по композиции и цветоведению. Портфолио людей без образования выглядят однотипно: они работают по шаблону, не знают, как создавать и креативить. Да, в дизайне низкий порог входа, но высокий порог экспертности и опыта. Так что если хотите хороших заказчиков, будьте хорошим дизайнером.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-stk-css="stkdaW34" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если не знаете, где искать хороших заказчиков, приходите на курс «Как зарабатывать иллюстратору». Один из блоков программы посвящен работе на фрилансе и общению с клиентами. Эксперты расскажут, где искать работу, как понимать техническое задание и во сколько оценивать работу. Обучение бесплатное, подробнее — на <a class="stk-reset" href="https://mastera.academy/courses/kak-zarabativat-illyustratoru" target="_blank">сайте</a>.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/01/s20-min.jpg" data-image-id="124483" srcset="https://entermedia.io/wp-content/uploads/2024/01/s20-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/01/s20-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/01/s20-min.jpg 2400w" data-image-name="с20-min.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-124483 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://vk.com/gulykim" target="_blank">Гульнара Фаляхова</a></h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">художник, книжный иллюстратор</p></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Моя бабушка жила в деревне, я часто к ней ездила на каникулы. Это был другой мир: там сохраняли мифы и легенды, соблюдали обряды, говорили на татарском, слушали другую музыку, играли в другие игры и рассказывали другие сказки. Я занялась книжной иллюстрацией, чтобы показать эту красоту народов Татарстана и Башкортостана детям.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если человек научился читать и писать, это не значит, что он станет поэтом. Так и в иллюстрации — мало уметь рисовать. Прежде, чем создать картинку, нужно прочитать сказку, пропустить ее через себя, наполнить смыслами и чувствовать, изучить культуру, традиции, костюмы периода, о котором идет речь. То есть иллюстратор должен быть всесторонне развит, уметь наблюдать и замечать.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я не обучалась книжной иллюстрации специально. Издательства стали ко мне обращаться из-за того, что я работаю в фольклорной тематике. Процесс над проектами складывается по-разному: иногда я делаю эскизы и согласовываю с заказчиком, иногда работаю по техническому заданию. Для меня главное, чтобы редактор доверял мне.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Так как иллюстраторство — не основная деятельность, я беру только те проекты, которые мне интересны. Перед работой спрашиваю себя: «Что я могу дать этому миру?» И отвечаю: «Я могу согреть людей иллюстрацией». Это становится целью, которая мотивирует продолжать. Деньги для меня не главное, есть проекты, которые я делаю бесплатно. Но это неправильный подход: художникам тоже хочется есть и пить, поэтому нужно трезво себя оценивать и не стесняться просить деньги за работу.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне кажется, я до сих пор не нашла свой стиль, и это нормально: иллюстратор должен быть в поиске. Нет проектов, которыми я прям горжусь, мне часто кажется, что я что-то недосказала. Вообще критика для художника — это хорошо, она способствует росту. Но немножко любить себя и свое творчество тоже нужно. Один из вариантов — публиковать работы в социальных сетях. Когда вы делитесь проектами, появляется ответственность, хочется качественно закончить работу. В итоге получается небольшая выставка, которая мотивирует и продвигает вас. Многие заказчики ищут иллюстраторов в социальных сетях, поэтому нельзя оставаться незамеченным.  </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Главной профессией я считаю работу в художественной школе. Я стараюсь привить детям любовь к родине и культуре, и у меня это получается. Ученики в моем классе интересуются историей и культурой региона, хотят рисовать татарские сказки. Это хорошая тенденция, которую преподавателям важно поддерживать и развивать.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://guzelgaripova.com/" target="_blank">Гузель Гарипова</a></h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">книжный иллюстратор, художник декораций к спектаклю MOÑ «Белый волк» </p></div></div></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По образованию я архитектор. Не помню первый заказ, потому что у рисующих студентов всегда есть подработка типа портретов, картин и так далее. Осознанно заняться иллюстрацией я решила, когда жила в Праге. Мне нужна была удаленная работа, и хотя тогда такой формат сотрудничества был непопулярен, дизайн и иллюстраторство казались хорошим вариантом. Я окончила курсы в пражской школе дизайна и решила, что пока буду заниматься этим.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После создания литературной брошюры-путеводителя по Татарской слободе в 2015 году и комикса о <a class="stk-reset" href="https://www.behance.net/gallery/16963169/Tatar-women" target="_blank">татарских женщинах</a> в 2016 году меня затянуло, я стала рисовать иллюстрации к книгам. Мне кажется, что иллюстратор в некоторых проектах становится соавтором, создает комментарии к произведениям. В литературе художник может докрутить образ и сделать его узнаваемым. Конечно, в научпопе и фикшене важны детали и точность — прибор или животное для энциклопедии нельзя нарисовать так, как ты его видишь — но даже в таких проектах остается место для творчества.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Недавно я вышла за рамки книжной иллюстрации и создала декорации к спектаклю в MOÑ «Белый волк» Анны Викторовой. Мне нужно было сделать иллюстрации для плоских фигур и тантамаресок. Сначала я нашла референсы для вдохновения, ими стали каменные рельефы декоративно-прикладного искусства Татарстана. Потом сделала заготовки из бумаги и дополнила их рисунками тушью, отсканировала и увеличила. Анна придумала много интересных конструкций, на которые натянули декорации. Так плоские иллюстрации стали частью большого механизма.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одна из идей спектакля была в том, чтобы оставить как можно больше отсылок к татарской культуре. И чтобы эти визуальные пасхалки считывались, я консультировалась с этнографами. Например, среди декораций есть кувшины-прототипы булгарским, костюмы, над эскизами которых я тоже работала, по силуэту отсылают к традиционной одежде. В общем, получился большой интересный проект.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще я преподаю студентам и веду проекты как арт-директор. Работать только иллюстратором и зарабатывать можно, вопрос в том, как это будет оплачиваться. Часто из-за большого объема проектов на потоке случается выгорание. Поэтому мне больше нравится вариант со совместительством. У меня есть знакомый, который работает в банке и вечерами занимается иллюстрацией. У него есть выбор, какие проекты брать, а какие — нет, потому что он не переживает, сколько заработает в конце месяца. Так что не торопитесь увольняться.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В начале пути кажется, что нельзя отказываться от заказов: «вдруг больше никто не придет». Начинающие иллюстраторы готовы рисовать в разных стилях и техниках, пробовать работать с разными заказчиками и проектами. На самом деле, это хорошо: так можно понять, какие темы нравятся и какой стиль больше подходит. Поэтому, не бойтесь инициировать свои проекты, много смотрите, слушайте и читайте, участвуйте в мастер-классах художников, которые нравятся, — только так вы найдете свою нишу.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/01/s30-min.jpg" data-image-id="124481" srcset="https://entermedia.io/wp-content/uploads/2024/01/s30-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/01/s30-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/01/s30-min.jpg 2400w" data-image-name="с30-min.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-124481 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkhZIkK" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Иллюстрации используются повсюду: в книгах, оформлении пространств, цифровых проектах и соцсетях. Задача художника-иллюстратора — понять, какие форматы нравятся больше всего и начать развиваться в этом направлении. На новом <a href="https://mastera.academy/courses/kak-zarabativat-illyustratoru" target="_blank" class="stk-reset">курсе</a> «Мастеров» расскажут, где учиться на иллюстратора и искать первых заказчиков, как защитить авторские права и создать сильное портфолио.</p><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Участие бесплатное, подробнее — на <a href="https://mastera.academy/courses/kak-zarabativat-illyustrator" target="_blank" class="stk-reset">сайте</a>.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Ксения Монастырская<br><strong class="stk-reset">Изображения:</strong> sasha spi</p></div></div><style data-stk-css="stkdaW34" class="" media="all">[data-stk-css="stkdaW34"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkhZIkK" class="" media="all">[data-stk-css="stkhZIkK"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F&title=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях&description=&image=https://entermedia.io/wp-content/uploads/2024/01/s-prev0-min-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="3" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F&text=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Казанские дизайнеры и иллюстраторы — о профильном образовании, заказчиках и генеративных нейросетях&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-dizajnery-i-illyustratory-o-profilnom-obrazovanii-zakazchikah-i-generativnyh-nejrosetyah%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501193'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2021/01/1-41.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,542] -->
+<link rel="canonical" href="https://entermedia.io/food/bezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной&raquo;" href="https://entermedia.io/food/bezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501087&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501087&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501087&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Центр «Эрмитаж-Казань», AR Architects и другие' href='https://entermedia.io/city/tsentr-ermitazh-kazan-ar-architects-i-drugie/' />
+<link rel='next' title='Цифра дня: Сколько туристов посетило Казань в 2024 году' href='https://entermedia.io/news/tsifra-dnya-skolko-turistov-posetilo-kazan-v-2024-godu/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-140625 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2021/01/1-41.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/03/IMAGE-2022-03-16-193215-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Инзиля Шакирова</div>
+          <div class="date-publish">3 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F&title=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной&description=&image=https://entermedia.io/wp-content/uploads/2021/01/1-41-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F&text=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="5" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="140625">
+    <div id="post-140625" class="post-140625 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-novoe-mesto">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:140669,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140668,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140667,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140638,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140637,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140639,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140640,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140636,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140635,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140634,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140633,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140632,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140631,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140630,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140629,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140628,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140627,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140626,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140653,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140654,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140655,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140656,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140657,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140658,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140659,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140660,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140661,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140662,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140663,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В оздоровительном комплексе Terra Vita на ул. Подлужная, 17 открылось кафе «Зеленая гречка». В заведении создали уютную и располагающую к долгим завтракам обстановку, наполнили меню сытными позициями из простых и понятных продуктов, а также поэкспериментировали с фруктовыми, кофейными и чайными напитками.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter побывала в заведении и традиционно оценила интерьер, кухню и бар. Рассказываем, какая концепция заложена в основу «Зеленой гречки», что бесспорно нужно здесь пробовать и почему в первый визит не стоит отказывать себе в десерте и выпечке. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/9-3.jpg" data-image-id="140653" data-image-name="9 (3).jpg" class="stk-image stk-reset  wp-image-140653 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/9-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/01/9-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/01/9-3.jpg 2400w" width="2400" height="1600" loading="lazy"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/4-9.jpg" data-image-id="140655" data-image-name="4 (9).jpg" class="stk-image stk-reset  wp-image-140655 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/4-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/01/4-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/01/4-9.jpg 2400w" width="2400" height="1600" loading="lazy"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Предыстория и концепция</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Развитие бренда «Зеленая гречка» началось с осознания его основателя Любови Маркиной чувства ответственности и заботы за здоровье своей семьи. Важнейшим проявлением этой заботы стало здоровое питание, а в основу его легло  приготовление ремесленного хлеба. Следующим этапом было создание современного производства, а далее возникла необходимость в расширении, и команда начала искать новые пути развития, не ожидая, что это приведет к созданию целого гастрономического проекта.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Любовь признается, что место под задуманную идею «нашло» ее само, поэтому у команды буквально не было других вариантов, кроме открытия собственного кафе. Активная и детальная проработка дизайна и концепции «Зеленой гречки» началась в августе прошлого года, когда в комплексе Terra Vita закрыли предыдущее заведение и начали ремонт нового. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В основу ДНК кафе легло желание готовить людям блюда из качественных продуктов, в пользе которых никто не сомневается. Так, в меню оказались сытные каши, безглютеновая выпечка, мясо и рыба, овощи и фрукты — большинство продуктов от локальных фермеров, которые добросовестно подходят к собственному делу и предоставляют продукты, выращенные в экологически чистых условиях.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Негласным кредо «Зеленой гречки» стало — «хлеб и любовь: тепло, свет, забота, вкус и натуральность в каждом кусочке». А своей главной целью команда кафе видит наполнение каждого дня своих гостей душевностью и любовью через изысканные блюда и выпечку. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><h5 class="stk-theme_29689__mb_0 stk-reset wp-exclude-emoji stk-theme_29689__style_font_style-1490606702672" data-ce-tag="paragraph">Зеленая гречка </h5><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Адрес:</strong><br data-gtm-vis-has-fired10171822_255="1">ул. Подлужная, 17 (оздоровительный центр Terra Vita, 1 этаж)</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Режим работы:</strong><br data-gtm-vis-has-fired10171822_255="1">Ежедневно, 8:00 — 21:00</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Средний чек:</strong><br>2 000₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Бронь столов:</strong><br data-gtm-vis-has-fired10171822_255="1">+7 (917) 888-12-41</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk5FKwh" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/Lyubov.png" data-image-id="140667" data-image-name="Любовь.png" class="stk-image stk-reset  wp-image-140667 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/Lyubov-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/01/Lyubov.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Любовь Маркина</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основатель кафе </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Проект кафе «Зеленая гречка» мы создали для тех, кто разделяет наши ценности — кому не все равно, что он ест, какую информацию потребляет и чем интересуется. Мы стремимся стать символом тепла, ремесла и гармонии с природой. Наши гости — это люди, которые заботятся о своем здоровье, интересуются сбалансированным питанием и стремятся повышать качество своей жизни.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В феврале мы официально открываем наше кафе — 13, 14 и 15 февраля. Готовим что-то интересное на эти даты, но уже сейчас рады видеть всех горожан у себя. Мы открыты каждый день с 8:00 —  у нас очень продуманные завтраки, чтобы каждый смог начать день правильно; сбалансированные обеды и ужины, которые мы красиво подаем внутри кафе и, если нужно, собираем в боксы с собой. В дальнейшем мы планируем создавать специальные сезонные меню и экспериментировать с подачей, устраивать завтраки с приглашенными экспертами и мероприятия для семейного отдыха.  </p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/7-4.jpg" data-image-id="140656" data-image-name="7 (4).jpg" class="stk-image stk-reset  wp-image-140656 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/7-4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/01/7-4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/01/7-4.jpg 2400w" width="2400" height="1600" loading="lazy"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/3-20.jpg" data-image-id="140657" data-image-name="3 (20).jpg" class="stk-image stk-reset  wp-image-140657 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/3-20-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2021/01/3-20-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2021/01/3-20.jpg 2400w" width="2400" height="1600" loading="lazy"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерьер </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">За дизайн пространства отвечала Вера Белова, основательница галереи современного искусства Belova Art Gallery. Основная идея интерьера заключается в использовании благородных оттенков и природных материалов для создания атмосферы свежести и уюта.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Пространство заведения пропитано теплом и гармонией, благодаря чему здесь хочется остаться подольше. Центральное внимание привлекают изящные подвесные люстры ручной работы, которые выполнены в форме зерен гречки. Они одновременно соединяют в себе простоту и утонченность. Золотистые оттенки светильников мягко переливаются под светом, создавая уютное освещение, которое заполняет все пространство, особенно в утреннее и дневное время. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Концепция заведения прослеживается и на столах, где можно заметить изображения в виде гречневых зерен. Зеленые столешницы сочетаются с натуральными оттенками мебели из благородного дерева — снова отсылка к теме гармонии с природой. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Здесь предусмотрено все для разных форм общения. Для уединенных встреч есть уютные столики на двоих, а для дружеских или семейных посиделок — просторные круглые столы, обрамленные мягкими диванами с подушками. Удобная мебель, выполненная из дерева и текстиля природных оттенков, буквально приглашает расслабиться и наслаждаться медленно текущим временем. Детали, такие как мраморная отделка стойки, золото светильников и теплые натуральные материалы мебели, гармонично дополняют друг друга, создавая ощущение изысканной простоты. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кухня</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="3" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-reset stk-image-figure stk-layout__overhangs_both" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/4-10.jpg" data-image-id="140662" srcset="https://entermedia.io/wp-content/uploads/2021/01/4-10-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/4-10-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/4-10.jpg 1536w" data-image-name="4 (10).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140662 img-responsive"></div></figure></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-reset stk-image-figure stk-layout__overhangs_both" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/3-22.jpg" data-image-id="140663" srcset="https://entermedia.io/wp-content/uploads/2021/01/3-22-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/3-22-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/3-22.jpg 1536w" data-image-name="3 (22).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140663 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Меню заведения разрабатывал бренд — шеф Игорь Аликов из Санкт-Петербурга, а отдельные позиции, ориентированные на локальную кухню, прорабатывал шеф-повар «Зеленой гречки» Алмаз Шайхиев. Вместе получилось собрать шесть разделов: завтраки и сборные завтраки, закуски и салаты, супы и горячие блюда.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В качестве концепции для меню выбран comfort food — простая еда из понятных каждому человеку ингредиентов и привычные сочетания. Именно поэтому среди завтраков особенно выделяются классические и традиционные позиции с ноткой авторского видения. Советуем обязательно попробовать кашу из зеленой гречки с муссом из пармезана и вешенками; драники из цукини с лососем слабой соли; бенедикт на круассане со шпинатом и трюфельным маслом; а также шакшуку с копченой паприкой, которая подается со свежим ремесленным тартином.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Также в кафе есть фирменный завтрак «Зеленая гречка», в который входят два яйца, лосось, отварная зеленая гречка, авокадо, микс салата с песто и томатами и безглютеновый хлеб. А если вы любите собирать блюдо самостоятельно, для вас обязательно предложат конструктор, в котором значатся: пастрами из индейки, кремчизс травами, сыр грюйер, креветки, красная икра и другие ингредиенты. Отдельного внимания заслуживает французская бриошь с кремом и сладковато-кислым вишневым компоте, которая посыпается фисташковыми лепестками. Шеф-повар, отмечает, что эта позиция — некое возвращение в детство и приятная ностальгия. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><p class="stk-theme_29689__style_small_text stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что заказывать:</strong></p><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фирменный завтрак — 1 100₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Щучьи котлеты с зеленой гречкой, овощами и соусом биск — 960₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Безглютеновый треугольник из зеленой гречки с бедром индейки и бульоном — 550₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Утиная ножка конфи — 1 150₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Матча бабл-гам — 350₽</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkM9QNC" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/Almaz.png" data-image-id="140668" data-image-name="Алмаз.png" class="stk-image stk-reset  wp-image-140668 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/Almaz-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/01/Almaz.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Алмаз Шайхиев</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">шеф-повар кафе</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Меню нашего заведения ориентировано на европейскую кухню. В первую очередь  мы стараемся работать с локальными продуктами Татарстана, а также продуктами от федеральных поставщиков — например, у нас есть мурманский лосось или выращенная по татарским традициям утка.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Особенно гордимся нашей выпечкой: круассанами, чиабаттой, тартином и бриошью и другими позициями с ремеслянным подходом к приготовлению, которые обязательно будут свежеиспеченными. Кстати, тесто для круассанов нам помогал разрабатывать известный петербургский пекарь Максим Бабич, благодаря которому нам удалось достичь той самой воздушной и неповторимой структуры.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="3" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/5-4.jpg" data-image-id="140661" srcset="https://entermedia.io/wp-content/uploads/2021/01/5-4-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/5-4-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/5-4.jpg 1536w" data-image-name="5 (4).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140661 img-responsive"></div></figure></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/6-1.jpg" data-image-id="140660" srcset="https://entermedia.io/wp-content/uploads/2021/01/6-1-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/6-1-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/6-1.jpg 1536w" data-image-name="6 (1).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140660 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В разделе закусок и салатов царит большое разнообразие — найдутся блюда как для легкого перекуса, так и для аппетитного начала приема пищи. Можно заказать изысканный паштет из куриной печени с пряной сливой, который подается с фирменным хлебом «Зеленая гречка». Любителям свежих вкусов стоит попробовать тартар из лосося с маринованным огурцом и красной икрой, а если хотите что-то максимально «понятное», берите греческий салат с фермерской брынзой и сезонными овощами подается с соусом чимичурри, который добавляет блюду пикантности.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Среди супов особое внимание привлекает грибной воздушный крем с трюфельным маслом, в который добавляются картофельные ньокки. Все вместе создает насыщенный вкус, но при этом легкую текстуру. Отдельно отметим тыквенный крем-суп со страчателлой и добавлением креветок, который гармонично сочетает овощную сладость с морскими нотками. В продолжении морской тематики — в меню найдется уха из трех видов рыб: лосося, судака и щуки с добавление овощей.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Горячие блюда представлены широким выбором мясных и рыбных позиций. Например, утиная ножка конфи с соусом из черной смородины и картофельным кремом обещает стать настоящим гастрономическим открытием. Для любителей рыбы команда кафе предлагает филе судака с соусом из мидий, томленым шпинатом и кремом из цветной капусты, который удивит своей оригинальной подачей и гармонией вкусов. Также советуем обязательно попробовать щучьи котлеты с овощами и зеленой гречкой; говяжьи щечки с ньокками и маринованным дайконом и все три вида пасты — птитим с лососем и красной икрой, казаречче с креветками и тортильони со страчателлой. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отдельное внимание стоит уделить витрине десертов, которая «наполнена» множеством ярких и интересных позиций. Среди них особняком, конечно же, стоят круассаны — с шоколадом, фисташка-малина, манго-маракуйя и другие. Также особенно советуем попробовать конфеты из бельгийского шоколада; чизкейк, напоминающий творожную запеканку; миндальную тарталетку с малиновым конфи и фисташковой шапочкой; безглютеновый медовик по классическому рецепту и сырки с манго, лимонно-маковой начинкой и малиной. С собой домой можно забрать хлеб — безглютеновый с семечками, фирменный под названием «Зеленая гречка», тыквенный хлеб с семенами, чиабатту с томатами, тартин, ржаной или бородинский.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="3" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/3-21.jpg" data-image-id="140658" srcset="https://entermedia.io/wp-content/uploads/2021/01/3-21-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/3-21-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/3-21.jpg 1536w" data-image-name="3 (21).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140658 img-responsive"></div></figure></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/1-42.jpg" data-image-id="140659" srcset="https://entermedia.io/wp-content/uploads/2021/01/1-42-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/01/1-42-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/01/1-42.jpg 1536w" data-image-name="1 (42).jpg" width="1536" height="2048" loading="lazy" class="stk-image stk-reset  wp-image-140659 img-responsive"></div></figure></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Бар</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В баре «Зеленой гречки», в силу концепции заведения, нет алкоголя, зато есть множество интересных кофейных и чайных напитков. Раздел «Классика кофе» порадует любителей традиционных позиций, таких как американо, капучино, латте и эспрессо, приготовленных с использованием качественного зерна от команды «Нефть». Для тех, кто ищет что-то необычное, в меню &#8212; авторские варианты: апельсиновый раф, латте несквик и аффогато с карамелью или фисташкой на выбор. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фанаты чая матча оценят раздел с напитками на ее основе: матча с бабл-гамом, фисташкой или соленой карамелью. Для сладкоежек есть вкусные варианты какао с добавками вроде кокоса, карамели и крем-чиза. Если же вы любитель чая, то заказывайте что-то из «листового» раздела: жасмин, сенча, молочный улун и классический Эрл Грей. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если хочется чего-то освежающего, обратите внимание на лимонады с натуральными ингредиентами, такие как груша в сочетании с бузиной, черника с лавандой или малина с алоэ и вербеной. Смузи из суперфудов, кокосовой воды или йогурта отлично подойдут для тех, кто следит за здоровьем. Кроме того, в меню есть молочные коктейли и холодный кофе — идеальный выбор для детей. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk2I_4w" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/01/Mai-ya.png" data-image-id="140669" data-image-name="Майя.png" class="stk-image stk-reset  wp-image-140669 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/01/Mai-ya-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/01/Mai-ya.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Майя Шамсутдинова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">старший бариста</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы много экспериментировали с натуральными и свежими ягодами, фруктами и травами, чтобы создать интересные сочетания, полезные для здоровья. Так появились смузи с годжи, йогуртом, бананом и клубникой или фреши из сельдерея с киви или яблоком. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Современные тенденции в области питания требуют предельного внимания к деталям и ингредиентам и от нас, поэтому мы постарались собрать разнообразную карту бара, в которой каждый точно сможет найти что-то для себя.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Инзиля Шакирова<br><strong class="stk-reset">Фото:</strong> Антон Блохин </p></div></div><style data-stk-css="stk2I_4w" class="" media="all">[data-stk-css="stk2I_4w"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkM9QNC" class="" media="all">[data-stk-css="stkM9QNC"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk5FKwh" class="" media="all">[data-stk-css="stk5FKwh"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F&title=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной&description=&image=https://entermedia.io/wp-content/uploads/2021/01/1-41-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F&text=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Безупречный интерьер и comfort food в кафе «Зеленая гречка» на Подлужной&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fbezuprechnyj-interer-i-comfort-food-v-kafe-zelenaya-grechka-na-podluzhnoj%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="5" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501087'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

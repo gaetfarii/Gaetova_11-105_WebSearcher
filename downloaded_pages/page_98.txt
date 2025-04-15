@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/02/prev.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,555] -->
+<link rel="canonical" href="https://entermedia.io/people/rustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности&raquo;" href="https://entermedia.io/people/rustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501190&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501190&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501190&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Музыкально-голосовой театр, перформансы и афро-хаус: Что ждать на вечеринке в этническом стиле от Voda.Event' href='https://entermedia.io/news/muzykalno-golosovoj-teatr-performansy-i-afro-haus-chto-zhdat-na-vecherinke-v-etnicheskom-stile-ot-voda-event/' />
+<link rel='next' title='Эскизы: Как будут выглядеть первые три станции второй ветки казанского метро' href='https://entermedia.io/news/eskizy-kak-budut-vyglyadet-pervye-tri-stantsii-vtoroj-vetki-kazanskogo-metro/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-125889 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/02/prev.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2021/12/IMG_5123-96x96.png" class="img-responsive async"></div>
+          <div class="name-author">Кристина Лешкова</div>
+          <div class="date-publish">28 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F&title=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности&description=&image=https://entermedia.io/wp-content/uploads/2024/02/prev-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F&text=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="125889">
+    <div id="post-125889" class="post-125889 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-intervyu">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:125890,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:125892,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:125893,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:125899,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">CEO медиабаингового агентства Advert Russia и сооснователь агентства мобильного маркетинга Advert Russia Mobile Рустам Вильданов уже несколько лет занимается профессиональным маркетингом и вместе со своей командой помогает брендам развиваться и продвигаться в медиаполе. За время существования  агентство Advert Russia реализовало более 5 000 проектов и помогло раскрутиться бизнесу из разных уголков России.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter поговорила с Рустамом Вильдановым. Рассказываем, какие сейчас тенденции есть в сфере маркетинга, что представляет собой новое направление «мобильная реклама» и как Рустам связан с благотворительностью.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk5Ux9t" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/02/Bez-imeni-2.png" data-image-id="125899" data-image-name="Без имени-2.png" class="stk-image stk-reset  wp-image-125899 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/02/Bez-imeni-2-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/02/Bez-imeni-2.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рустам Вильданов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">CEO медиабаингового агентства Advert Russia и сооснователь агентства мобильного маркетинга Advert Russia Mobile</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></h5><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рустам, расскажите, какой сейчас у вас основной вид деятельности?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наш основной вид деятельности — это реклама. Основная специализация — это медиабаинг. Мы занимаемся медиапланированием и закупкой рекламы как в оффлайне, так и в онлайне. В Казани нас знают как «Рекламная группа «Барс». Но уже с 2022 года мы являемся полноценным федеральным агентством и решили, что будем развиваться как бренд Advert Russia. И уже с 2022 года крупные и федеральные компании нас знают под этим брендом.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы были одной из первых рекламных компаний в Казани, начавшей комплексную закупку для клиентов. Благодаря нашему десятилетнему опыту, многочисленным проектам и успешным кейсам мы накопили внушительную экспертизу в плане стратегии продвижения брендов из различных сфер деятельности. Главный упор агентство Advert Russia делает на охватную историю — стремимся как можно точнее попасть в целевую аудиторию клиента.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как агентство Advert Russia подходит к разработке рекламных кампаний, чтобы обеспечить максимальную эффективность и рост бренда?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как я сказал ранее, мы опираемся на наш многолетний опыт. За это время мы смогли реализовать более 5 000 успешных проектов. У нас есть огромная база успешных кейсов для любого бизнеса и любого рекламного бюджета. Работаем со всеми современными рекламными метриками и измерениями. Мы делимся опытом наших реализованных кейсов с клиентами и всегда анализируем результаты запусков рекламных кампаний. А вообще, главный критерий успеха рекламной кампании это хорошо и грамотно заполненный бриф. Этому аспекту мы уделяем особое внимание.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/02/1-9.jpg" data-image-id="125893" srcset="https://entermedia.io/wp-content/uploads/2024/02/1-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/02/1-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/02/1-9.jpg 1200w" data-image-name="1.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-125893 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В чем основные преимущества и отличительные знаки вашего рекламного агентства?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы осуществляем баинг любой рекламы: наружной и indoor рекламы, СМИ, ТВ, социальных сетей, мобильной рекламы и многой другой. Это удобно для клиентов при запуске различных сплитов, например запуск на ТВ совместно с рекламой у блогеров</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У нас отлаженный сервис. Работаем 24/7. Можем оперативно запустить, заменить рекламу. У нас огромная база партнеров и уникальная адресная программа. Свой продакшн. Гибкие условия оплаты. При этом на выходе клиент получает зачастую цену ниже или такую же как у собственника.  </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для полного комфорта клиента мы сами полностью ведем проект, берем самую сложную и нудную часть на себя: от запуска до документооборота.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дело в том, что в мы закупаем большое количество рекламных площадей по оптовым ценам, и у нас имеется возможность предоставлять клиентам индивидуальные скидки. И за счет этого опыта у нас возникает свое ценообразование.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие вызовы и тенденции вы видите в сфере рекламы и маркетинга в настоящее время, и как ваше агентство готовится к ним?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сфера рекламы, в принципе как и вся наша жизнь за последние десятилетия претерпела значительные изменения. Один из главных вызовов в столь быстродвижущем мире, мире технологий и гаджетов это: «Как привлечь внимание потребителя к бренду и закрепиться у него в сознании?». Ведь на рынке большая конкуренция и «драка» за потребителя. Современные потребители устали от ярких рекламных роликов, шумных заголовков и вызывающих изображений.  Поэтому наша задача, как компании отслеживать все рекламные тренды и интегрировать в нашу работу лучшие решения. Это и ИИ, и глобальная диджитализация рекламного инвентаря, метавселенные и конечно бум маркетплейсов (ведь они тоже уже становятся полноценными рекламными инвентарями).</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какую роль играют социальные медиа в продвижении бренда сегодня?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я на этот вопрос отвечу статистикой. За 2023 год объем рынка и инфлюенс-маркетинга вырос на 35%. Сейчас внимание больше привлекают микроблогеры и цифровые аватары. Почему именно микроблоги? Во-первых, они представляют ценность брендам, ориентированным на молодежь. Во-вторых, они полностью контролируют свой контент и тщательно выбирают, что рекламируют.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Брендам очень важно, с кем они соседствуют в плане рекламы. А большие блогеры  этим и балуются. Они могут рекламировать хороший бренд вместе с условным казино. Микроблоги к своей ЦА относятся более трепетно, потому что у них аудитория, как говорят, более живая. И, соответственно, они внимательно выбирают рекламодателей. Для больших брендов это ценно. Поэтому сейчас они обращают свое внимание в основном на микроблогеров.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Расскажите побольше о вашем новом направлении «Мобильная реклама». Как вы пришли к такой идее?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я рассказывал про тенденции, которые сейчас в сфере рекламы актуальны, и, соответственно, мы не могли пройти мимо диджитализации и перевода процессов в интернет. Поэтому разработали направление «мобильная реклама». Она у нас выделилась в отдельное агентство —<a href="https://mobile.advertrussia.ru/" target="_blank" class="stk-reset">Advert Russia Mobile</a>. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Приведу некоторые исследования. Для начала, по данным медиаскоп, 83% жителей России регулярно выходят в интернет, а 59% россиян потребляют контент через экраны своих мобильных телефонов. И в ближайшие годы, я бы сказал лет десять, этот процент будет только расти. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Поэтому, чтобы не упустить этот тренд и зайти в уходящий вагон, мы с 2022 года активно развиваем свою экспертизу в этом направлении. Ведь мобильный маркетинг предоставляет возможность использования данных для создания уникальных рекламных кампаний, что улучшает эффективность сообщений, делая их более привлекательными для аудитории. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/02/2-9.jpg" data-image-id="125892" srcset="https://entermedia.io/wp-content/uploads/2024/02/2-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/02/2-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/02/2-9.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-125892 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чем направление «мобильная реклама» отличается от других направлений рекламы и как оно работает?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы оказываем комплексные услуги по максимально эффективному продвижению сайтов и приложений с любой геолокации. То есть, мы можем охватить не только Россию и страны СНГ, но и весь мир. Разрабатываем комплексную стратегию продвижения, используем различные источники: это соцсети, dsp- и osp-сети, oem. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://mobile.advertrussia.ru/" target="_blank" class="stk-reset">Advert Russia Mobile</a> расширяет и улучшает креативную коммуникацию с пользователями. Для работы с баннерной слепотой создаем индивидуальные креативные подходы, учитываем сезонность и опыт конкурентов. Также запускаем рекламные креативы с возможными гипотезами для привлечения ЦА, анализируем результаты кампании. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Также мы оптимизируем бюджеты, отключаем неэффективные сегменты и масштабируем нужные кампании. Используем различные форматы сообщения — баннеры, видеоролики на весь экран, таргетинг. После этого предоставляем полный анализ данных и отчетность для каждой рекламной кампании. Главное удобство — мы работаем по CPI, CPA модели. То есть клиент платит только за конечный результат, а это может быть заявка, установка приложения или первая покупка на определенную сумму.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы знаем, что вы активно участвуете в благотворительности . Расскажите нам, пожалуйста, про благотворительный фонд «НИЯТ».</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фонд «Ният» был создан группой успешных предпринимателей в 2022 году. За этим стоит не один человек, а несколько людей. Мы сидим в чате и вместе обсуждаем те или иные проблемы, которые хотим помочь решить. Так, основные направления фонда «Ният» это: курирование детских домов, сирот, помощь нуждающимся в виде лекарств и еды, помощь в строительстве и ремонте соцобъектов, домов погорельцам. Под опекой фонда «Ният» центр глухонемых и слепых.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">А начинали мы с внутренних сборов. Сами с предпринимателями собирались и решали, кому помочь. Сами собирали средства. Сейчас же стоит задача вывести фонд «Ният» на новый уровень, чтобы каждый желающий мог принять участие в благом деле. У нас уже готов сайт, есть созданная организация, куда мы по реквизитам принимаем платежи. И есть уже сотрудники, которые принимают и обрабатывают заявки от нуждающихся, после чего публикуют заявки о помощи.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Скольким людям уже удалось помочь и какие проекты удалось реализовать в рамках деятельности фонда «Ният»?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На самом деле, мне тяжело сказать, потому что цифра очень большая. Поэтому я предлагаю ознакомиться со всей информацией у нас <a href="https://xn----gtbnrcc7aj9h.xn--p1ai/" target="_blank" class="stk-reset">на сайте</a>. Там у нас указано, сколько пожертвований удалось собрать и кому мы смогли помочь своей деятельностью. Там же, на сайте, можно оставить взнос — анонимно или нет.</p><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие у вас планы на ближайшее будущее и как планируете развивать свои проекты в дальнейшем?</h5><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что касается нашего агентства Advert Russia, то мы планируем активно расширять направления и географию. Из последних событий — мы в декабре 2023 года открыли филиал в Москве. Но планируем расти дальше и расширяться.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По благотворительному фонду «НИЯТ»» — в 2024 году хотим подключить еще несколько детских домов. Также планируем развивать новые направления благих дел. </p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Кристина Лешкова<br><strong class="stk-reset">Изображения: </strong>miniaiu</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stk5Ux9t" class="" media="all">[data-stk-css="stk5Ux9t"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F&title=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности&description=&image=https://entermedia.io/wp-content/uploads/2024/02/prev-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F&text=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Рустам Вильданов — о мобильном маркетинге, тенденциях в рекламе и благотворительности&related=truemisha&hashtags=Интервью&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frustam-vildanov-o-mobilnom-marketinge-tendentsiyah-v-reklame-i-blagotvoritelnosti%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501190'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

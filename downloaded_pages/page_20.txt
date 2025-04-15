@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки» | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/1-2.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,592] -->
+<link rel="canonical" href="https://entermedia.io/city/ot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»&raquo;" href="https://entermedia.io/city/ot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501077&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501077&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501077&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Казани частично ограничат движение на Большой Красной' href='https://entermedia.io/news/v-kazani-chastichno-ogranichat-dvizhenie-na-bolshoj-krasnoj/' />
+<link rel='next' title='В казанском зооботсаду родилась вторая зебра' href='https://entermedia.io/news/v-kazanskom-zoobotsadu-rodilas-vtoraya-zebra/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-135833 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/1-2.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки» <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">9 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F&title=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F&text=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="135833">
+    <div id="post-135833" class="post-135833 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:135838,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135835,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135836,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135837,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135834,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid: 2SDnjdATYLz</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме туристических шумных улиц, в центре Казани есть изолированные от суеты уютные кварталы. Эти районы особенно перспективны: в шаговой доступности от ключевых городских объектов здесь комфортно жить и проводить время. Одна из таких локаций — улица Исхаки. Исторические кварталы активно развиваются: здесь появляется современная инфраструктура и дома для тех, кто выбирает жить в тихом центре города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вместе с краеведом и историком Марком Шишкиным вспомнили историю тихих кварталов и обсудили с экспертами <a class="stk-reset" href="https://akbars-dom.ru/?utm_source=enter&amp;utm_medium=article&amp;utm_campaign=abd&amp;utm_content=home" target="_blank">«Ак Барс Дом»</a>, какой будет улица после застройки новыми ЖК <a href="https://iskhakidom.ru/?utm_source=enter&amp;utm_medium=article&amp;utm_campaign=iskhaki" target="_blank" class="stk-reset">«Дом на Исхаки»</a>. Если коротко: в современных проектах больше полезного, чем кажется.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/2-2.jpg" data-image-id="135835" srcset="https://entermedia.io/wp-content/uploads/2024/10/2-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/2-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/2-2.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135835 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как менялась Поперечно-Варламовская улица и что с ней происходит сейчас</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В XVIII веке на месте центрального здания Колхозного рынка находилась Смоленско-Варлаамовская церковь. Улицы, которые находились у храма, как это было принято, стали называть Большой Варламовской и Поперечно-Варламовской — современные Межлаука и Исхаки.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кварталы исторически относились к Ямской слободе. В то время в этой части города вблизи от дороги из старой Казани на Москву жили ямщики. В XIX — начале ХХ веков здесь селились в основном купцы и мещане. Торговцы выбирали эти улицы, так как рядом располагалась Мочальная площадь, Татарская слобода и Сенной базар. В числе домовладельцев на Варламовской были купцы Василий Богданов, Егор Зурин, Иван Галкин. Дом Гавриила Пискунова середины XIX века сохранился до нашего времени — двухэтажный особняк можно посмотреть на Исхаки, 15, ближе к улице Тази Гиззата.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С дома № 21 крестьянина Прокопия Сенаторова началась автомобильная история города. Здесь находились первые в Казани гаражи, ремонтные мастерские и склады горюче-смазочных материалов для автомобилей «Товарищества Аутотранспорт в Казани». В гаражах с 1909 года и до конца века оказывали услуги грузовых и пассажирских перевозок. Многие местные помнят это двор, а в 1990-ых годах некоторые еще хранили в бывших помещениях картошку и соленья.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На Исхаки работало одно из трех крупнейших пароходств на Волге «Кавказ и Меркурий». Место для представительства выбрали неслучайно: неподалеку была Адмиралтейская дамба, откуда в XIX веке начиналась дорога в Москву, и речной порт. В 1896 году в Мокрой слободе появился железнодорожный вокзал — по этой причине в советское время на Исхаки построили здания управления (ул. Исхаки, 14/36 — прим. Enter) и жилой дом (ул. Исхаки, 8 — прим. Enter) Казанской железной дороги. Тихая жилая улица оказалась по соседству с главным логистическим центром растущего города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В названиях улицы отразились актуальные перемены: старое церковное наименование заменили на фамилию революционера Моисея Володарского, в постсоветский период улица получила имя татарского писателя Гаяза Исхаки. Сейчас район является одним из тех мест исторического казанского Забулачья, которые переживают обновление. Из улицы расселенных коммуналок Исхаки превращается в часть респектабельного центра Казани. При этом здесь бережно сохраняют культурное и историческое наследие города.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/3-2.jpg" data-image-id="135836" srcset="https://entermedia.io/wp-content/uploads/2024/10/3-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/3-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/3-2.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135836 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Дом на Исхаки» — как современная архитектура вписывается в историческую застройку Казани</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как и 100 лет назад, важным преимуществом улицы Исхаки остается близость к историческому центру — до Казанского Кремля можно дойти всего за 10 минут. Это не отменяет атмосферы приватности района, по сравнению с туристическими районами на правом берегу Булака. Благодаря камерности и некоторой изолированности от шумных пешеходных маршрутов, локация остается привлекательной для горожан, которые выбирают жить в тихом центре города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://iskhakidom.ru/?utm_source=enter&amp;utm_medium=article&amp;utm_campaign=iskhaki" target="_blank">ЖК «Дом на Исхаки»</a>&nbsp;от «Ак Барс Дом» — это комплекс бизнес-класса с продуманными фасадными решениями и современным наполнением. Пятиэтажный дом с видовыми мансардами деликатно вписывается в историческую среду: кладка из декоративного керамического кирпича бежевых и коричневых оттенков подчеркивает изысканность и монументальность здания.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkDd1NT" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3.png" data-image-id="135834" data-image-name="Без имени-3.png" class="stk-image stk-reset  wp-image-135834 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Айгуль Латыпова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">исполнительный директор </p><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Ак Барс Дом»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сомнений в том, что здесь лучше всего разместить проект жилого дома, не возникало. Исторически сложилось так, что левобережье Булака было более размеренным, здесь располагались институты, школы, банки. Улица Исхаки находится в стороне от суеты мегаполиса, на второстепенной улице шаг замедляется. Безусловно, это подразумевает тишину и спокойствие, столь необходимые для жилой застройки.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Атмосферы клубной приватности удалось достичь благодаря закрытой территории и ограниченному количеству квартир: их всего 56. В проекте многоуровневая система безопасности: видеонаблюдение по всему периметру дома и в местах общего пользования, видеодомофония с функцией Face-ID и считывание номеров автомобилей при въезде в паркинг. В отделке использованы только качественные материалы, высокие потолки до 4,4 м, эффектное витражное остекление с нанонапылением класса де-люкс.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Особенность комплекса — мансардный пятый этаж. На видовых террасах можно заниматься спортом, проводить время с семьей и друзьями, организовать рабочее пространство. Благодаря такому архитектурному решению, жильцы верхних этажей будут чувствовать себя в самом центре Казани, как в уютном природном уголке.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Квартиры на нижних этажах не менее уютные: в планировках предусмотрены лоджии или просторные террасы с видом во двор и на город. На выбор — функциональные планировки от классических вариантов до евро-формата. Квартиры сдаются с предчистовой отделкой и выверенными планировками.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkvF8aB" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3.png" data-image-id="135834" data-image-name="Без имени-3.png" class="stk-image stk-reset  wp-image-135834 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/10/Bez-imeni-3.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Айгуль Латыпова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">исполнительный директор </p><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Ак Барс Дом»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хотелось бы обратить внимание и на продуманные места общего пользования — эффектные лобби и лаунж-зоны с мягкой мебелью. Каждый декоративный элемент внутреннего пространства органично продолжает архитектурную концепцию фасадов. Природные цвета, мягкий свет и плавные линии интерьеров действуют расслабляюще — это именно то, чего ждет человек, попадая домой.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkeM8wh" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">56</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">квартир</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">4</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">жилых этажа и коммерческий первый&nbsp;</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1–3</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">комнат классического и евро-формата</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 37 до 83 кв. метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">площадь квартир</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 3 до 4,4 метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">высота потолков</p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Несмотря на плотную застройку в центре, во дворе «Дома на Исхаки» точно не будет тесно. На придомовой территории есть место для детской площадки из экоматериалов и с различными покрытиями, в том числе морской галькой, а также спортивной зоны и пространства для отдыха и работы. Авторское благоустройство превратит двор в сквер: в любое время года здесь будут цвести и радовать жильцов деревья и кустарники. В непогоду можно провести время в кофейне или салоне красоты на первом этаже дома.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/4-1.jpg" data-image-id="135837" srcset="https://entermedia.io/wp-content/uploads/2024/10/4-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/4-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/4-1.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135837 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkoztPd" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Внимание к деталям</h4><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">Территория жилого комплекса находится под постоянным видеонаблюдением. Родители могут быть уверены в безопасности детей во дворе в любое время суток .</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">С системой видеодомофонии с ЖК-экраном и функцией Face-ID можно бесконтактно входить в дом и дистанционно впускать внутрь гостей.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Консьерж на ресепшене скоординирует работу служб и поможет быстро и качественно решить бытовые проблемы.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Дом обслуживает собственная управляющая компания “Всегда рядом”, в приложении которой можно быстро оплатить счета и оставить заявку.На первом этаже есть колясочные для колясок и спортивного инвентаря, санузел для гостей.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Фасады выполнены из голландского кирпича ручной формовки.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">На фасадах предусмотрена архитектурная подсветка и декоративные корзины для кондиционеров. Это упрощает монтаж техники и создает общий гармоничный вид дома.</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Подземная парковка оснащена современными системами вентиляции, охраны и пожаротушения, продуманной навигацией и видеонаблюдением.</li></ul><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Дом на Исхаки» будет сдан к концу 2026 года. Продажи уже стартовали, выбрать и забронировать квартиру можно <a href="https://iskhakidom.ru/" target="_blank" class="stk-reset">на сайте</a> или уточнить у менеджера по телефону: +7 (843) 558-08-32.</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">ЖК «Дом на Исхаки» (ООО «СЗ «Мой Ритм 2»). Проектные декларации размещены на сайте наш.дом.рф. ООО «Ак Барс Дом». ОГРН 1101690072032. РТ, г. Казань, ул. Меридианная, д.1.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Ксения Монастырская<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Изображения:</strong> aimiumiu</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реклама. ООО «АК БАРС ДОМ»</p></div></div><style data-stk-css="stkvF8aB" class="" media="all">[data-stk-css="stkvF8aB"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkDd1NT" class="" media="all">[data-stk-css="stkDd1NT"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkeM8wh" class="" media="all">[data-stk-css="stkeM8wh"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkoztPd" class="" media="all">[data-stk-css="stkoztPd"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F&title=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F&text=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=От Варламовской до Исхаки: Как по улице в три квартала узнать историю города и что сделает с районом новый «Дом на Исхаки»&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fot-varlamovskoj-do-ishaki-kak-po-ulitse-v-tri-kvartala-uznat-istoriyu-goroda-i-chto-sdelaet-s-rajonom-novyj-dom-na-ishaki%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="3" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501077'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

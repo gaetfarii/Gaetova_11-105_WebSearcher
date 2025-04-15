@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Нет дыма без огня: 15 глупых вопросов пожарному | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/12/1-3.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,517] -->
+<link rel="canonical" href="https://entermedia.io/people/net-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Нет дыма без огня: 15 глупых вопросов пожарному&raquo;" href="https://entermedia.io/people/net-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501128&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501128&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501128&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В «Ща» покажут стихотворно-перформативный проект «Бродский. Зима»' href='https://entermedia.io/news/v-shha-pokazhut-stihotvorno-performativnyj-proekt-brodskij-zima/' />
+<link rel='next' title='В Казани после реконструкции открылось Горьковское шоссе' href='https://entermedia.io/news/v-kazani-posle-rekonstruktsii-otkrylos-gorkovskoe-shosse/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-138960 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/12/1-3.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Нет дыма без огня: 15 глупых вопросов пожарному <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2024/11/67-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Екатерина Гусева</div>
+          <div class="date-publish">11 декабря</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F&title=Нет дыма без огня: 15 глупых вопросов пожарному&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-3-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F&text=Нет дыма без огня: 15 глупых вопросов пожарному" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Нет дыма без огня: 15 глупых вопросов пожарному&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="138960">
+    <div id="post-138960" class="post-138960 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:138962,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138963,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138961,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На уроках ОБЖ в школе часто рассказывали о пожарной безопасности, но кажется, что мы многое забыли: только за 2023 год в Татарстане в пожарах погибло около 100 человек. Редакция Enter обеспокоилась этим вопросом и поговорила с пожарным не только о правилах безопасности при угрозе возгорания, но и о любопытных деталях профессии.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Разобраться в темах нам помог старший сержант внутренней службы и старший пожарный-спасатель ПСЧ-62 Нижнекамска Ильнар Абукаев. Мы задали ему 15 глупых вопросов, которые на самом деле важные и могут спасти жизнь. Читайте, как избежать пожара, что нельзя тушить водой и чем заняты пожарные на работе вне вызовов.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/2-4.jpg" data-image-id="138963" srcset="https://entermedia.io/wp-content/uploads/2024/12/2-4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/2-4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/2-4.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138963 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как становятся пожарным?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для начала нужно получить категорию годности к военной службе А1 и отслужить в армии. Перед приемом на работу будущий пожарный должен пройти строгую военно-врачебную комиссию, где только анализов — 24 пункта. Потом начинается трехмесячная стажировка без допуска к огню, затем такая же по времени подготовка в учебном центре. Завершивший обучение получает дыхательный аппарат, право заходить в дым и тушить огонь. Важным пунктом для сотрудника пожарной службы является стопроцентное здоровье и хорошая физическая подготовка, потому что труд связан с большими нагрузками и необходимостью носить тяжелую экипировку. Например, при собственном весе 70 кг пожарный с экипировкой будет весить 94 кг.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как устроено пожарное депо?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В пожарной части работают два отдела. Одни сотрудники занимаются надзорной деятельностью, то есть предотвращают пожары заранее и выписывают замечания, если существуют риски воспламенения, а другие — тушат пожары и спасают людей из огня.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Депо для многих является вторым домом: там есть спальное помещение, учебный класс, спортзал, кабинеты начальников, столовая и кухня. Причем пожарные готовят себе сами, а приносить еду с собой нежелательно, потому что свежая горячая пища намного полезнее. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для тренировок создана специальная инфраструктура: учебная башня, 100-метровая полоса с препятствиями и теплодымокамера. Помимо прочего на базе депо работает диспетчерская, куда приходят вызовы, а святой святых считается гараж боевых машин. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как у пожарных строится рабочий день, если нет вызовов?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Пожарный заступает на 25-часовую смену в 7:30. В 7:45 — развод караула и постановка боевой задачи начальником или заместителем начальника части. До обеда, который начинается в 12:15, у пожарных идет учебная подготовка с теоретической частью, затем с 13:00 до 14:00 личный состав отдыхает. По регламенту пожарный во время отдыха может снять только обувь, но не одежду. Спать в это время нельзя.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После 14:00 команда занимается физической подготовкой, сдает нормативы, поддерживает состояние техники и убирается на территории пожарной части. Вечернее время предназначено для психоразгрузки: одни читают книги, другие — снова идут в спортзал. В 23:00 — отбой, но это не означает, что все ложатся спать. Например, внутренний наряд караула всегда бодрствует.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие самые распространенные причины пожаров в городе?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По недосмотренности или халатности. В городской среде чаще всего пожары случаются в осеннее, зимнее и весеннее время. С наступлением дачного сезона случаются возгорания бань, дачных домов и разных пристроек, а в первые морозы всплеск пожаров нередко происходит из-за неправильного использования электрических печей. Иногда люди делают печи своими руками, подвергая себя опасности, а иногда сушат легковоспламеняющиеся вещи, забывая о технике безопасности.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вне зависимости от причин обычно вызовы поступают по выходным, когда люди отдыхают, употребляют алкоголь и теряют бдительность.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чем опасны бенгальские огни и салюты?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Бенгальские огни опасны своими искрами — попадая на поверхности, они могут быстро привести к воспламенению. К тому же в их составе есть горючий алюминий или магний. Чтобы обезопасить себя, бенгальские огни нужно жечь только на улице, держать подальше от лица, не размахивать ими слишком сильно и не давать детям.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В составе фейерверков есть порох, состоящий из калиевой селитры, древесного угля и серы, что дает энергию для взрыва. В соцсетях много видеороликов, как салюты залетают на балкон или в открытые окна, и в квартире моментально происходит взрыв и последующее возгорание. Фейерверки в городе можно пускать лишь в специально отведенных зонах, которые оборудованы противопожарными средствами и заграждениями. Нельзя устраивать пиротехническое шоу вблизи жилых домов, парков, местах массового скопления людей, аэропортов, исторических и культурных объектов.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На какие классы делятся пожары?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В нормативных документах указаны шесть классов, и каждому из них присвоена буква латинского алфавита:</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">A — горючие материалы;<br>B — легковоспламеняющиеся и горючие жидкости;<br>C — газы (как правило, они горят на предприятиях химической промышленности);<br>D — металлы;<br>E — электроустановки, находящиеся под напряжением;<br>F — ядерные и радиоактивные вещества.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вопреки всеобщему мнению, пожарный не просто стоит и льет воду. В какой-то степени это творческая профессия — каждый пожар индивидуален, и подход к его тушению оперативно подбирается руководителем службы. Например, электроустановки тушат порошком или углекислым газом; при горении квартир, домов и бань пожарные подают воду или пену. Последней тушат еще и легковоспламеняющиеся и горючие жидкости — например, бензин. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что нельзя тушить водой?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Водой не тушат электроприборы под напряжением. Сначала нужно выключить их из розетки, и, если есть возможность, гасить огонь порошковым или углекислотным огнетушителем. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ацетон, бензин, спирт и масло потушить водой тоже не удастся. При контакте с ней легковоспламеняющиеся и горючие жидкости могут брызнуть в сторону, увеличивая площадь пожара, поэтому для гашения пламени лучше использовать огнетушители, песок или порошок. Этими же средствами тушат вещества, в составе которых есть водород, кислоты, кремнистое железо и другие. В противном случае произойдет взрыв.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/3-3.jpg" data-image-id="138962" srcset="https://entermedia.io/wp-content/uploads/2024/12/3-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/3-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/3-3.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138962 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие бывают огнетушители и как ими пользоваться?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Самые распространенные огнетушители — порошковые, углекислотные, хладоновые, и воздушно-пенные. Каждый вид применяют в зависимости от того, что нужно потушить, но принцип работы у всех почти одинаковый. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Например, порошковый огнетушитель в начале применения нужно обязательно встряхнуть и выдернуть чеку, а затем направить раструб на основание очага и нажать на рычаг. Углекислотный работает аналогично, но держать его нужно не за металлическую часть раструба, а за пластиковую, потому что при активации температура металла понизится и человек может получить ожог. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как обезопасить свой дом от пожара?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Пожары не возникают на пустом месте и чаще всего происходят из-за человеческой безалаберности. Поэтому важно помнить, что спички детям не игрушка, и соблюдать стандартную технику безопасности. Не избежать беды, если у вас некачественная проводка. Чтобы предотвратить короткое замыкание, в щитке устанавливают автоматические выключатели, которые моментально срабатывают при перегрузке сети и других проблемах. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если родственники в вашей квартире остаются одни, им нужно провести противопожарный инструктаж. Для спокойствия можно купить пару огнетушителей — они стоят недорого, зато очень пригодятся в экстренный момент. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На территории частного дома стоит поставить бочку с водой. Летом из нее удобно поливать огород, и в то же время под рукой будет первичное средство пожаротушения. Его наличие необходимо, потому что дом может сгореть достаточно быстро — от двухэтажного деревянного здания площадью 150-200м² менее чем за час не останется ничего. Скорость горения зависит и от материалов, и от противопожарной пропитки. Часто люди пренебрегают правилами и экономят на огнестойких средствах защиты, а фактически — на собственных жизнях.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как обнаружить пожар у соседей по неочевидным признакам? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Единственный способ — это почувствовать запах. В летнее время обнаружить пожар легко, потому что окна открыты и виден дым. Зимой в квартире все закупорено, что не дает доступ кислороду, поэтому пожар разгорается несильно. В любом случае сначала нужно вызвать пожарных, а уже потом пробовать потушить огонь своими силами с помощью первичных средств: огнетушителей, воды, песка и огнестойких тканей. Иначе теряется драгоценное время. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что делать при обнаружении пожара?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Позвоните в подразделение пожарной охраны (101, — прим. Enter) или в службу экстренной помощи (112, — прим. Enter) и сохраняйте холодный рассудок. Не нужно сразу прыгать из окон, если внизу нет растянутого спасателями полотна или надувного куба жизни. К тому же, открытые окна обеспечивают приток кислорода и усиливают огонь, поэтому их важно держать закрытыми. Еще нужно закрыть двери и заткнуть отверстия, чтобы минимизировать поступление угарного газа — при пожаре 85% людей погибают не из-за огня, а от отравления. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">От пожара нельзя прятаться, и особенно это касается детей. Вместо того, чтобы заперется в кажущимися безопасными ванной или туалете, встаньте возле окон и сигнализируете спасателям. Если есть возможность, то эвакуируетесь самостоятельно, попутно забирая тех, кому нужна помощь.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">При тушении пожара сотрудники службы пользуются пятью принципами выбора решающего направления. По ним пожарный не приступит к тушению дома или квартиры, пока оттуда не будут выведены все люди. Следующий приоритет — угроза взрыва или разрушения конструкции. Например, резервуары на промышленных предприятиях нужно обязательно поливать водой, чтобы температура не поднялась. Третий принцип состоит в тушении части здания, которая представляет наибольшую ценность: если горит учебное заведение, сначала будут тушить кабинеты с важной документацией и оборудованием, а не кладовки с тряпками для мытья полов. Следующее правило — тушить отдельное стоящее здание в месте, где сильнее горит, а если оно сгорело полностью, то направить силы на предотвращение пожаров соседних домов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Бывает и такое, что во время пожара закончилась вода. В таком случае машина ставится на пожарный гидрант. Они есть в каждом доме и помечены табличкой «ПГ» красными буквами на белом фоне.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как разглядеть что-то в дыму?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как правило, в густом дыму разглядеть что-либо невозможно, поэтому в задымленном помещении нужно нащупать рукой стену и идти вдоль нее. Лучше всего передвигаться на четвереньках, так как теплый воздух легче холодного и концентрация дыма наверху выше. Для дополнительной защиты от отравления угарным газом можно смочить полотенце или другую ткань и закрыть дыхательные пути.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как пожарные защищают себя от огня?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью экипировки. В комплект входит боевая одежда, специальные сапоги весом по 2 кг и каска. Органы зрения и дыхания защищают аппараты, наполненные воздухом, которого хватает на 45-60 минут работы.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чем можно помочь пожарным при возгорании?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Главное — вовремя позвонить, при необходимости встретить и показать нужную квартиру или дом. Если возгорание происходит в поселке или деревне, подсказки помогут пожарным сэкономить время. При передаче данных важно не путаться: часто очевидцы, снимая пожар на телефон, вставляют ненужные комментарии или делают неправильные выводы, а из-за этого страдают сотрудники пожарной охраны. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какую первую медицинскую помощь можно оказать человеку при отравлении углекислым газом?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сначала человека нужно перенести на свежий воздух и уложить в устойчивое боковое положение, чтобы пострадавший не задохнулся, если начнется рвота. Затем проверить пульс, дыхание и сознание. Если этого нет, то провести сердечно-легочную реанимацию — выполнить 30 надавливаний на центр грудины и сделать два вдувания для искусственной вентиляции легких. Реанимацию нужно продолжать циклами до приезда скорой помощи.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Помогать можно только если самому спасающему ничего не угрожает. Герои долго не живут, и тем более не стоит геройствовать в условиях пожара, ведь когда человек заходит в задымленное помещение, то получает сильную дозу угарного газа. Только в кино бывает, что люди в полный рост, прикрывая тряпкой лицо, спокойно ходят в горящем здании. В жизни совсем иначе — два вдоха и «герой» уже теряет сознание.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Екатерина Гусева<br><strong class="stk-reset">Изображения:</strong> Айгуль Мирханова</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F&title=Нет дыма без огня: 15 глупых вопросов пожарному&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-3-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="0" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F&text=Нет дыма без огня: 15 глупых вопросов пожарному" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Нет дыма без огня: 15 глупых вопросов пожарному&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fnet-dyma-bez-ognya-15-glupyh-voprosov-pozharnomu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501128'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

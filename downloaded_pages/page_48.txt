@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Внутри команды: Кто и как развивает цифровизацию в Казани | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,527] -->
+<link rel="canonical" href="https://entermedia.io/people/vnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Внутри команды: Кто и как развивает цифровизацию в Казани&raquo;" href="https://entermedia.io/people/vnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501118&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501118&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501118&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Расписание: Совместная программа Surf Coffee и Hip-Hop Kazan' href='https://entermedia.io/news/raspisanie-sovmestnaya-programma-surf-coffee-i-hip-hop-kazan/' />
+<link rel='next' title='Видео: Какой раньше была территория современной улицы Столбова' href='https://entermedia.io/news/video-kakoj-ranshe-byla-territoriya-sovremennoj-ulitsy-stolbova/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-131761 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Внутри команды: Кто и как развивает цифровизацию в Казани <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">5 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F&title=Внутри команды: Кто и как развивает цифровизацию в Казани&description=&image=https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F&text=Внутри команды: Кто и как развивает цифровизацию в Казани" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Внутри команды: Кто и как развивает цифровизацию в Казани&related=truemisha&hashtags=Внутри команды&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="131761">
+    <div id="post-131761" class="post-131761 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-vnutri-komandy">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:140930,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:140929,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131781,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131782,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131779,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131780,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131778,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131773,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131774,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131772,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131766,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131767,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131768,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131769,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131765,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:131764,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Казани работают 6 618 умных домофонов, 232 умных светофора и 103 камеры, которые сканируют город и сообщают о проблемах с дорогами, мусором и даже рекламой. Мы уже живем в городе будущего, но из-за скорости развития цифровизации не замечаем этого.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Enter продолжает серию материалов о командах, которые формируют и развивают среду будущей Казани. В этот раз обсудили с сотрудниками Управления информационных технологий и связи мэрии Казани, зачем цифровизировать города и что будет, если этого не делать, какие новые технологии есть в Казани и почему не стоит бояться искусственного интеллекта. Подробнее с примерами и комментариями экспертов — в материале.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-1.jpg" data-image-id="131764" srcset="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-1.jpg 1200w" data-image-name="превью1-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-131764 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Слева направо:</strong> Руслан Авилов, Дмитрий Кремлев, Эмиль Хуснетдинов, Ильшат Салимзянов, Александр Костоусов, Игорь Сайфутдинов, Тимур Сапегин.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Умный город: Зачем Казани цифровизация</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Радик Шафигуллин, заместитель руководителя Исполнительного комитета Казани, курирующий цифровое развитие</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Цифровизация в мэрии началась с первых компьютеров, просто тогда технологии и возможности были другими. Первые существенные шаги случились 15 лет назад, когда появились муниципальные и республиканские системы для сотрудников, которые решали узкие локальные задачи.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 2018 году мы запустили цифровизацию муниципальных услуг и создали комплексную систему с требованиями к цифровым стандартам. Мы научились оказывать услуги полностью в цифровом виде: без запроса и выдачи бумажных документов. В то же время оцифровали более 70% инженерных сетей и все документы территориального планирования, благодаря которым более чем в 450 казанских дворов учтены все элементы городского хозяйства и благоустройства. Провели аэрофотосъемку для создания цифровой модели города. Сегодня одними из первых в стране приступили к созданию сервиса для застройщиков. Теперь девелоперы могут получить все данные для принятия решения об инициации инвестиционного проекта.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Цифровизация города повлияла на доступность и прозрачность услуг и информации. Наши сотрудники тратят меньше времени и сил на дублирование одних и тех же знаний, так как теперь все есть в интернете. Из-за оптимизации и автоматизации внутренних процессов мы оказываем услуги в 1,5–4 раза быстрее. У сотрудников и жителей появились инструменты, которые позволяют первым работать 24/7 из любой точки мира, а вторым без ограничений получать услуги и информацию от мэрии.</p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/07/1-1.jpg" data-image-id="140929" data-image-name="1 (1).jpg" class="stk-image stk-reset  wp-image-140929 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/07/1-1-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2021/07/1-1-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2021/07/1-1.jpg 1536w" width="1536" height="2048" loading="lazy"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ильшат Салимзянов,&nbsp;<br>начальник Управления информационных технологий и связи</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">За небольшой период времени наш образ жизни сильно изменился: появились новые потребности, выросли ожидания и требования к комфорту. Мы хотим жить в безопасных городах с продуманной инфраструктурой и информационной доступностью. Без современных технологий не получится удовлетворить этот запрос, поэтому цифровизацию можно считать вынужденной мерой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Управление информационных технологий и связи Казани работает в трех направлениях. В первом — обеспечиваем бесперебойную сотовую связь и интернет. Мы согласовываем установку станций операторов и следим за состоянием инфраструктуры. С 2011 года работаем над проектом «Чистое небо». За 13 лет вместе с Минцифрой РТ и операторами получилось перенести под землю более 2 000 км проводов: теперь небо над Казанью чистое.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Второй трек работы УИТИС связан с информационной безопасностью — этим блоком руководит Тимур Сапегин. Вместе с командой он проводит много технических и организационных мероприятий, чтобы не дать злоумышленникам получить доступ к базам данных. У нас большой массив информации об организации транспортной системы, парковочных пространств, социальных и общественных объектов. Мы не можем допустить, чтобы эти данные пропали, были отредактированы и так далее.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">И третий наш отдел занимается хозяйственной частью: финансами, закупками и так далее. Любые решения требуют инвестиций, поэтому нужна отдельная команда, которая ищет гранты, региональные и федеральные программы под задачу.</p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Ilshat.jpg" data-image-id="131765" srcset="https://entermedia.io/wp-content/uploads/2024/07/Ilshat-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/07/Ilshat-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/07/Ilshat.jpg 1200w" data-image-name="Ильшат.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-131765 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дмитрий Кремлев,<br>директор Центра городской трансформации</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы не можем жить без цифровизации: если я забуду смартфон дома, мне придется за ним вернуться, так как я не могу работать без телефона. Точно так же город не может развиваться без новых технологий и решений. И управление ими — сложный процесс, который требует долгосрочного планирования.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://kzn.ru/nayti-dokument/munitsipalnye-pravovye-akty-i-inaya-ofitsialnaya-informatsiya/617199/" target="_blank">Программа цифровизации Казани до 2025 года</a> — важный документ, в котором мы определили финансирование на три года и зафиксировали все те пожелания, которые, по нашему мнению, пришло время реализовать. Список можно разделить на три большие группы: решения для горожан, сотрудников исполкома и руководителей. У всех общая цель — сделать коммуникацию простой, понятной и эффективной.</p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Kremlev.jpg" data-image-id="131769" srcset="https://entermedia.io/wp-content/uploads/2024/07/Kremlev-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/07/Kremlev-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/07/Kremlev.jpg 1200w" data-image-name="Кремлев.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-131769 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эмиль Хуснетдинов,<br>заместитель директора Центра городской трансформации<br></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы работаем над внутренними процессами в исполкоме и внешними проектами, которые касаются городской среды и жителей. Идеи будущих проектов появляются внутри команды или мы подсматриваем их из опыта других городов. И наша задача — довести каждую идею до результата и внедрения. Мало муниципалитетов, которые относятся к задачам так комплексно, как мы.<br></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Emil.jpg" data-image-id="131768" data-image-name="Эмиль.jpg" class="stk-image stk-reset  wp-image-131768 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/07/Emil-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/07/Emil-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/07/Emil.jpg 1200w" width="1200" height="1600" loading="lazy"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Руслан Авилов,<br>директор Департамента телекоммуникационных технологий</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Современный город — это не просто муниципальное образование с развитой инфраструктурой. Это пространство, в котором благодаря умным решениям жизнь становится на уровень качественнее и безопаснее. Благодаря этому вы можете спокойно гулять в парках и не переживать за детей в школах, библиотеках и молодежных центрах.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">За 8 лет создан централизованный подход в организации безопасности как в детских садах и школах, так и в общественных пространствах и многоквартирных домах с помощью системы видеонаблюдения. Мы закладываем новые тренды: используем видеоаналитику, систему мониторинга локальных систем безопасности, которая благодаря виртуальному мониторинговому центру&nbsp;помогает отслеживать работу пожарной сигнализации, видеокамер и системы экстренного речевого оповещения. Цифровые технологии становятся важным фактором социально-экономического развития городов и регионов, и без них уже сложно представить устойчивую инфраструктуру и привлекательность места.</p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Ruslan.jpg" data-image-id="131767" srcset="https://entermedia.io/wp-content/uploads/2024/07/Ruslan-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/07/Ruslan-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/07/Ruslan.jpg 1200w" data-image-name="Руслан.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-131767 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="stk-theme_29689__style_font_style-1490606809211 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Александр Костоусов,<br>начальник организационного отдела Управления информационных технологий и связи</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если раньше вся информация была в головах специалистов, то сейчас она становится прозрачной: мы существуем в одном информационном поле и можем вместе обсуждать результаты.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К примеру, сервис «Сити-софт» (инструмент независимого мониторинга, который с помощью искусственного интеллекта анализируют отклонения и сообщает о них, —  прим. Enter) не просто выявляет отклонения, он составляет единый дашборд, на котором по-разному реагирует на нарушения: информирует о тех неполадках, которые появились недавно, и отдельно подсвечивает те, которые долго не исправляют. Для руководителей это знак, что нужно срочно что-то делать. То есть аналитика помогает принимать управленческие решения и исключает человеческий фактор.</p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Sasha.jpg" data-image-id="131766" srcset="https://entermedia.io/wp-content/uploads/2024/07/Sasha-225x300.jpg 225w, https://entermedia.io/wp-content/uploads/2024/07/Sasha-768x1024.jpg 768w, https://entermedia.io/wp-content/uploads/2024/07/Sasha.jpg 1200w" data-image-name="Саша.jpg" width="1200" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-131766 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/1.-Gorod-i-tsifrovizatsiya-min.jpg" data-image-id="131772" srcset="https://entermedia.io/wp-content/uploads/2024/07/1.-Gorod-i-tsifrovizatsiya-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/07/1.-Gorod-i-tsifrovizatsiya-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/07/1.-Gorod-i-tsifrovizatsiya-min.jpg 1200w" data-image-name="1. Город и цифровизация-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-131772 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Решения для горожан</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://t.me/kznhelpbot" target="_blank" class="stk-reset"><strong class="stk-reset">«Моя Казань»</strong></a> — Telegram-бот, в котором можно оставить заявку о проблеме благоустройства или актуальную информацию. Сервис интуитивно понятно работает: нужно выбрать тему и ответить на вопросы из списка. Дальше модератор обработает заявку и отправит в ответственное ведомство и проследит за выполнением.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://open.kzn.ru/" target="_blank"><strong class="stk-reset">«Открытая Казань»</strong></a> работает более 12 лет. Сервис для взаимодействия жителей и управляющих компаний нужен для того, чтобы повысить эффективность городской системы ЖКХ и сделать ее более прозрачной. На портале можно оплатить жилищные услуги, оставить заявку о неисправности и отследить статус ее выполнения.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Программа <strong class="stk-reset">«Безопасный город»</strong> представляет единую информационную систему видеонаблюдения. Сетка видеомониторинга из 50 956 камер помогает службам контролировать безопасность в городе и быстро реагировать в нештатных ситуациях. По данным МВД по РТ каждое нарушение в общественных местах расследуется с помощью нашей системы видеонаблюдения. В 2023 году благодаря «Безопасному городу» раскрыли 13,3% преступления, за 11 месяцев 2024 года — 10,1%. Перед саммитом БРИКС мы установили еще 593 камеры на станциях метро и пешеходных переходах. Из них 301 камера с функцией распознавания лиц для большей безопасности жителей и гостей города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сейчас пилотируется<strong class="stk-reset"> единый городской колл-центр. </strong>Чтобы решить проблему, жителю нужно найти актуальный номер ведомства, дозвониться до специалиста и дождаться ответа. Это неудобный алгоритм ни для горожан, ни для сотрудников администрации: первые раздражаются, потому что тратят время, вторые — потому что их отвлекают от работы по непрофильным вопросам. Единый городской колл-центр организуют по принципу горячих линий банков: у жителей будет единый номер телефона для любых обращений и проблем.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 2025 году запустится городской портал<strong class="stk-reset"> «Моя Казань»</strong> с новостями, анонсами событий, графиками отключения воды и света: можно указать домашний адрес и оставаться в курсе запланированных работ и аварий. Еще в планах — апустить туристический и образовательные порталы, ресурс для публикации открытых данных. Цифровизация развивается цепной реакцией: если появляется одно решение, скоро обязательно будет третье, четвертое и пятое.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min.jpg" data-image-id="131773" srcset="https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min.jpg 1200w" data-image-name="2. Кадровые решения и бизнес-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-131773 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Решения для руководителей</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы охватить всю Казань, внедрили <strong class="stk-reset">инструмент независимого мониторинга «Сити-софт»</strong>. Это инфраструктура камер, которые с помощью искусственного интеллекта анализируют отклонения и сообщают о них. Система распознает ямы на дорогах, стертую разметку, покосившиеся столбы, негорящие опоры, мусор и многое другое.  </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkHevMf" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Ilshat.png" data-image-id="131778" data-image-name="Ильшат.png" class="stk-image stk-reset  wp-image-131778 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/07/Ilshat-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/07/Ilshat.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ильшат Салимзянов </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">начальник Управления информационных технологий и связи</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><br></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Сити-софт» умеет выявлять грузовые машины, кузов которых не накрыт тентом. Так мы решили вопрос с одним из источников строительной грязи и пыли на дорогах за кратчайший срок: уже через месяц все самосвалы ездили с тентами. Мы хотим, чтобы люди были заинтересованы в развитии города. Благоустройство зависит в первую очередь от отношения горожан. Система лишь напоминает об уязвимых местах.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Управлении создали точную <strong class="stk-reset">3D-модель города</strong>, которую скоро наполнят статическими и динамическими данными — такая есть только в Казани и Москве. Для этого провели панорамную съемку и лазерное сканирование более миллиона объектов благоустройства. На 3D-прототипе можно посмотреть, в каких районах какой инфраструктуры не хватает, и разместить будущие объекты, чтобы не ошибиться во время планирования и стройки.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С помощью системы спутникового мониторинга и контроля транспорта руководители в онлайне могут отслеживать работу коммунальной техники, корректировать и выстраивать эффективные маршруты. Это особенно актуально в снегопад: система помогает контролировать подрядные организации, оптимизировать процессы и, как результат, увеличивать объем уборки снега.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/3.-Gorozhane-i-tsifrovizatsiya-min.jpg" data-image-id="131774" srcset="https://entermedia.io/wp-content/uploads/2024/07/3.-Gorozhane-i-tsifrovizatsiya-min-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/07/3.-Gorozhane-i-tsifrovizatsiya-min-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/07/3.-Gorozhane-i-tsifrovizatsiya-min.jpg 1200w" data-image-name="3. Горожане и цифровизация-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-131774 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Решения для сотрудников</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">За процессы в исполкоме отвечает служба технической поддержки, которой руководит заместитель директора по цифровизации в Департаменте телекоммуникационных технологий Игорь Сайфутдинов. Служба помогает более 2 000 сотрудникам ежедневно. Когда возникает проблема, работник исполкома оставляет заявку и оперативно получает решение. Чтобы выстроить три линии поддержки сотрудников, потребовался год. Подобные примеры есть только в коммерческих компаниях, для муниципалитетов — это прорыв.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для работы с сотрудниками пользуют систему <strong class="stk-reset">«Пульс»</strong>. Это HR-инструмент, который работает в 12 областях: от поиска и привлечения сотрудников до кадровых задач вроде отпусков, больничных и так далее.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Юристы и экономисты исполкома пользуются <strong class="stk-reset">единой справочно-правовой системой</strong>. Раньше, чтобы сотруднику получить документ, нужно было как минимум прийти на работу. Из-за негибкости некоторые процессы взаимодействия сильно замедлялись. Сейчас все документы собраны в онлайн-системе, которой сотрудники могут воспользоваться дома или в командировке. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В разработке <strong class="stk-reset">Интеллектуальный помощник муниципального служащего</strong>. Программа будет собирать документы, отчеты и планы в хранилище, с помощью искусственного интеллекта обрабатывать, классифицировать и систематизировать информацию и, главное, универсализировать язык. В Казани более 20 направлений городской деятельности. Это узкие ниши со своим лингвистикой, которую другие могут не понять. Система поможет расшифровать сложный язык одно структуры и перевести его на язык другой. Это упростит и ускорит коммуникацию между ведомствами.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что будет, если не цифровизировать города</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Жизнь меняется, с каждым годом приходится быстрее принимать решения. На бумаге сделать это невозможно, администрациям нужны новые инструменты оптимизации. Если не внедрять их, вырастить общее социальное недовольство: люди больше не хотят ждать решения проблемы 30 дней, реакция на запрос нужна здесь и сейчас.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Города, которые не будут заниматься цифровизацией, станут менее привлекательными для жизни. Качества среды будет стагнировать, люди — уезжать в другие города. А человеческий ресурс — главный резерв, за которые сейчас борются регионы, так как у оттока населения есть и экономические последствия.<br></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkT_Tj_" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2021/07/1.png" data-image-id="140930" data-image-name="1.png" class="stk-image stk-reset  wp-image-140930 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2021/07/1-300x300.png 300w, https://entermedia.io/wp-content/uploads/2021/07/1.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Радик Шафигуллин</strong> </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">заместитель руководителя Исполнительного комитета Казани, курирующий цифровое развитие</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><br></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Все города стремятся к прозрачности и доступности процессов и данных, к управлению на основе объективных сведений, чтобы эффективно использовать ресурсы и предвосхищать проблемы. Мы в Казани движемся в этом же направлении, но при этом стараемся быть в авангарде преобразований, хотим быть инновационным и технологичным городом, в котором комфортно жить и работать.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Глобальные направления цифровизации будущей Казани связаны с треками, над которыми мы уже работаем. Это создание цифрового двойника города: динамичной модели в виртуальном пространстве, которая позволит моделировать варианты развития, просчитывать эффекты наших решений, реагировать на проблемы и предвосхищать их. Второе — это переход на человекоцентричный подход, когда не житель или бизнес будут искать информацию и получать услугу, а информация и услуга будут сами приходить к потребителю. И конечно же, максимальное внедрение ИИ, что позволит в режиме реального времени держать руку на пульсе жизни города, избавиться от огромного объема повторяющейся монотонной работы и ошибок.<br></p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkZiYmn" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/07/Emil.png" data-image-id="131781" data-image-name="Emil.png" class="stk-image stk-reset  wp-image-131781 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/07/Emil-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/07/Emil.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Эмиль Хуснетдинов</strong> </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">заместитель директора Центра городской трансформации</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><br></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Концепция города, управляемого ИИ, может существовать, но в любой системе все-равно будут резервы, копии и планы управления рисками. Например, в городах давно установлены интеллектуальные светофоры: они анализируют трафик и настраивают интервалы в зависимости от нагрузки. Если светофор перестает работать, на место выезжает сотрудник ГИБДД и жезлом разруливает движение. То есть даже когда система ломается, она резервируется чем-то или кем-то.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С развитием систем появляются решения, которым мы можем доверять на 100%. Но даже в этом случае в какой-то момент к проверке подключается сотрудник, человек не исключен ни из одного процесса. Так что не стоит переживать за то, что интернет отключат и все слетит — все предусмотрено и контролируется.  <br></p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Текст: Ксения Монастырская&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Фото: Саша Копылов, Даниил Шведов</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stkZiYmn" class="" media="all">[data-stk-css="stkZiYmn"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkT_Tj_" class="" media="all">[data-stk-css="stkT_Tj_"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkHevMf" class="" media="all">[data-stk-css="stkHevMf"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F&title=Внутри команды: Кто и как развивает цифровизацию в Казани&description=&image=https://entermedia.io/wp-content/uploads/2024/07/2.-Kadrovye-resheniya-i-biznes-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F&text=Внутри команды: Кто и как развивает цифровизацию в Казани" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Внутри команды: Кто и как развивает цифровизацию в Казани&related=truemisha&hashtags=Внутри команды&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fvnutri-komandy-kto-i-kak-razvivaet-tsifrovizatsiyu-v-kazani%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501118'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

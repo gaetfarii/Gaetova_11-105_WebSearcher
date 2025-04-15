@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/08/prev1-min-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,562] -->
+<link rel="canonical" href="https://entermedia.io/food/novoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера&raquo;" href="https://entermedia.io/food/novoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501105&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501105&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501105&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='На «Татарской VIP-дискотеке» в Bazzar выступит Tatarka' href='https://entermedia.io/news/na-tatarskoj-vip-diskoteke-v-bazzar-vystupit-tatarka/' />
+<link rel='next' title='Программа: Лекторий фестиваля «Шатлык» в Иннополисе' href='https://entermedia.io/news/programma-lektorij-festivalya-shatlyk-v-innopolise/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-133745 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/08/prev1-min-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2020/09/2020-09-25-17.12.52-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Мария Наумова</div>
+          <div class="date-publish">27 августа</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F&title=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера&description=&image=https://entermedia.io/wp-content/uploads/2024/08/prev1-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="18" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">18</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F&text=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="133745">
+    <div id="post-133745" class="post-133745 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-novoe-mesto">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:133796,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133793,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133794,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133789,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133790,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133787,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133785,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133782,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133783,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133786,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133777,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133791,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133776,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133792,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133781,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133780,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133795,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133779,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133788,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133773,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133778,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133772,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133775,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133774,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133784,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133771,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133754,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133753,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133752,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133751,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:133750,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">9 сентября на Баумана, 9 открывается еще одно заведение — «Сказки о Солнце» от сооснователей баров More и Zero и кафе «Утро». В необычном для Казани формате этнобистро Make More Group синтезирует кулинарные традиции разных народов и знакомит горожан с экспериментальными блюдами, приготовленными на открытом огне. Пока проект работает в формате гостевых ужинов, а в обычном режиме запустится в начале сентября.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Журналистка Enter Мария Наумова одной из первых побывала в новом месте и поговорила с рестораторами Дамиром Газизовым, Ильей Терентьевым и Ильей Пацалюком. Рассказываем, какой мифологический сюжет вплетен в название, как предметы из городов России дополнили интерьер и что стоит попробовать.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/prev2-min-1.jpg" data-image-id="133796" srcset="https://entermedia.io/wp-content/uploads/2024/08/prev2-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/prev2-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/prev2-min-1.jpg 1200w" data-image-name="прев2-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133796 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Концепция и философия</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Идея заведения появилась у команды около четырех лет назад. В 2019 году основатели More открыли коктейльный бар XIX.XX в Доме Фукса. Тогда Дамира Газизова заинтересовала история здания, где в свое время собирались деятели культуры и бывал сам Александр Сергеевич Пушкин. А еще ему показалось любопытным, что всего 100 лет назад не было газа и гостей угощали блюдами из печи. Изучив современную мировую практику, ресторатор познакомился с проектами, в которых повара работают исключительно на огне. Реализовать что-то подобное решили в Казани — команда уже начала осваивать под задумку пространство в Доме Фукса, но из-за разногласий с собственником пришлось съехать. Воплотить идею удалось только сейчас, с появлением подходящего помещения на Баумана, 9А.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мысль об эволюционной близости человека к огню отразилась не только на формате заведения, но и на его концепции. Основатели проекта решили посмотреть на традиции и мифы народов России через призму их отношения к приготовлению еды на костре. Исследование кулинарии начали с тюрков. В то время Дамир как раз помогал работать над книгой про татарскую национальную кухню: ездил по разным районам республики Татарстан, общался с местными жителями и историками и узнавал о происхождении блюд. В будущем команда планирует так же углублять свои знания и расширять подходы, путешествуя по ортодоксальным районам страны.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Формат этнического бистро для Казани новый. В городе есть примеры ресторанов, переосмысляющих кухни отдельных народов, но нет мультикультурных проектов, поэтому основатели «Сказок о Солнце» ориентировались на похожие заведения высокого уровня в других городах: например, <a href="https://maya.lucky-group.rest/" target="_blank" class="stk-reset">Maya</a> в Москве, <a href="https://tunguskarestaurant.ru/" target="_blank" class="stk-reset">Tunguska</a> в Красноярске и <a href="https://matuhateam.com/" target="_blank" class="stk-reset">Matuha Team</a> в Краснодаре. Открытие мест с акцентом на этнику команда считает важной и хорошей тенденцией, благодаря чему современные знания о кухне поддерживают и развивают традиции.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Изначально проект планировали назвать в честь мифологической птицы Самрук, символизирующей огонь и считающейся прародительницей Феникса. По тюркской легенде, каждый год она откладывала на дереве яйцо, которое люди считали солнцем. Живущий у подножия дракон проглатывал их, что означало смену дня и ночи, лета и зимы и борьбу добра со злом. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В качестве отсылки к мифу в центре заведения установили ствол огромного дерева — как команде это удалось, пока держится в секрете. Изображение птицы в процессе перекочевало в логотип, при этом название проекта все-таки изменили и сделали более ассоциативным и понятным: в сказках команда видит источник вдохновения и мудрости, а в солнце — жизни и энергии.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><h5 class="stk-theme_29689__mb_0 stk-reset wp-exclude-emoji stk-theme_29689__style_font_style-1490606702672" data-ce-tag="paragraph">Сказки о Солнце</h5><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Адрес:</strong><br data-gtm-vis-has-fired10171822_255="1">ул. Баумана, 9</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Режим работы:</strong><br data-gtm-vis-has-fired10171822_255="1">Ежедневно,&nbsp;с 12:00 до 00:00</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Средний чек:</strong><br>2 500₽</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s23-min-1.jpg" data-image-id="133789" srcset="https://entermedia.io/wp-content/uploads/2024/08/s23-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s23-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s23-min-1.jpg 1200w" data-image-name="с23-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133789 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk5F-3f" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/Ilya-Patsalyuk.png" data-image-id="133752" data-image-name="Илья Пацалюк.png" class="stk-image stk-reset  wp-image-133752 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/08/Ilya-Patsalyuk-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/08/Ilya-Patsalyuk.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Илья Пацалюк</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">сооснователь баров More, Zero и этнобистро «Сказки о Солнце»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Раньше мифы и представления о культуре в целом передавались в формате рассказа. Солнце всегда оставалось их центральной фигурой — как метафора того, что всех нас объединяет.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"> При этом параллельно, когда люди рассказывали друг другу сказки, они могли делиться в них какими-то бытовыми вещами — и в том числе рецептами.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s24-min-1.jpg" data-image-id="133794" srcset="https://entermedia.io/wp-content/uploads/2024/08/s24-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s24-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s24-min-1.jpg 1200w" data-image-name="с24-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133794 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерьер и детали </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На запуске предыдущих проектов основатели поняли, что часто дизайнеры не могут отразить в интерьере их видение, даже следуя техническому заданию. Поэтому для «Сказок о Солнце» искали специалиста, который умеет слушать, предлагать свои идеи и вовлекается в процессы. Таким оказалась сестра Дамира — выпускница Международной школы дизайна Ляйсан Шишкина. Параллельно команда привлекла целый ряд профессионалов для работы над оформлением, светом, звуком и даже запахом. Например, росписью стен в этнобистро занималась художник и реставратор Ольга Харкова: на глиняной поверхности она нанесла рисунки, похожие на наскальную живопись. Люстры, необычно преломляющие свет, под заказ выдували мастера из Подмосковья.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По словам рестораторов, интерьер должен воссоздавать атмосферу хижины, застрявшей во времени. В пространстве важна неидеальность и в хорошем смысле «неправильность» форм, которые образуют предметы из натуральных материалов. Причем многие вещи искали и заказывали в разных уголках страны, что даже на уровне обстановки подчеркивает объединяющую идею места. Так, ступени для лестницы на второй этаж нашли в Краснодаре у компании, которая занимается демонтажем старых домов, а необычную раковину из цельного камня в уборной привезли из деревни в Хабаровском крае — бывшие владельцы рассказали, что последние полтора века эта емкость использовалась как поилка для коров. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вообще детали интерьера в «Сказках о Солнце» можно описывать долго, но лучше один раз увидеть их вживую и даже потрогать. Ведь по задумке рестораторов каждый элемент должен подталкивать к взаимодействию: начиная коврами килим из Дагестана на перилах и заканчивая узорами на деревянных столах, которые Дамир выжигал самостоятельно. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s22-min-1.jpg" data-image-id="133790" srcset="https://entermedia.io/wp-content/uploads/2024/08/s22-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s22-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s22-min-1.jpg 1200w" data-image-name="с22-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133790 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkjumY4" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/Damir.png" data-image-id="133750" data-image-name="Дамир.png" class="stk-image stk-reset  wp-image-133750 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/08/Damir-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/08/Damir.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дамир Газизов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">сооснователь баров More, Zero и этнобистро «Сказки о Солнце»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фишка в том, что у нас полностью открытая кухня, нет высокой посадки и перегородок между поварами, барменами и гостями. Это достигается тем, что пространство, где работают сотрудники кухни, располагается ниже по уровню пола.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"> Мы решили сделать именно так, чтобы даже визуально между гостями и командой не было никаких границ.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s13-min-1.jpg" data-image-id="133792" srcset="https://entermedia.io/wp-content/uploads/2024/08/s13-min-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s13-min-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s13-min-1.jpg 1200w" data-image-name="с13-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133792 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отдельного внимания заслуживает небольшой второй этаж — его команда описывает как сохранившуюся часть «хижины», напоминающую лобное место. Дизайн полностью принадлежит Дамиру: потолок и стены здесь сплетены из веток орешника, а в центре стоит большой низкий стол с напольными подушками вокруг. Сооснователь уверен, что гостям-татарам такая посадка может понравиться даже больше, чем классическая ресторанная.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s14-min-2.jpg" data-image-id="133776" srcset="https://entermedia.io/wp-content/uploads/2024/08/s14-min-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s14-min-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s14-min-2.jpg 1200w" data-image-name="с14-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133776 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кухня и бар</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как бренд-шеф кухней управляет Дамир Газизов, а шефом этнобистро стал Александр Митясов. В прошлом он успел поработать во многих заведениях Европы, и в том числе в шведском ресторане <a href="https://ekstedt.nu/" target="_blank" class="stk-reset">Ekstedt</a>, которым изначально вдохновлялась команда. При разработке меню Дамир и Александр изучали кухни народов, исследовали техники и подходы и давали традиционным рецептам свое прочтение, сохраняя суть. Главным предметом при этом служила русская печь, сделанная на заказ по старинным канонам. Готовить на огне оказалось сложнее, чем они предполагали, и одновременно интереснее, так как при таком способе блюда всегда получаются уникальными.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В меню около 40 позиций из привычных разделов: стартеры, закуски, салаты, роллы, супы, горячее, пироги и десерты. Команда советует попробовать нетипичную вариацию татарского элеша — небольшой пирог с перепелиным мясом и грушей, залитый говяжьим бульоном. Еще любопытно, как многие блюда в этнобистро готовят с использованием специального металлического конуса — фламбаду. В нем растапливают жир и поливают им продукты для получения аромата мяса, приготовленного на огне. Например, особый вкус такая техника придает императорским устрицам с клубникой, маринованной в винном уксусе. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Менее экспериментальным сделали раздел с супами, томлеными в печи по 12-15 часов. Каждый день гостям будут предлагать по одному варианту — щи, гороховый и другие. Кстати, такой длительный процесс приготовления предусмотрен не только для супов: ту же свеклу с вяленой кониной перед подачей держат на гриле около 24 часов. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s11-min-2.jpg" data-image-id="133780" srcset="https://entermedia.io/wp-content/uploads/2024/08/s11-min-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s11-min-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s11-min-2.jpg 1200w" data-image-name="с11-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133780 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk1rv3s" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/Ilya-Terentev.png" data-image-id="133751" data-image-name="Илья Терентьев.png" class="stk-image stk-reset  wp-image-133751 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/08/Ilya-Terentev-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/08/Ilya-Terentev.png 600w" width="600" height="600" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Илья Терентьев</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">сооснователь баров More, Zero и этнобистро «Сказки о Солнце»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы позиционируем себя как бистро, так как не хотим попадать в рамки какого-то церемониала. История про то, что человек должен надеть свой лучший костюм ради ресторана, нам не близка. В этом есть что-то театральное.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кухня любого уровня должна быть доступной, а гость должен чувствовать себя так же комфортно, как дома. Качество кухни и сервиса у нас абсолютно ресторанное, при этом мы стремимся вызывать ощущение заведения на каждый день, чтобы никто не задавался вопросом «Правильно ли я держу вилку?»</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/08/s17-min-2.jpg" data-image-id="133786" srcset="https://entermedia.io/wp-content/uploads/2024/08/s17-min-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/08/s17-min-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/08/s17-min-2.jpg 1200w" data-image-name="с17-min.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-133786 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Баром в «Сказках о Солнце» руководит шеф-бармен всех заведений команды Данила Щеголев, поэтому подходы к приготовлению напитков, за которые казанцы так любят Make More Group, теперь можно будет оценить и в этнобистро. Авторские коктейли развивают общую концепцию и посвящены легендам о сотворении мира. За счет мультисенсорики и использования определенных ингредиентов напитки формируют особые вкусовые ассоциации. Например, в коктейль «Земля» входят компоненты, связанные с ней напрямую: мескаль из запеченой в земле агавы, свекла, смородина и базилик. А насыщенный и яркий «Огонь» делают, смешивая негрони, граппу, кардамон и виноград, который подвешивают над огнем для испарения лишней влаги.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Помимо авторских напитков гостей ждет около двух десятков винных позиций, коктейльная классика и крепкий алкоголь. Тематические карты планируют обновлять примерно раз в полгода, дополнять выбор сезонными предложениями и проводить поп-ап вечера с приглашенными барменами, которые будут готовить коктейли в стиле «Сказок о Солнце». </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Мария Наумова<br><strong class="stk-reset">Фото: </strong>Саша Копылов </p></div></div><style data-stk-css="stk1rv3s" class="" media="all">[data-stk-css="stk1rv3s"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkjumY4" class="" media="all">[data-stk-css="stkjumY4"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk5F-3f" class="" media="all">[data-stk-css="stk5F-3f"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F&title=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера&description=&image=https://entermedia.io/wp-content/uploads/2024/08/prev1-min-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="18" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">18</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F&text=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Новое этнобистро «Сказки о Солнце» в Казани: Мультикультурная кухня и вневременная атмосфера&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fnovoe-etnobistro-skazki-o-solntse-v-kazani-multikulturnaya-kuhnya-i-vnevremennaya-atmosfera%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="10" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">10</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501105'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

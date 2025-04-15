@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Розовый октябрь: 15 глупых вопросов о раке груди | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/1-9.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,518] -->
+<link rel="canonical" href="https://entermedia.io/people/rozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Розовый октябрь: 15 глупых вопросов о раке груди&raquo;" href="https://entermedia.io/people/rozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501137&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501137&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501137&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='На «Фабрике Алафузова» покажут спектакль «Труп Невесты»' href='https://entermedia.io/news/na-fabrike-alafuzova-pokazhut-spektakl-trup-nevesty/' />
+<link rel='next' title='«Яндекс Карты» добавили возможность строить маршрут с учетом лестниц и подъемов' href='https://entermedia.io/news/yandeks-karty-dobavili-vozmozhnost-stroit-marshrut-s-uchetom-lestnits-i-podemov/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-136368 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/1-9.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Розовый октябрь: 15 глупых вопросов о раке груди <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">16 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F&title=Розовый октябрь: 15 глупых вопросов о раке груди&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-9-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F&text=Розовый октябрь: 15 глупых вопросов о раке груди" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Розовый октябрь: 15 глупых вопросов о раке груди&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="17" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">17</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="136368">
+    <div id="post-136368" class="post-136368 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:136369,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136371,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136373,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136372,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136370,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkgDzD4" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По данным ВОЗ, в 2022 году в мире было зарегистрировано 2,3 млн случаев рака молочной железы. При этом статистика заболеваний постоянно растет — в среднем на 2,5% в год. К счастью, сегодня рак груди успешно лечится, особенно если обнаружить опухоль на ранних стадиях. Для этого маммологи рекомендуют самостоятельно проводить осмотр молочных желез и не стесняться обращаться к врачам даже с самыми глупыми вопросами.</p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">15 таких в Неделю борьбы с раком молочной железы мы задали онкологу-маммологу Альберту Гимранову. Могут ли КОКи и аборты спровоцировать рак, насколько наследственная предрасположенность увеличивает риски развития онкологии и как правильно проводить самодиагностику, чтобы не пропустить болезнь, — ответы на эти и другие вопросы читайте в нашем материале.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/2-8.jpg" data-image-id="136372" srcset="https://entermedia.io/wp-content/uploads/2024/10/2-8-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/2-8-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/2-8.jpg 2400w" data-image-name="2.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-136372 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Раком молочной железы могут заболеть только женщины старше 50 лет?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Массовый прирост заболеваний раком молочной железы начинается с 40 лет и достигает пика в 50 лет. Отсюда рекомендации ежегодно посещать маммолога и делать скрининги с 40 до 75 лет. Но говорить об онкологии как о болезни пожилых неправильно, так как рак груди может встречаться в любой возрастной группе. Это связано, в том числе, с ранней диагностикой: женщины стали адекватнее относиться к здоровью и чаще обращаться к врачам. Благодаря такой осознанности факторы риска развития рака молочной железы и предраковые состояния удается выявить раньше.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мужчины тоже болеют раком молочной железы — из общего числа их всего 2%. В этих случаях мы обязательно тестируем пациента на наличие мутаций генов BRCA1/2, потому что у мужчин генетические поломки встречаются чаще, чем у женщин.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какие факторы повышают риск заболевания раком молочной железы?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Основной фактор риска заболеть раком молочной железы — родиться женщиной. Вторая причина, которая не зависит от нас, — возраст. Чем старше женщина, тем выше вероятность онкологии.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Другие факторы риска могут быть связаны с образом жизни. Например, ожирением: жировая ткань является мощным источником женского гормона эстрогена, который играет ключевую роль в развитии рака груди. На возникновение и прогрессию онкологии может повлиять алкоголь, курение, употребление большого количества рафинированной переработанной еды типа колбас, низкая физическая активность, нарушение циркадных ритмов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Последнее время появляются новости о том, что рост заболеваний связан с последствиями COVID-19. Исследований на эту тему пока нет, так что мы не можем относить перенесенную инфекцию к реальным рискам. Да и из личных наблюдений могу сказать, что резкого прироста пациентов нет, все в тех же пределах.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">ЭКО, аборты и КОК являются риском рака молочной железы? </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Длительный прием комбинированных оральных контрацептивов в репродуктивный период и заместительной гормональной терапии в менопаузу увеличивает риск заболеть раком молочной железы. Но не нужно паниковать и бросать КОК и ЗГТ. Тем, кто пьет таблетки более пяти лет, я рекомендую каждые полгода посещать маммолога для профилактического осмотра.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Аборты, гормональная стимуляция и гиперстимуляция перед ЭКО не являются факторами развития рака молочной железы. Женщине, которая готовится к ЭКО, в любом возрасте обязательно нужно пройти маммолога, чтобы исключить риски. Это связано с тем, что гормональная стимуляция может привести к интенсивному росту уже существующего образования — не спровоцировать появления рака, а стать топливом для роста имеющейся опухоли.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Неудобный бюстгальтер, пирсинг и антиперсперанты могут спровоцировать рак молочной железы?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это все из области мифов. Конечно, лучше выбирать белье по размеру, чтобы избежать проблем с костно-мышечной системой. Совсем не носить бюстгальтер тоже безопасно — это вопросы исключительно комфорта. </p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Импланты груди могут привести к раку или помешать вовремя диагностировать онкологию?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Импланты — проблема на всю жизнь. Так как это инородное тело, организм от него защищается и выстраивает капсулу вокруг. Со временем сформированная капсула может становится настолько выраженной, что деформирует молочную железу. Это может доставлять физический дискомфорт и выглядеть неэстетично. Такие осложнения требуют повторной операции, чтобы удалить или заменить имплант.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Одна история, когда женщина с раком не хочет лишиться груди, и мы ей ставим протез для естественной симметрии. Другая — когда здоровый человек хочет изменить внешность и вместе с желаемым размером бонусом получает риск осложнений. К ним относятся анапластическая лимфома, системные заболевания соединительных тканей, силикоз лимфоузлов, синдром хронической усталости, проблемы с щитовидной железой. Это редкие состояния, и тем обиднее, что человек, будучи здоровым, зарабатывает болячку на всю жизнь. Согласно рекомендациям, женщинам с установленными имплантами нужно раз в два года делать МРТ молочных желез для исключения осложнений.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stklAZb_" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если задумывались об увеличении груди и других эстетических изменениях, но стеснялись расспросить врача о мифах вокруг популярных операций, мы это сделали за вас. Редакция Enter задала пластическому хирургу Рустему Фасахову 15 глупых вопросов об фейслифтинге, имплантах груди и многом другом. Какие психологические проблемы решает пластическая хирургия, почему не стоит удалять комки Биша и как на самом деле работает кольцо на желудке — читайте <a href="https://entermedia.io/people/15-glupyh-voprosov-o-plasticheskoj-hirurgii/" target="_blank" class="stk-reset">в большом материале</a>.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/3-8.jpg" data-image-id="136373" srcset="https://entermedia.io/wp-content/uploads/2024/10/3-8-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/3-8-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/3-8.jpg 2400w" data-image-name="3.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-136373 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Правда, что у нерожавших женщин риск заболеть раком молочной железы выше?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Молочная железа — единственный орган, который не развит на момент рождения человека. Грудь активно растет в пубертатном возрасте и считается созревшей после завершения грудного вскармливания. Созревшие клетки менее подвержены влиянию внешних факторов, поэтому да — у рожавших женщин риск заболеть раком молочной железы ниже.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какой шанс заболеть, если у мамы или бабушки был рак груди?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наследственных раков, на самом деле, немного — около 10% от всех случаев. Наличие мутации генов BRCА 1/2  значительно повышает риски заболеть онкологией молочной железы и яичников. Носители поломки находятся под особым режимом наблюдения для своевременного выявления изменений.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkCpiL3" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">BRСА-гены являются опухолевыми супрессорами — своеобразными контролерами, которые препятствуют опухолевой трансформации клеток. Если в этих генах появляются мутации, они утрачивают способность отслеживать изменения в геноме, что приводит к развитию злокачественных образований. Поврежденный ген может достаться от родителей: у людей с наследственной поломкой BRСА возрастает риск возникновения рака молочной железы, яичников и других разновидностей злокачественных новообразований.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кому нужно пройти генетическое исследование на мутацию в BRСА-гене?   </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Есть несколько категорий пациентов, которым мы рекомендуем пройти генетическое исследование:</p><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">это женщины, у которых есть два и более родственника в первой линии родства с диагнозом рак молочной железы или яичника; </li><li class="stk-reset stk-list-item" data-ce-tag="list-item">пациентки, у которых есть родные с трижды негативным раком молочной железы. Это наиболее агрессивный тип злокачественной опухоли, когда клетки новообразования не содержат рецепторов к прогестерону, эстрогену и белку HER-2, что сильно ограничивает варианты терапии и ухудшает прогноз при лечении; </li><li class="stk-reset stk-list-item" data-ce-tag="list-item">женщины, которые перенесли любой вид рак в молодом возрасте до 40 лет;</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">пациенты из некоторых этнических групп. В этом случае наличие даже одного родственника с раком груди или яичника является показанием к тестированию.</li></ul><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Проверить BRCA-ген на мутацию можно разными способами. Менее информативным считается ПЦР, более точным — секвенирование нового поколения NGS. Цена диагностики варьируется от 3 500 рублей. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если у пациента находят поломку в гене, мы рекомендуем сдать анализ и его детям, чтобы точно сказать: являются они носителями мутации или нет. Если поврежденный ген не достался по наследству, то на этом этапе передача мутации прекратится. На сегодняшний день медицина не может починить поломку. Прервать патологическую цепочку передачи генов от матери детям можно с помощью ЭКО: процедура позволяет отобрать эмбриона, который не несет мутации.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Насколько эффективно и необходимо удалять молочные железы как профилактику рака груди?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Профилактическая мастэктомия снижает риск заболеть раком груди на 90%. Но это не так просто и утешительно, как кажется. В России вопрос удаления молочных желез без установленного диагноза до сих пор не решен. По европейским протоколам процедура занимает не меньше полугода. С пациентом работает команда психологов, онкологов и пластических хирургов: они оценивают риски и делают все, чтобы операция не стала импульсивным решением. И как я уже говорил, установка имплантатов, в том числе с целью реконструкции удаленной молочной железы, — проблема на всю жизнь, нужно быть готовым к возможным осложнениям.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Группам высокого риска есть вариант провести химиопрофилактику. Лекарственные препараты снижают частоту развития рака молочной железы, в том числе у носителей мутации. Да, они менее эффективны, чем профилактическая мастэктомия, тем не менее, это неплохой метод превентивной медицины.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Популярный БАДы, которые применяют для лечения неопухолевой патологии молочной железы, не имеют доказанной эффективности при профилактике рака. Уринотерапия в виде добавок с верблюжьей мочой является методом альтернативной медицины и не только неэффективна, но может быть потенциально опасна для здоровья.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С какого возраста нужно начинать ежегодно обследоваться у маммолога?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если нет повышенных рисков и жалоб и если не планируется ЭКО, то рутинно с 40 лет.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Прием у маммолога начинается с анкетирования. На первой консультации нужна информация о росте и весе пациента для подсчета индекса массы тела, возраст начала месячных и менопаузы, возраст рождения детей и информация о кровных родственниках, болевших раком молочной железы и яичника. И важен день — с пятого по двенадцатый день цикла наиболее информативный осмотр: как пальпаторный, так и по результатам УЗИ и маммографии.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkUKdml" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Полный цикл считается от первого дня менструации до следующего первого дня менструации — это в среднем 21–36 дней. Первый день цикла совпадает с началом месячных. Соответственно, пятый — двенадцатый день — это неделя после месячных.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/4-6.jpg" data-image-id="136371" srcset="https://entermedia.io/wp-content/uploads/2024/10/4-6-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/4-6-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/4-6.jpg 2400w" data-image-name="4.jpg" width="2400" height="1600" loading="lazy" class="stk-image stk-reset  wp-image-136371 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как провести диагностику груди самостоятельно?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В большом китайском исследовании 100 женщин разделили на две группы: тех, кто проводил ежемесячную самодиагностику, и тех, кто этого не делал. В завершение эксперимента сравнили, в какой группе больше заболеваний раком молочной железы и какие женщины прожили дольше. Разницы не было. Это значит, что самодиагностика не приводит к увеличению продолжительности и улучшению качества жизни онкобольных.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Из позитивных выводов: самостоятельные скрининги значительно сокращают количество интервальных раков — опухолей, которые возникают в период между ежегодными осмотрами у маммолога. Женщины, которые проводили самодиагностику, раньше замечали образования в груди, обращались к врачу и начинали терапию. Так что самообследование делать точно нужно.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Никто лучше женщины не знает ее грудь. Любые изменения: уплотнения, болезненные ощущения, изменение кожи, выделения, изменения в подмышечной впадине — повод внепланово обратиться к маммологу. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkrI9I5" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><h5 class="stk-theme_29689__color_29689_custom_color_1 stk-theme_29689__style_font_style-1490606702672 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Самодиагностика молочной железы</h5><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Проводить диагностику груди нужно раз в месяц с пятого по двенадцатый день цикла — в эти дни грудь наиболее мягкая, поэтому проще нащупать даже небольшие узелки.</p><ul class="stk-reset" data-ce-tag="list"><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Встаньте ровно и опустите руки. </li><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Внимательно осмотрите соски: они должны быть привычной формы и на привычном месте, без язв и выделений при сдавливании. Контуры ареол — четкие, круглые и симметричные. </li><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Обратите внимание на размер и форму груди: молочные железы не должны отличаться.</li><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Проверьте изменения кожи. Темные пятна, покраснения, огрубения и шелушения, «апельсиновая корка» вокруг соска и под грудью повод обратиться к маммологу.</li><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Поднимите руки по очереди и проверьте подмышечные впадины: лимфоузлы не должны быть увеличены.</li><li class="stk-theme_29689__color_29689_custom_color_1 stk-reset stk-list-item" data-ce-tag="list-item">Проведите пальпацию. Осмотрите правую грудь левой, при этом подняв правую руку над головой, и наоборот. Круговыми движениями по часовой стрелке от соска до подмышечной впадины ощупайте грудь. Убедитесь, что нет уплотнений и узелков, который на ощупь напоминают шарики.</li></ul><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сделать осмотр рутинным поможет бесплатное приложение iCheck — оно есть в <a href="https://apps.apple.com/us/app/icheck/id1253354734?platform=iphone" target="_blank" class="stk-reset">App Store</a> и <a href="https://play.google.com/store/apps/details?id=com.thinkpinkbahrain.icheck.en&amp;hl=ru" target="_blank" class="stk-reset">Google Play</a>. В приложении есть гайд по осмотру груди и информация о раке молочной железы, оно вовремя напомнить о дне диагностики и отследить изменения, если будете вносить данные.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">УЗИ, маммография или МРТ — какой способ обследования выбрать?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В основе методов положена разные физические процессы. Маммография — рентгеновское исследование для диагностики ранних стадий рака. Скрининговая маммография позволяет выявить микрокальцинаты — побочный продукт жизнедеятельности опухоли, которая клинически еще не проявилась. Маммографию следует делать раз в год. Редкая периодичность и небольшая дозировка ионизирующего излучения безопасны.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Маммография неэффективна для женщин с плотной молочной железой. В этом случае лучше выбрать МРТ. Информативная ценность магнитно-резонансного исследования такая же, как у маммографии. Из минусов — это долгая процедура, для которой вводится контрастное вещество. Вариант исследования не подойдет пациентам с клаустрофобией.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Женщинам с плотной молочной железой УЗИ может дать больше информации, чем маммография. Ультразвуковое исследование позволяет обнаружить кисты, фиброаденомы, доброкачественные и злокачественные образования, оценить состояние лимфоузлов, увидеть изменение тканей при мастите и других воспалительных процессах.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что делать, если обнаружили образование в груди?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Не любое образование — онкология. Это может быть киста, которая лечится откачиванием содержимого, или фиброаденома — доброкачественная опухоль, которую в зависимости от размера можно удалять различными методами. В любом случае не убегайте от врача. У маммолога есть четкий алгоритм диагностики, которую нужно обязательно пройти. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Рак молочной железы хорошо лечится: выживаемость на ранних стадиях равна 94%. Да, количество заболеваний растет — в среднем на 2,5% в год, но в то же время сокращается смертность. Появляются препараты, которые увеличивают общую выживаемость и позволяют пациентам жить долгую качественную жизни даже при метастазах.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как лечат рак груди?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это комплекс локальной и системной терапии. Локальная предполагает оперативное вмешательство и лучевую терапию по показаниям. Системная состоит из эндокринной, таргетной, иммунной и химиотерапии. Тактика лечения для каждого пациента выстраивается в зависимости от стадии и подтипа рака.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkqMQgi" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Лучева терапия — метод лечения с помощью ионизирующего облучения. На область опухоли местно воздействуют радиоактивным лучом, который разрушает злокачественные клетки. Терапия безболезненная, количество сеансов зависит от области и стадии рака.</p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Во время химиотерапии внутривенно или через катетер в артерию вводят препараты, которые убивают все быстро делящиеся клетки в организме или замедляют их размножение.</p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Таргетная терапия, в отличие от химиотерапии, блокирует конкретные молекулы в опухолевых клетках. Это приводит к прекращению размножения раковых клеток и почти не вредит здоровым.</p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эндокринная терапия — лечение гормонозависимых опухолей с помощью гормонов. Причина рака молочной железы в избытке эстрогена. Эндокринная терапия блокирует рецепторы гормона, нарушает его синтез и тем самым прекращает стимулирующее воздействие на опухоль.</p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Иммунная терапия блокируют молекулы, которые подавляют активность противоопухолевого иммунитета и мешают ему уничтожать раковые клетки, активирует иммунную систему и помогает ей бороться с опухолью.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Химиотерапия длится от четырех до семи месяцев, таргетная терапия — около года, продолжительность эндокринной терапии может достигать десяти лет, у пациентов с метастазами терапия пожизненная. Лечение рака молочной железы не предполагает круглогодичного нахождения в стационаре. Это трехнедельные интервалы, когда три недели пациент живет обычную жизнь и один день находится в диспансере. С раком жизнь продолжается, ставить ее на стоп на время лечения точно не нужно.</p><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Какой шанс, что прооперированный рак больше не вернется?</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Это отслеживается индивидуально. Сегодня врачи могут дать прогноз на 15 лет. Не потому что через 15 лет человек умрет, конечно, нет. Просто посчитать статистику на дольше пока невозможно. Что точно — онкобольному придется пожизненно наблюдаться у онкологов и регулярно проходить обследования после лечения.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkIB1a-" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__color_29689_custom_color_1 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a class="stk-reset" href="https://oncort.ru/otdeleniya/onkologicheskoe-otdelenie-%E2%84%964-mammologicheskoe/" target="_blank"><strong class="stk-reset">Альберт Гимранов</strong></a><strong class="stk-reset"> </strong>— врач онколог-маммолог, заведующий онкологическим отделением №4 (маммологии и пластической хирургии) Республиканского клинического онкодиспансера МЗ РТ им. профессора Сигала. Альберт Минусагитович лечит онкобольных более 27 лет.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Ксения Монастырская<br><strong class="stk-reset">Изображения:</strong> Марина Никулина</p></div></div><style data-stk-css="stkIB1a-" class="" media="all">[data-stk-css="stkIB1a-"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stkqMQgi" class="" media="all">[data-stk-css="stkqMQgi"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stkrI9I5" class="" media="all">[data-stk-css="stkrI9I5"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stkUKdml" class="" media="all">[data-stk-css="stkUKdml"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stkgDzD4" class="" media="all">[data-stk-css="stkgDzD4"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stklAZb_" class="" media="all">[data-stk-css="stklAZb_"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style><style data-stk-css="stkCpiL3" class="" media="all">[data-stk-css="stkCpiL3"]:not(#stk):not(#stk):not(style){background-image: url('https://entermedia.io/wp-content/uploads/2024/10/Zalivka.jpg'); background-position: 50% 50%; background-repeat: no-repeat}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F&title=Розовый октябрь: 15 глупых вопросов о раке груди&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-9-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F&text=Розовый октябрь: 15 глупых вопросов о раке груди" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Розовый октябрь: 15 глупых вопросов о раке груди&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Frozovyj-oktyabr-15-glupyh-voprosov-o-rake-grudi%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="17" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">17</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501137'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

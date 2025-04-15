@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2025/02/1-2.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,552] -->
+<link rel="canonical" href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия&raquo;" href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501166&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501166&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501166&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Исследование: Как меняется интерес жителей Казани к спортивным залам' href='https://entermedia.io/news/issledovanie-kak-menyaetsya-interes-zhitelej-kazani-k-sportivnym-zalam/' />
+<link rel='next' title='Татарстанцев предупреждают о тумане' href='https://entermedia.io/news/tatarstantsev-preduprezhdayut-o-tumane/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-141136 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">10 февраля</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F&title=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия&description=&image=https://entermedia.io/wp-content/uploads/2025/02/1-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="6" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F&text=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="33" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">33</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="141136">
+    <div id="post-141136" class="post-141136 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:141137,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141138,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141142,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141143,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141139,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141140,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141141,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141144,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141145,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141148,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141146,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:141147,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid:&nbsp;2SDnjeS9xLC</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы живем в мире с безграничными возможностями, бесконечным выбором и новыми модными коллекциями теперь не два, а шесть раз в год. Погоня за трендами и идеальностью надоедает так же быстро, как шубы и оттенок «спелой вишни» в сезоне осень – зима 2024–2025. Тогда на первый план выходят философии, которые учат наслаждаться тем, что есть, вместо того, что может быть.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Обсудили с основателем концепт-стора <a href="https://www.studioslow.ru/" target="_blank" class="stk-reset">Studio Slow</a> Владимиром Янчевским, в чем суть японской философии ваби-саби и как она отразилась в фэшн-индустрии. О феномене любви к несовершенному, брендах, которые состаривают одежду, и soulful шопинге — читайте в нашем материале.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/2-2.jpg" data-image-id="141148" srcset="https://entermedia.io/wp-content/uploads/2025/02/2-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/2-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/2-2.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-141148 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Японский феномен увядающей красоты</h4></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk5qdf4" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С начала истории человечества люди ищут жизненные ориентиры. В этом вопросе любая оформленная религия и философия могут быть очень к месту.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В XIV–XV веках японцы из-за политических и социальных перформансов оказались в изоляции и бедности. Со временем вынужденную аскезу стали романтизировать: воспринимать как возможность духовного роста. Буддийские ценности принятия быстротечности жизни, любования красотой увядания, довольства малым слились с японским сдержанным менталитетом в философию ваби-саби.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Хотя за много веков ваби-саби законсервировалась в культуре, ни один японец не даст точного определения, что это такое. Первым попытался систематизировать феномен американский теоретик архитектуры и дизайна Леонард Корен. После путешествия в Японию в 1994 году он опубликовал книгу <a href="https://www.mann-ivanov-ferber.ru/catalog/product/vabi-sabi/" target="_blank" class="stk-reset">«Ваби-саби. Японская философия для художников, дизайнеров и писателей»</a>. В ней Корен противопоставил ваби-саби европейскому модерну и выделил три истины японской философии красоты.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkpR866" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ничто не вечно, все несовершенно, все не завершено.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Ваби» означает простоту и тишину, «саби» — холод и увядание. Вместе понятия создают философию о любви к скромной непритязательной красоте. Не безусловной и абсолютной, а очень личной, тихой и даже скрытой. Она может быть в неровном орнаменте на варежках, которые связала бабушка. В рваностях на ассиметричном свитере. Или старой замшевой куртке с заломами и потертостями, которые напоминают о студенческих тусовках, первой работе и отпуске за границей.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stklSuup" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Если все временно, значит, все бессмысленно. Это дает абсолютную свободу наделять своими смыслами любые вещи.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Знание о ваби-саби записано у японцев на подкорке. Они любят апсайклинг, носят вещи с потертостями и предпочитают селвидж деним практичной джинсе. Ткань для селвидж джинс и курток производят на старых станках и окрашивают вручную индиго. Краситель может полинять, а деним сесть. Но это не главное. Главное — подлинность производства и ощущения. Это точно описывает философию ваби-саби, которую не нужно пытаться трактовать, главное — чувствовать.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/3-3.jpg" data-image-id="141146" srcset="https://entermedia.io/wp-content/uploads/2025/02/3-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/3-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/3-3.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-141146 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ваби-саби в моде — это подлинность, а не искусственная идеальность</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Философия ваби-саби в фэшн-индустрии стала продолжением трендов 2010-х годов на минимализм и агли-моду. В первом случае не хватало текстур и силуэтов. Во втором — адекватности. Если хлопковая рубашка UNIQLO казалась слишком простой, то балаклава Gucci — слишком непонятной. Ваби-саби объединила лучшие тенденции направлений: натуральность материалов и асимметричность силуэтов, многослойность и эксклюзивность образов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще одна причина, почему современные европейцы облюбовали восточную традицию, кроется в психологическом феномене. Хотя люди устроены так, чтобы постоянно стремиться к идеалу, эмоции вызывают именно неточности и недостатки. Ваби-саби доводит идею притягательности несовершенства до абсолюта. Поэтому нам нравятся деконструированные <a href="https://www.studioslow.ru/product/zhenskiy-pidzhak-red-september-single-breasted-acero/" target="_blank" class="stk-reset">пиджаки</a> и <a href="https://www.studioslow.ru/product/bomber_red_september_green_orange/" target="_blank" class="stk-reset">бомберы</a> Red September, необычное сочетание <a href="https://www.studioslow.ru/product/sviter-charles-jeffrey-loverboy-patch-cable-knit-multicolour/" target="_blank" class="stk-reset">трикотажа</a> Charles Jeffrey Loverboy, <a href="https://www.studioslow.ru/product/zhenskiy-kardigan-diesel-m-isolde-maglia-faded-denim/" target="_blank" class="stk-reset">потертости</a> Diesel и ассиметричные <a href="https://www.studioslow.ru/product/sergi-mm6-tag-and-key-earrings/" target="_blank" class="stk-reset">украшения</a> ММ6. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkP9pPO" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-theme_29689__style_font_style-1490606764478 align-center stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ваби-саби — совсем не обязательно про винтажную и неряшливую одежду. Восхищение неидеальным могут вызывать и новые вещи от молодых брендов.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><a href="https://www.studioslow.ru/catalog/undercover/" target="_blank" class="stk-reset">Undercover</a> выпускает апсайкл коллекции, экспериментирует с тканями и деталями. К скучным брюкам пришивают спортивные штаны, рукава офисных рубашек кроят по спирали, куртки сшивают с бесформенными кардиганами, а бомберы — с цветными шифоновыми шарфами. Вещи выглядят по панк-роковски странно: это не кич, а новая грань взаимодействия с модой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Любовь к винтажу и ручному труду объединила основателя японского бренда Readymade Юту Хосокаву и художника Кали Торнхилла Девитта. Результатом сотрудничества стал бренд <a href="https://saintmichaelclothing.com/" target="_blank" class="stk-reset">Saint Michael</a>. Основатели уделяют особое внимание тканям и декоративным элементам. Чтобы принт сохранялся как можно дольше, вручную обрабатывают и расписывают вещи. Ремесленный подход помогает достичь эффекта «идеальной незавершенности». Футболки, лонгсливы и худи скоро появятся в Studio Slow — следите за обновлениями.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дизайнер из Южной Кореи Джиен Ким используют для коллекций подержанные ткани. Кроме этого факта, его бренд <a href="https://jiyongkim.net/product/list.html?cate_no=98" target="_blank" class="stk-reset">JiyongKim</a> известен необычным способом окрашивания вещей. Ким по-разному связывает изделия и подвергает их воздействию солнца, дождя и ветра. На выцветших вещах остаются естественные неидеальные узоры. Дизайнер не использует химические красители, чтобы привлечь внимание к устойчивому развитию модной индустрии и показать, что эксклюзивности можно добиться экологичными способами.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дисклеймер: ваби-саби про принятие зацепки на любом свитере, облущенного лака после сеанса ужастика, аппликации из пайеток на месте дырки на худи, которое подарил друг. Важно чувствовать грань между несовершенным и неряшливым. Синтетический джемпер в катышках и треники с вытянутыми коленками достойны любви, но за гранью моды. (Конечно, если это не намеренно закатанный кардиган <a href="https://wwd.com/fashion-news/shows-reviews/gallery/givenchy-rtw-fall-1203525423/givenchy-rtw-fall-2020-23/?post_type=pmc-gallery&amp;p=1203525423" target="_blank" class="stk-reset">Givenchy</a> и драпированные джинсы <a href="https://www.yproject.fr/" target="_blank" class="stk-reset">Y/Project</a>.)</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/4-1.jpg" data-image-id="141147" srcset="https://entermedia.io/wp-content/uploads/2025/02/4-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2025/02/4-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2025/02/4-1.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-141147 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У ваби-саби нет инструкций. Главное — чувствовать</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В отличие от других модных течений японская философия не предлагает делать что-то конкретное: сортировать мусор, концентрироваться только на практичных вещах или покупать одежду только из натуральных тканей. Из всех лайфстайл-трендов этот — самый поэтичный и индивидуальный. Так что инструкции, как одеваться в стиле ваби-саби или что делать, чтобы стать последователем философии, нет.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Бет Кемптон в книге <a href="https://eksmo.ru/book/vabi-sabi-yaponskaya-mudrost-dlya-idealnoy-neidealnoy-zhizni-ITD944833/" target="_blank" class="stk-reset">«Wabi Sabi. Японские секреты истинного счастья в неидеальном мире»</a> говорит о том, что единственная соответствующая ваби-саби концепция шопинга — soulful. Новые вещи должны наполнять и дополнять гардероб, который у вас есть, быть хорошего качества и нравиться вам. Прежде, чем что-то купить, спросите себя:</p><ul class="stk-reset" data-ce-tag="list"><li class="stk-reset stk-list-item" data-ce-tag="list-item">Мне действительно нужна эта вещь? Она работает с моим гардеробом?</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Мне действительно нравится эта вещь? Мне будет она нравиться через 24 часа, месяц и год?</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Эта вещь соответствует моим ощущениям, или я хочу ее из-за тренда?</li><li class="stk-reset stk-list-item" data-ce-tag="list-item">Мне стоит заплатить больше за похожий силуэт лучшего качества?</li></ul><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Автор дает еще одну подсказку и советует ориентироваться на прилагательные, описывающие ваби-саби. Вещь может быть <em class="stk-reset">несовершенной, состарившейся </em>(со временем или на этапе производства), <em class="stk-reset">деформированной </em>(во время носки или по задумке дизайнера), <em class="stk-reset">асимметричной, фактурной</em>, <em class="stk-reset">натуральной</em> (да, ткани могут быть неравномерно окрашены и сильно мяться, но в этом и есть их прелесть), <em class="stk-reset">изготовленной экологичным способом, необработанной, выгоревшей, простой и скромной</em> — какой угодно. Вопрос не в одежде, а в вас и ваших ощущениях.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Идеи образов в стиле ваби-саби</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/1-1.jpg" data-image-id="141137" srcset="https://entermedia.io/wp-content/uploads/2025/02/1-1-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/1-1-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/1-1.jpg 1080w" data-image-name="1.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141137 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/shapka-charles-jeffrey-loverboy-fluffy-chunky-ears-black/" target="_blank">Шапка Charles Jeffrey Loverboy</a> — 16 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskoe-bodi-mm6-found-objects-purple/" target="_blank">Боди ММ6</a> — 41 990 рублей<br>3,&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhilet_charles_jeffrey_loverboy_guddle_vest_multi/" target="_blank">Жилет Charles Jeffrey Loverboy</a> — 51 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/pukhovik-entire-studios-mml-puffer-cotton-off-white/" target="_blank">Пуховик Entire Studios</a> — 101 990 рублей<br>5,&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka-andersson-bell-medium-vaso-black/" target="_blank">Сумка Andersson Bell</a> — 89 990 рублей<br>6,&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskie-dzhinsy-juun-j-destroyed-wide-denim-pants-black/" target="_blank">Джинсы Juun.J</a> — 39 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskie-botinki-dr-martens-jadon-smooth-platform-burgundy/" target="_blank">Ботинки Dr. Martens</a> — 30 290 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/2-1.jpg" data-image-id="141138" srcset="https://entermedia.io/wp-content/uploads/2025/02/2-1-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/2-1-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/2-1.jpg 1080w" data-image-name="2.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141138 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/shapka-coperni-knitted-horn-gray/" target="_blank">Шапка Coperni</a> — 22 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/ochki-bonnie-clyde-lucky-star-red-silver-grey-tint/" target="_blank">Очки Bonnie Clyde</a> — 19 990 рублей<br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskiy-sviter-ribbed-high-neck-top-red/" target="_blank">Водолазка Amomento</a> — 23 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/pukhovik-amomento-hooded-down-puffer-ecru/" target="_blank">Пуховик Amomento</a> — 66 490 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka-heliot-emil-solely-box-micro-bag-black/" target="_blank">Сумка Heliot Emil</a> — 26 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/shorty-open-yy-rolled-waist-cargo-shorts-charcoal/" target="_blank">Шорты Open YY</a> — 49 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sapogi-zhenskie-rombaut-typhoon-black/" target="_blank">Сапоги Rombaut</a> — 74 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/3-2.jpg" data-image-id="141142" srcset="https://entermedia.io/wp-content/uploads/2025/02/3-2-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/3-2-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/3-2.jpg 1080w" data-image-name="3.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141142 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/shapka-kidsuper-hand-knit-chunky-light-brown/" target="_blank">Шапка KidSuper</a> — 14 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskoe-bodi-entire-studios-ls-bodysuit-silver-cloud/" target="_blank">Боди Entire Studios</a> — 10 990 рублей <br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/arlecchino-mohair/" target="_blank">Свитер Magliano</a> — 87 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/palto_open_yy_tweed_power_single_beige/" target="_blank">Пальто Open YY</a> — 68 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka-margesherwood-belted-hobo-nubuck-chestnut/" target="_blank">Сумка Margesherwood</a> — 55 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskaya-yubka-open-yy-pleated-wrap-maxi-grey/" target="_blank">Юбка Open YY</a> — 39 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/botinki/" target="_blank">Ботинки PDF</a> — 66 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/4.jpg" data-image-id="141143" srcset="https://entermedia.io/wp-content/uploads/2025/02/4-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/4-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/4.jpg 1080w" data-image-name="4.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141143 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/naushniki-ugg-earmuff-sherpa-cream/" target="_blank">Наушники UGG</a> — 5 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sharf-charles-jeffrey-loverboy-football-scarf/" target="_blank">Шарф Charles Jeffrey Loverboy</a> — 21 490 рублей <br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskiy-top-ksubi-arise-tank-top-black/" target="_blank">Топ Ksubi</a> — 9 990 рублей <br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/kardigan-andersson-bell-roghen-wool-long-black/" target="_blank">Кардиган Andersson Bell</a> — 54 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/palto-red-september-black_39855/" target="_blank">Пальто Red September</a> — 54 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka-osoi-folder-brot-prism-white/" target="_blank">Сумка OSOI</a> — 44 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/s/" target="_blank">Брюки Amomento</a> — 28 990 рублей<br>8.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zhenskie-botinki-open-yy-round-square-platrorm-black/" target="_blank">Ботинки Open YY</a> — 64 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/5.jpg" data-image-id="141139" srcset="https://entermedia.io/wp-content/uploads/2025/02/5-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/5-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/5.jpg 1080w" data-image-name="5.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141139 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/shapka-magic-castles-magic-beanie-vintage-black/" target="_blank">Шапка Magic Castles</a> — 8 490 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sviter-andersson-bell-lace-up-oversized-black/" target="_blank">Свитер Andersson Bell</a> — 40 990 рублей <br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/pukhovik-arnodefrance-dirty-canvas-washed-black/" target="_blank">Пуховик Arnodefrance</a> — 77 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka_martine_rose_bumbag_black/" target="_blank">Сумка Martine Rose</a> — 60 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/dzhinsy-after-pray-line-panel-sanded-sky/" target="_blank">Джинсы After Pray</a> — 21 490 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/botinki-dr-martens-1460-toe-plate-lunar-leather-jungle-zip/" target="_blank">Ботинки Dr. Martens</a> — 29 890 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/6.jpg" data-image-id="141140" srcset="https://entermedia.io/wp-content/uploads/2025/02/6-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/6-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/6.jpg 1080w" data-image-name="6.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141140 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/kepka-han-kj-benhavn-distressed-diamond-cap-black/" target="_blank">Кепка Han Kjøbenhavn</a> — 15 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/podveska-after-pray-western-bullet-necklace-silver/" target="_blank">Подвеска After Pray</a> — 14 490 рублей<br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/futbolka-camper-gray-cotton-t-shirt/" target="_blank">Футболка Camperlab</a> — 14 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/kurtka-han-kj-benhavn-fleece-jacket-blood-red/" target="_blank">Куртка Han Kjøbenhavn</a> — 29 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/bomber_di_vision_bomber_jacket_black_silver_split/" target="_blank">Бомбер (di)vision</a> — 43 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/bryuki-424-loose-fivepocket-black/" target="_blank">Джинсы 424</a> — 43 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/botinki-424-marathon-boot-graphite-black-sole/" target="_blank">Ботинки 424</a> — 133 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/7.jpg" data-image-id="141141" srcset="https://entermedia.io/wp-content/uploads/2025/02/7-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/7-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/7.jpg 1080w" data-image-name="7.jpg" width="1080" height="1350" loading="lazy" class="stk-image stk-reset  wp-image-141141 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/ochki-a-better-feeling-m015-amber/" target="_blank">Очки A Better Feeling</a> — 18 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/futbolka-heresy-strollin-ash/" target="_blank">Футболка Heresy</a> — 9 190 рублей<br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/zip-khudi-entire-studios-full-zip-brunette/" target="_blank">Зип-худи Entire Studios</a> — 20 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/hairy-long-coat-brown/" target="_blank">Пальто Amomento</a> — 103 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sumka-heresy-strap-pack-green/" target="_blank">Сумка Heresy</a> — 11 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/bryuki-424-big-daddy-ripped-denim-washed-blue/" target="_blank">Джинсы 424</a> — 77 990 рублей<br>7.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/tufli-derbi-remagine-hybrid-starting-bigger-nasty-wheat/" target="_blank">Туфли-дерби Remagine</a> — 59 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2025/02/8.jpg" data-image-id="141144" data-image-name="8.jpg" class="stk-image stk-reset  wp-image-141144 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2025/02/8-240x300.jpg 240w, https://entermedia.io/wp-content/uploads/2025/02/8-819x1024.jpg 819w, https://entermedia.io/wp-content/uploads/2025/02/8.jpg 1080w" width="1080" height="1350" loading="lazy"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">1. <a class="stk-reset" href="https://studioslow.ru/product/balaklava-thom-krom-cap-61m-black/" target="_blank">Балаклава thom/krom</a> — 13 990 рублей<br>2.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/sviter-heliot-emil-convex-distressed-knit-black/" target="_blank">Свитер Heliot Emil</a> — 54 990 рублей<br>3.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/pukhovik-entire-studios-mml-puffer-pupil/" target="_blank">Пуховик Entire Studios</a> — 87 990 рублей<br>4.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/cumka-innerraum-object-i14-smartphone-bag-black/" target="_blank">Сумка Innerraum</a> — 79 990 рублей<br>5.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/bryuki-arnodefrance-rave-cargo-vintage-black/" target="_blank">Брюки Arnodefrance</a> — 38 990 рублей<br>6.&nbsp;<a class="stk-reset" href="https://studioslow.ru/product/polubotinki-pdf-nuvola-pluto/" target="_blank">Кеды PDF</a> — 56 990 рублей</p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Ксения Монастырская<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Изображения:</strong> Марина Никулина</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реклама.&nbsp;ИП Янчевский Владимир Дмитриевич</p></div></div><style data-stk-css="stkP9pPO" class="" media="all">[data-stk-css="stkP9pPO"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stklSuup" class="" media="all">[data-stk-css="stklSuup"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk5qdf4" class="" media="all">[data-stk-css="stk5qdf4"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkpR866" class="" media="all">[data-stk-css="stkpR866"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F&title=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия&description=&image=https://entermedia.io/wp-content/uploads/2025/02/1-2-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="6" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F&text=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы и асимметрия&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Ffashion%2Fkak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="33" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">33</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501166'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

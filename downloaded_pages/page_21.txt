@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Островского — новая Столбова: Как и зачем застраивать исторический центр | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/1-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,542] -->
+<link rel="canonical" href="https://entermedia.io/city/ostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Островского — новая Столбова: Как и зачем застраивать исторический центр&raquo;" href="https://entermedia.io/city/ostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501078&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501078&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501078&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Центр «Эрмитаж-Казань», новый ресторан «Энием» и другие' href='https://entermedia.io/city/tsentr-ermitazh-kazan-novyj-restoran-eniem-i-drugie/' />
+<link rel='next' title='У парка Горького открылся подземный переход' href='https://entermedia.io/news/u-parka-gorkogo-otkrylsya-podzemnyj-perehod/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-135732 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/1-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Островского — новая Столбова: Как и зачем застраивать исторический центр <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/06/H_w_nqGGX7s-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Ксения Монастырская</div>
+          <div class="date-publish">7 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F&title=Островского — новая Столбова: Как и зачем застраивать исторический центр&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F&text=Островского — новая Столбова: Как и зачем застраивать исторический центр" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Островского — новая Столбова: Как и зачем застраивать исторический центр&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="135732">
+    <div id="post-135732" class="post-135732 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:135737,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135736,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135739,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:135738,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid: 2SDnjcxQDVL</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Застройка исторического центра — больная тема для градозащитников. Совсем не развивать территорию нельзя, но и как это делать без вреда городу — тоже непонятно. После девелоперского бума 2000-х–2010-х годов встал еще один вопрос: что делать с урбанистическими ошибками, которые портят историческую панораму. Пока администрация и общественники решают эту проблему, застройщики заходят в центр с новыми проектами — в этот раз обдуманно и с пользой для города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter обсудила исторический центр Казани с экспертами <a href="https://kamastroyinvest.ru/" target="_blank" class="stk-reset">«КамаСтройИнвест»</a>. Что произошло с архитектурой города за последние тридцать лет, почему нельзя не застраивать исторический районы и каким должен быть новый ЖК в центре — читайте в нашем материале.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/2.jpg" data-image-id="135739" srcset="https://entermedia.io/wp-content/uploads/2024/10/2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/2.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135739 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Современная застройка в центре — обязательно плохо. Откуда стереотип</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Критики иронично отмечают, что стилистическому разнообразию на улицах мы обязаны «Макдоналдсу». К 1999 году в стране работало 50 ресторанов общепита, и у каждого была неповторимая архитектура: компания следила, чтобы один подрядчик проектировал не больше двух заведений. Отсюда такие разные «Макдоналдсы» в стиле ар-деко в Нижнем Новгороде и эклектики в Казани.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После типовых проектов и борьбы с излишествами в 1990-е годы архитекторы смело переосмысляли стили в постмодернистском духе. Фешенебельный «Мираж» через дорогу от Кремля как раз плод таких экспериментов. В 2000-х годах начали появляться натуралистические копии имперских стилей, выполненные с особенным эстетизмом. К таким, например, относится Дворец земледельцев. Гротескный ампир дополнили элементы классицизма, бозара и эклектики.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После кризиса 2008 года началась миграция людей из периферии в центр. На фоне мегаполизации случился строительный бум, который привел к хаотичной застройке. Архитекторы не всегда тщательно изучали стилистические особенности ландшафта, поэтому по соседству с многоэтажкой-свечкой могли появиться помпезные апартаменты.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Под новые проекты нужна была площадь: как ее получали, мы видели в годы сноса ветхих строений в центре Казани и на примере реконструкции исторических зданий вместо реновации. Утрата архитектурного наследия привела к появлению градозащитных сообществ. Под давлением общественности девелоперы стали осторожничать, и освоение территорий в центре на некоторое время замедлилось.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зачем застраивать исторический центр современными домами </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Центр как привлекательная локация интересен в первую очередь коммерческим проектам. Землю долгое время застраивали преимущественно торговыми центрами и офисными площадями. Из-за этого произошел дисбаланс: люди стали жить в периферийных районах, а работать и отдыхать — в центре. Ежедневная миграция привела к проблемам с трафиком и общественным транспортом.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В поисках баланса девелоперы предложили концепцию «города в городе». Новые ЖК строят с учетом социальной и досуговой инфраструктуры, чтобы человек мог жить, работать и отдыхать в одном месте. Идея относительно новая, и пока рано говорить о ее однозначной эффективности.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">За много лет экспериментов в градостроительстве стало понятно, что изначально заложенное наполнение и функции города — наилучшее решение. В историческом центре жили, торговали и отдыхали, поэтому пытаться зонировать его или консервировать для туристов неразумно. Исторический центр должен оставаться уникальным и узнаваемым для гостей и комфортным и привлекательным для местных.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/3-1.jpg" data-image-id="135736" srcset="https://entermedia.io/wp-content/uploads/2024/10/3-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/3-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/3-1.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135736 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как застраивать центр, чтобы не навредить — разбираемся на примере ЖК «Кастура Таун»</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сохранять и развивать историческую территорию помогает законодательство, мастер-планы, рекомендательные письма — любые обоснованные регулирующие документы. В Казани, например, <a href="https://docviewer.yandex.ru/view/1750340614/?*=pyvv1lJZ%2FYHfySbgBeUekPduagh7InVybCI6InlhLWRpc2stcHVibGljOi8vMEd3a1M4cDVkU0hBTmpzcys1dkhWY2Rac1B6ekhEeTFzcGVUeldJbEZaUGVzRlpDYnhDbHNyVy9nTWNFQzZrMHEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoia29udGNlcHRjaWlhLXVzdG9pY2hpdm9nby1yYXp2aXRpaWEtaXN0b3JpY2hlc2tvZ28tcG9zZWxlbmlpYS1rYXphbmktMjAyMC5wZGYiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjE3NTAzNDA2MTQiLCJ0cyI6MTcyNzAzMTUyOTM3MSwieXUiOiI1NDkyMzExOTIxNzAyODIxNzczIn0%3D" target="_blank" class="stk-reset">разработана</a> Концепция устойчивого развития исторического поселения. В ней прописаны ограничения по размеру, высоте, типу архитектуры. Сейчас, чтобы построить что-то в центре, нужно согласовать проект у градостроительного совета, комиссии мэра и межведомственной комиссии при раисе РТ. Концепция помогает не наделать урбанистических ошибок, которые испортят вид города.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 2012 году экс-главный архитектор Барселоны Хосе Асебильо разработал концепцию застройки Суконной слободы. Так называемый «Квартал Б» на Островского должен стать «золотыми воротами» в город. Район постепенно застраивается, следующий проект — ЖК «Кастура Таун» от «КамаСтройИнвест».</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Название нового комплекса продолжает историю места — Costura от испанского «рукоделие» отсылает к суконной мануфактуре, которая появилась и работала здесь в XVIII веке. Миссия застройщика вернуть жизнь в исторический район, наполнить его забытыми функциями и сценариями.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Современная авторская архитектура не вредит ландшафту</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В центре городов немного свободной земли, поэтому на тех участках, которые удается заполучить девелоперам, обычно строят единичные объекты. ЖК «Кастура Таун» — это комплекс из семи домов, связанных стилистически и функционально. Открытое пространство между домами подойдет для променадов, а социальное и коммерческое наполнение первых этажей разнообразит инфраструктуру.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Этажность домов ЖК «Кастура Таун» соответствует допустимой высотности в историческом районе: восьмиэтажные здания отлично интегрируются в ландшафт и не нарушают концепцию квартала. Дизайн фасадов из клинкерного и ригельного кирпича отсылает к малоэтажной каменной и деревянной исторической застройке Суконной слободы и поддерживает историю места. Несколько домов ЖК будут обшиты светлым стеклофибробетоном, остальные — листами стали медного оттенка. Такое решение поможет создать стилистически единый нескучный ансамбль зданий.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkKQCyw" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">7</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">домов</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">8</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">этажей</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">76 квартир</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">в среднем в каждом доме</p></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На выбор — квартиры со свободной планировкой и возведенными перегородками</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В домах ЖК «Кастура Таун» в среднем по 76 квартир — от студий до четырехкомнатных. Есть варианты как со свободной планировкой, так и с возведенными перегородками. Все квартиры сдаются с черновой отделкой — вы можете самостоятельно выбрать качество материалов и сантехники, определить места розеток и выключателей.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В большинстве квартир есть лоджия, балкон или просторная терраса. На них можно проводить время с семьей и друзьями или организовать рабочее пространство. В квартирах на последних этажах выведен дымоход для камина — по вашему желанию, он может стать дополнением интерьера.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkYwLxr" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 29 до 159 кв. метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">площадь квартир</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 3 метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">высота потолков</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-reset wp-exclude-emoji stk-theme_29689__style_small_header" data-ce-tag="paragraph">Лоджии, балконы и террасы в большинстве квартир</h4></div></div><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/4.jpg" data-image-id="135737" srcset="https://entermedia.io/wp-content/uploads/2024/10/4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/4.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135737 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Проводить время с семьей, заниматься спортом и работать — не выходя из ЖК</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">ЖК «Кастура Таун» станет центром притяжения для горожан и безопасным комфортным пространством для жителей домов. Этого баланса достигнут с помощью вертикального зонирования. На первом этаже расположатся общественные помещения: магазины, кафе и офисы. Сквозные пешеходные бульвары между домами позволят без ограничений передвигаться по локациям. Это не только функциональное решение, но и отличный вариант для долгих прогулок после работы и в выходной. Для этого все есть: тень от деревьев, широкие противоскользящие тротуары, лавочки и магазины по пути.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На втором приватном уровне будет двор-сад с детскими и спортивными площадками и местами тихого отдыха только для жителей. Двор находится на стилобате, поэтому в него не могут попасть посторонние и машины — будьте уверены в безопасности детей во дворе в любое время дня. В тени всесезонных деревьев и кустарников удобно как расслабиться после рабочего дня, так и поработать за ноутбуком. Здесь же можно организовать пикник для всей семьи и поиграть с любимым питомцем. Третий уровень состоит из квартир. Такое деление позволит распределить поток жильцов и зонировать места отдыха — благодаря чему гулять и проводить время дома будет максимально комфортно и безопасно.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На подземном этаже место найдется и для машины, и для лыж</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На подземных этажах находятся парковки и кладовые. В каждом доме — в среднем 80 мест. Такая вместимость позволит убрать транспорт со дворов и разгрузить парковки в центре города. На въезде и выезде будут установлены умные камеры: система распознает номер машины и откроет ворота без дополнительных карт и чипов. В кладовых площадью от 1,6 до 19,95 кв. метров поместятся сезонный и спортивный инвентарь, велосипеды и многие другие вещи, которым не нашлось место в квартире.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkpGd6e" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">80 машиномест</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">в каждом доме</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 1,6 до 19,95 кв. метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">площадь кладовых помещений</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На первом этаже — коммерческая инфраструктура и места для бизнеса</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На первых этажах домов расположатся коммерческие помещения: магазины, кафе, детские центры, салоны красоты и другие проекты помогут наполнить исторический район новыми функциями. В шаговой доступности для местных жильцов и жителей из соседних домов будут любые товары, услуги и сервисы. Это хороший вариант, если вы давно искали пространство для масштабирования бизнеса или нового проекта.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkC7OiO" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">от 34,5 до 120,5 кв. метров</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">площадь коммерческих помещений</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 align-left stk-reset wp-exclude-emoji stk-theme_29689__style_small_header" data-ce-tag="paragraph">Много естественного света благодаря панорамным окнам</h4></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/1-1.jpg" data-image-id="135738" srcset="https://entermedia.io/wp-content/uploads/2024/10/1-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/1-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/1-1.jpg 1200w" data-image-name="1.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-135738 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">А еще технологии, консьерж-сервис и свой детский сад</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Территория жилого комплекса будет находиться под постоянным видеонаблюдением. Антивандальные IP камеры обеспечат спокойствие и безопасность жильцов дома 24/7. Умные домофоны с функцией Face ID и Bluetooth-управлением позволят бесконтактно попасть внутрь и удаленно впустить гостей и технический персонал.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У управляющей компании «КамаСтройИнвест» есть удобное приложение, где можно оплатить счета и оставить заявки. Если его функционала не хватит, на помощь придет консьерж. Сотрудник на ресепшене проконсультирует по вопросам работы УК, вовремя сообщит о событиях, связанных с жизнью дома, примет доставку или передаст вам документы.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На втором этаже одного из домов откроют детский садик. Это станет ключевым преимуществом для семей с маленькими детьми. Другая социальная инфраструктура находится в пешей доступности от ЖК «Кастура Таун»: до ближайшей школы, например, всего 7 минут, а до спортивного комплекса — 12 минут.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkRBBXU" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji stk-theme_29689__style_small_text" data-ce-tag="paragraph">Подробнее о «КамаСтройИнвест» и проекте ЖК «Кастура Таун» читайте <a href="https://kamastroyinvest.ru/our-projects/3" target="_blank" class="stk-reset">на сайте</a>. Там же есть удобный калькулятор подбора квартир, коммерческих помещений, машиномест и кладовых.</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Застройщик ООО «Специализированный застройщик Урбанстрой», «Специализированный застройщик Импульс Групп» и «Специализированный застройщик АртГрад» входят в группу компаний «КамаСтройИнвест». «КамаСтройИнвест» — инвестиционно-строительная компания, специализирующаяся на строительстве жилой и коммерческой недвижимости с авторской архитектурой. Строит уникальные объекты жилой и коммерческой недвижимости в Казани и реставрирует исторические здания, возвращая жизнь в знаковые уголки города. Проектная декларация <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/46861" target="_blank">дома № 1</a>, <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/46587" target="_blank">дома № 2</a>, <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/53918" target="_blank">дома № 3</a>, <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/54255" target="_blank">дома № 4</a>, <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/53690" target="_blank">дома № 5</a>, <a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/57289?id=57289&amp;objectIds=55061%2C47907%2C51043" target="_blank">дома № 6</a> и<a class="stk-reset" href="https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/59552" target="_blank"> дома №7</a>. Строительство пяти домов ведется при финансировании банка дом.рф.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__style_small_text stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Ксения Монастырская<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Изображения:</strong> Марина Никулина</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Реклама. ООО «СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК Конграда»,</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><style data-stk-css="stkC7OiO" class="" media="all">[data-stk-css="stkC7OiO"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkpGd6e" class="" media="all">[data-stk-css="stkpGd6e"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkYwLxr" class="" media="all">[data-stk-css="stkYwLxr"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkKQCyw" class="" media="all">[data-stk-css="stkKQCyw"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkRBBXU" class="" media="all">[data-stk-css="stkRBBXU"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F&title=Островского — новая Столбова: Как и зачем застраивать исторический центр&description=&image=https://entermedia.io/wp-content/uploads/2024/10/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="1" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F&text=Островского — новая Столбова: Как и зачем застраивать исторический центр" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Островского — новая Столбова: Как и зачем застраивать исторический центр&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fostrovskogo-novaya-stolbova-kak-i-zachem-zastraivat-istoricheskij-tsentr%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501078'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

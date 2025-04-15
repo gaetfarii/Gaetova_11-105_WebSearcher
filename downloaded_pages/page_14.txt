@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/12/1-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,595] -->
+<link rel="canonical" href="https://entermedia.io/city/pedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города&raquo;" href="https://entermedia.io/city/pedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501068&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501068&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501068&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='В Татарстане в течение недели образуется снежный покров высотой 10-15 сантиметров' href='https://entermedia.io/news/v-tatarstane-v-techenie-nedeli-obrazuetsya-snezhnyj-pokrov-vysotoj-10-15-santimetrov/' />
+<link rel='next' title='В Казани появился стендап-бар Comedy Crew' href='https://entermedia.io/news/v-kazani-poyavilsya-stendap-bar-comedy-crew/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-138843 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/12/1-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">9 декабря</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F&title=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F&text=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="138843">
+    <div id="post-138843" class="post-138843 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-guide">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:138848,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138847,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138846,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138845,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138844,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вы наверняка хоть раз слышали: «раньше дети росли сами по себе и нормальными вырастали» или «в школах розгами пороли и на горох ставили». Подобные высказывания об отстраненном и суровом обращении с детьми стали причиной многих заблуждений о взрослении до времен новой этики. Однако образованные городские родители в конце XIX и начале ХХ веков испытывали те же страхи за детей, какие испытывают современные мамы и папы, и так же переживали за счастье своих отпрысков.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Постоянный эксперт Enter и краевед Марк Шишкин специально для нашей редакции приоткрыл дверь в мир ответственных родителей дореволюционной Казани. Вместе с ним рассказываем, какие «развивашки» существовали в прошлом нашего города, существовал ли «мамский» чат до изобретения Telegram и почему «садовницы» воспитывали детей.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/2-2.jpg" data-image-id="138845" srcset="https://entermedia.io/wp-content/uploads/2024/12/2-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/2-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/2-2.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-138845 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С чего все началось: от неформального женского сообщества до семейно-педагогического кружка</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Главным родительским сообществом в старой Казани был семейно-педагогический кружок. Его основала выпускница казанской Мариинской гимназии, художница и учительница рисования Екатерина Семченко. Она увлеклась рациональной педагогикой и была против оторванности школьного образования от семьи. Сначала вокруг Семченко сложилось неформальное женское сообщество, а в 1899 году состоялось официальное открытие кружка.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В отличие от многих общественных организаций того времени, которые представляли собой закрытые мужские клубы, семейно-педагогический кружок по уставу включал «лиц обоего пола всех званий, состояний и вероисповеданий». Важную роль в становлении кружка сыграли профессора Казанского университета: историк античности Федор Мищенко и математик Александр Васильев. Но большинство лидерских позиций занимали женщины, и с каждым годом эта тенденция усиливалась.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кружок испытал кризис после безвременной смерти Екатерины Семченко в 1908 году, но сумел преодолеть его, и до 1917 года оставался заметным сообществом, активно влияющим на городскую среду.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Безопасные и полезные подвижные игры</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Барыням дома делать нечего, вот они и собирают детей играть», — так поначалу отзывались о новой организации скептики. Связано это было с тем, что первым заметным направлением деятельности семейно-педагогического кружка стали организованные игры для детей. Игры устраивались два раза в неделю, а дети делились на две группы: младше и старше восьми лет. У каждой подвижной игры были свои подготовленные руководительницы из числа участниц кружка. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Свои помещения для игр в холодное время предоставили две женские гимназии — Мариинская и Ксениинская (сейчас в этих зданиях находятся лицей при КФУ и Казанский научный центр РАН — прим. Enter). Кроме безопасной игры в компании сверстников, дети узнавали на собраниях кружка много нового. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Завтра 23 февраля в зале Ксениинской гимназии состоится второе собрание, которое начнется беседой для маленьких детей В.И. Егоровой “Мышь” по Богданову. Беседа будет иллюстрирована световыми картинами. Подвижные игры. Общий чай. Литературно-музыкальное отделение, в котором примет участие детский хор», — такие объявления регулярно публиковали старые казанские газеты.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/3-1.jpg" data-image-id="138846" srcset="https://entermedia.io/wp-content/uploads/2024/12/3-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/3-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/3-1.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-138846 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Детские площадки в «Русской Швейцарии», Лядском саду и на Черном озере</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Весной, летом и ранней осенью игры шли на свежем воздухе. В 1901 году по просьбе Екатерины Семченко город выделил для организации детской площадки один из холмов «Русской Швейцарии» (сейчас это Парк Горького — прим. Enter). Холм был заросший, с ямами, пнями и развалинами старых построек, но силами кружка его благоустроили. На обрыве с видом на Казанку стояла беседка, в тени деревьев расположились гимнастические снаряды и горы песка для самых маленьких, рядом была площадка для крокета и крытый павильон. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Многие из названий детских игр уже забылись. Старшие дети играли в русскую и итальянскую лапту, крикет без лапты, «колдуны» и более знакомый нам «ножной мяч». Младшие — в «салки», «ловилки», «медведи», «невод, «горелки», «пустое место», «второй лишний», «третий лишний», «черный человек», «жгуты» и «гонку мячей». «Особенной любовью пользовались “Каравай”, “Воробушки”, “Солдатики” — самые маленькие трехлетние крошки, заслышав пение, бросали песок и игрушки, и бежали в круг», — сообщает отчет семейно-педагогического кружка.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">На организации площадки в «Швейцарии» кружок не остановился. В 1907 году на пожертвование известного офтальмолога армянского происхождения Александра Агабабова была открыта детская площадка в Лядском саду. В 1915 году на средства, выделенные Городской думой, кружок открыл площадку на Чёрном озере. Именно тогда шумный парк (с богатой криминальной хроникой) стал превращаться в детское место, каким он был в советский период. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каток на месте Кабмина</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Зимой 1901 года кружок открыл бесплатный детский каток для всех желающих. Материальную поддержку оказали «Общество газ и электричество» и «Общество водоснабжения». Местом выбрали Театральный садик (он располагался позади старого городского театра, а сейчас на его месте здание Кабинета министров РТ — прим. Enetr). Каток стал настолько популярным, что не мог за раз вместить всех желающих, и пришлось ограничивать доступ.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Мамский чат» до появления интернета</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для родителей семейно-педагогический кружок был местом, где можно поговорить о воспитании и поделиться наболевшим. Активные участники кружка выступали на собраниях с докладами на темы, актуальные и сейчас: «Чему и как учить ребенка до поступления его в начальную школу», «Об одной нежелательной стороне детских сказок и книг», «Уроки с отметками и уроки без отметок». Не обходилось и без споров: в 1914 году состоялась большая дискуссия по поводу популярных у детей и подростков произведений писательницы Лидии Чарской.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Игровые и не только курсы для мам </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Многие с иронией относятся к тому, что по любому поводу в интернете существуют курсы, но это не «миллениалы изобрели», а так было в образованной среде и в начале ХХ века.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«На одном из заседаний зашла речь о том, как мало мы, матери подготовлены и в школе и дома к нашей деятельности — воспитанию детей», — вспоминала одна из участниц кружка. После этого разговора Екатерина Семченко собрала подписи 77 участниц и добилась, что в Казанском университете открылись временные педагогические курсы для женщин. Годовой практический курс по организации детских подвижных игр провела для участниц кружка, специально приехавшая в Казань специалистка Кокорева — ученица Петра Францевича Лесгафта, имя которого носит казанская улица. Занятия проводились даже в здании Городской думы, где сейчас Мэрия Казани.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/4-1.jpg" data-image-id="138847" srcset="https://entermedia.io/wp-content/uploads/2024/12/4-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/4-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/4-1.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-138847 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Волшебный фонарь: и YouTube, и PowerPoint </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтение художественных и научно-популярных книг на детских собраниях обязательно иллюстрировались «туманными картинами» с помощью «волшебного фонаря». Сохранившийся еще в советском быту проектор для диафильмов давал эффект наглядности, какой сейчас мы получаем, просматривая с детьми видеоролики или презентации.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Поскольку интересных встреч в кружке было много, вскоре пришлось налаживать собственное производство диапозитивов. Участники кружка обучились фотографии, изготовлению негативов и раскрашиванию «туманных картин». Дело пошло так успешно, что кружок стал изготавливать диапозитивы на заказ, а собственный фонд составлял более 1 000 картин. Здесь были иллюстрации к книгам по естествознанию, географии, истории, художественным произведениям. Участникам кружка выдача «волшебных фонарей» и картин производилась под залог членского билета.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Опера «Кот, Козел и Баран»</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Екатерина Семченко сама проводила воскресные уроки рисования и консультировала мам, как правильно направить склонность ребенка к рисованию. Мария Берг (мать известного советского химика Льва Берга — прим. Enter) поставила с воспитанниками музыкальной секции детскую оперу «Кот, Козел и Баран».</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Садовницы в качестве детских воспитателей </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Естественным результатам работы кружка должно было стать открытие собственного образовательного учреждения, которое бы на практике реализовывало передовые достижения педагогики. Начали в 1901 году с открытия детского сада. Как и в современных группах кратковременного пребывания, дети находились в саду не весь день, а только с 10:00 до 13:00. Профессионально подготовленную воспитательницу в газетных объявлениях именовали «садовницей». Стоимость посещения составляла пять рублей в месяц, что даже обеспеченным горожанам показалось недешево, и детский сад просуществовал недолго. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Учиться без оценок, но с родителями на уроках</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Недолгой оказалась история школы семейно-педагогического кружка, которая в 1903 году открылась в особняке Заседателевой на улице Поперечно-Покровской (ныне улица Карла Фукса — прим. Enter). </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дети в начальной школе учились в смешанных группах, оценок не было, родители могли присутствовать на всех уроках. По каждому ученику учительница вела дневник, куда записывались его успехи и неудачи, на этой основе ежегодно составлялась подробная характеристика ученика и отправлялась родителям. Сами мамы и папы регулярно заполняли анкету, где указывали: какие предметы нравятся ребенку, устает ли он и другую подобную информацию. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вся система была направлена на то, чтобы «ослабить гнетущее влияние казенной школы» на детей, но коммерчески успешным этот проект не стал. При плате 50 рублей в год многие родители предпочитали проверенный формат училищ и гимназий. Сказалась и болезнь Екатерины Семченко, поэтому школа была закрыта. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Школа для самых бедных и столовая для детей мобилизованных</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Может показаться, что деятельность семейно-педагогического кружка касалась только детей из благополучных семей. Но это далеко не так, поскольку у дореволюционной интеллигенции глубоко закрепилась идея служения народу. С первых дней участники кружка работали в «бедняцких» районах Казани. Когда зимой они раздавали бесплатные билеты на детские игры на улице Засыпкиной (ныне Федосеевской — прим. Enter), Мочальной площади (ныне улица Бурхана Шахиди — прим. Enter) или в Суконной слободе, их тут же окружали сотни ребятишек.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 1906 году кружок открыл школу для бедных детей в Суконной слободе. Располагалась она на улице 2-й Проломной (часть современной Петербургской в районе Театра кукол «Экият» — прим. Enter). Здесь учились дети ремесленников, мелких торговцев и даже профессиональных нищих, которые приходили в лохмотьях. Последнее меняли на пожертвованную одежду, а день начинали с горячего завтрака. Для некоторых детей это был единственный прием пищи в день. Учиться в Суконную слободу приходили маленькие бедняки с Калугиной горы и даже из Аметьево. Кроме учебных предметов, детей учили будущим профессиям: мальчиков — переплетному делу, девочек — шитью.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда началась Первая Мировая война, кружок открыл в Суконной слободе бесплатную столовую для детей мобилизованных солдат. Им оказывал медицинскую помощь Ефим Лепский, который в советский период станет одним из самых уважаемых врачей Казани.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/5.jpg" data-image-id="138848" srcset="https://entermedia.io/wp-content/uploads/2024/12/5-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/5-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/5.jpg 1200w" data-image-name="5.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-138848 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Почти детский конфликт Кизической слободы и Козьей </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Репутация семейно-педагогического кружка была так высока, что к нему обращались целые районы Казани. Правый берег Казанки, где сейчас начинается Московский район, был в то время неблагоустроенной окраиной с сельским укладом жизни. Здесь располагались две слободы: Козья — поближе к реке, и Кизическая, названная по монастырю, существующему и теперь.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 1912 году жители Кизической слободы пожаловались в кружок, что их дети под влиянием детей из Козьей слободы во время игр изображают как дерутся пьяные или как полицейские забирают пьяных с улицы. В ответ кружок организовал новую игровую площадку между двумя слободами. Для активных игр в Заречье были закуплены мячи, скакалки обручи, серсо и  другой инвентарь, а сами жители слобод в складчину обеспечивали детям легкий перекус.   </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мечты о детском кинотеатре</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Из проектов, которые семейно-педагогический кружок не успел реализовать, следует назвать создание в Казани детского кинематографа. Сделать кинотеатр с фильмами для маленьких было дорогой идеей, поэтому в 1913 году кружок даже организовал литературно-музыкальный вечер со сбором. Дальше дело не пошло, но и без кинотеатра размах деятельности активных родителей в старой Казани удивляет даже из XXI века.</p><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Марк Шишкин<br><strong class="stk-reset">Изображения:</strong> Марина Никулина</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F&title=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F&text=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Педагогика, инфраструктура, равенство: Как родительский кружок в старой Казани изменил подход к воспитанию детей всего города&related=truemisha&hashtags=Гид Enter&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpedagogika-infrastruktura-ravenstvo-kak-roditelskij-kruzhok-v-staroj-kazani-izmenil-podhod-k-vospitaniyu-detej-vsego-goroda%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501068'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

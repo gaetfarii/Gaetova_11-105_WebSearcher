@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием» | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/11/2-13.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,545] -->
+<link rel="canonical" href="https://entermedia.io/food/retsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»&raquo;" href="https://entermedia.io/food/retsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501092&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501092&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501092&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='На Баумана организуют бесплатное и анонимное тестирование на ВИЧ' href='https://entermedia.io/news/na-baumana-organizuyut-besplatnoe-i-anonimnoe-testirovanie-na-vich-2/' />
+<link rel='next' title='Smorodina, «Казань глазами инженера» и другие' href='https://entermedia.io/city/smorodina-kazan-glazami-inzhenera-i-drugie/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-138396 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/11/2-13.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием» <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/03/IMAGE-2022-03-16-193215-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Инзиля Шакирова</div>
+          <div class="date-publish">29 ноября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F&title=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»&description=&image=https://entermedia.io/wp-content/uploads/2024/11/2-13-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F&text=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="138396">
+    <div id="post-138396" class="post-138396 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-novoe-mesto">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:138417,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138414,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138412,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138413,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138415,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138411,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138410,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138409,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138408,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138406,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138407,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138405,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138403,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138402,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138404,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138400,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138401,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138399,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138398,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:138397,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">24 ноября, в День Матери, в открывшемся «АРТ Центре» начал работу ресторан татарской кухни «Энием» от создателей итальянских бистро Olio. Это заведение с уютным интерьером, рассчитанное на семейную аудиторию, в котором готовят традиционные и современные татарские блюда по рецептам «наших мам».</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter побывала в ресторане в числе первых: изучила интерьер, попробовала позиции от шефа и поговорила с командой. Рассказываем, какая концепция заложена в основу нового ресторана, как создавался дизайн проекта и что точно стоит заказать из меню и карты бара.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/2-11.jpg" data-image-id="138400" data-image-name="2.jpg" class="stk-image stk-reset wp-image-138400 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/2-11-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/2-11-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/2-11.jpg 1200w" width="1200" height="800" loading="lazy"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/6-2.jpg" data-image-id="138405" srcset="https://entermedia.io/wp-content/uploads/2024/11/6-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/6-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/6-2.jpg 1200w" data-image-name="6.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138405 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Предыстория и концепция</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Основатели ресторана Тимур и Ольга Хайрутдиновы «подписали» локацию у застройщика уже давно — еще на этапе строительства — и стали первым гастро-проектом в тогда еще только планируемом торговом центре ART. Живя в ЖК ART City, Тимур и Ольга сами столкнулись с проблемой отсутствия поблизости ресторанов с семейными концепциями и хорошей кухней, поэтому приняли решение открывать свое.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После чего буквально по пазлам начала складываться будущая концепция ресторана. Для названия Ольга самостоятельно изучила русско-татарский словарь и выписала оттуда понравившиеся по значению слова, а после — предложила фокус-группе выбрать наиболее удачное. Большинство голосов отдали слову «әнием» — от татарского «мамочка» или «моя мама», поэтому было принято решение использовать именно его, чуть осовременив и написав с использованием русской буквы «э». Так и родилось слово — «энием», вокруг которого и выстроилась дальнейшая работа.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><h5 class="stk-theme_29689__mb_0 stk-reset wp-exclude-emoji stk-theme_29689__style_font_style-1490606702672" data-ce-tag="paragraph">Энием </h5><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Адрес:</strong><br data-gtm-vis-has-fired10171822_255="1">ул. Николая Ершова, 62 (торговый центр ART)</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Режим работы:</strong><br data-gtm-vis-has-fired10171822_255="1">Ежедневно, 10:00 — 22:00</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Средний чек:</strong><br>1 500₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Бронь столов: </strong>+7 (843) 212-23-77</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkJRm6B" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/1-Olga.png" data-image-id="138397" data-image-name="1 Ольга.png" class="stk-image stk-reset  wp-image-138397 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/1-Olga-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/11/1-Olga.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ольга Хайрутдинова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основательница ресторана «Энием»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Каждое пространство, которое создает наша команда, мы пропускаем через себя. У нас двое детей, и мы любим проводить время всей семьей. Но ехать в какое-либо заведение из этого района [ЖК ART City] около 20 минут — либо в центр, либо на другой берег. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тогда мы поняли, что спрос на гастро-проекты есть, и стали искать локацию. Как только подписали договор, поняли, что пойдем в «семейную» историю и будем открывать заведение, нацеленное именно на эту аудиторию.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/5-1.jpg" data-image-id="138403" srcset="https://entermedia.io/wp-content/uploads/2024/11/5-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/5-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/5-1.jpg 1200w" data-image-name="5.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138403 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/4-5.jpg" data-image-id="138402" srcset="https://entermedia.io/wp-content/uploads/2024/11/4-5-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/4-5-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/4-5.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138402 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">После чего буквально по пазлам начала складываться будущая концепция ресторана. Для названия Ольга самостоятельно изучила русско-татарский словарь и выписала оттуда понравившиеся по значению слова, а после — предложила фокус-группе выбрать наиболее удачное. Большинство голосов отдали слову «әнием» — от татарского «мамочка» или «моя мама», поэтому было принято решение использовать именно его, чуть осовременив и написав с использованием русской буквы «э». Так и родилось слово — «энием», вокруг которого и выстроилась дальнейшая работа.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Команда проекта хотела передать всю душевность, искренность и гармонию, которая зачастую царит в домах татарских семей и отдать дань всем матерям. Именно поэтому заведение «наполнилось» отсылками к материнским сюжетам: в интерьере появились картины с изображением мам и детей, блюда готовят по рецептам, собранным у разных матерей, а инфраструктура полностью готова ко встрече молодых мам с новорожденными или более взрослыми детьми: для них есть комната матери и ребенка и просторная детская комната, в которой работает специально обученная команда аниматоров. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkphDm9" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/Timur.png" data-image-id="138399" data-image-name="Тимур.png" class="stk-image stk-reset  wp-image-138399 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/Timur-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/11/Timur.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тимур Хайрутдинов</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основатель ресторана «Энием» </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Когда мы рассказывали о названии, увидели, что самый теплый отклик был от наших мам. Это стало важным для нас — создавать проекты, которые радуют разные поколения: наших мам, наших детей, да и нас самих. Так появился «Энием» — татарский ресторан в современном прочтении, с авторскими акцентами, но с сохранением традиций. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Здесь есть и пельмешки жениха, и борщ по маминому рецепту, и треугольники, и элеши. За всеми рецептами этим стоит большая история и ценности, которые передаются из семьи в семью.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/3-9.jpg" data-image-id="138404" srcset="https://entermedia.io/wp-content/uploads/2024/11/3-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/3-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/3-9.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138404 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/9-4.jpg" data-image-id="138408" srcset="https://entermedia.io/wp-content/uploads/2024/11/9-4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/9-4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/9-4.jpg 1200w" data-image-name="9.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138408 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Интерьер </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дизайну ресторана стоит уделить особое внимание, ведь его детали буквально создавались вручную и собирались по крупицам. Большое светлое пространство можно условно поделить на несколько блоков: зону обособленных столиков у окон, открытую кухню с печью и барной стойкой, а также отдельно стоящие детскую комнату и VIP-зал. Все они объединены кремовыми, бежевыми и белыми оттенками, создающими домашнюю и уютную обстановку. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Повсеместно в ресторане присутствуют национальные орнаменты: в виде тюльпана, цветов и узоров — у каждого из них есть своя история и обозначение. А вдохновлялась команда на небольших рынках, на которые даже специально выезжали в деревни, историями из книг и рассказами друзей и знакомых.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkjcM9r" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/Rimma.png" data-image-id="138398" data-image-name="Римма.png" class="stk-image stk-reset  wp-image-138398 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/Rimma-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/11/Rimma.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Римма Галямова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">PR-директор ресторана «Энием»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По всему ресторану есть наш фирменный узор, на первый взгляд, вы его не заметите, но он спрятан везде — и в лепнине, и в меню, и даже на форме наших сотрудников. Мы подошли к этому очень ответственно: ездили в библиотеку, читали книги и узнали о узоре, символизирующим единство матери и ребенка, который раньше вышивали на колыбелях.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Дизайнер разработал асимметричный узор, где один завиток короче другого, — это длина запястья основательницы ресторана Ольги и ее дочки Алисы, которые соединяются в форме сердца и символизируют единение матери и ребенка. Узор изображен на форме сотрудников и присутствует на разных носителях в ресторане. </p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В самом центре зала находится большая картина с изображением матерей и дочерей разных поколений — это дань уважения и благодарности женской линии каждого рода. Картина с материнским сюжетом размещена и в комнате матери и ребенка, в которой создали оазис спокойствия и умиротворения. А еще атмосферу уюта и тепла создает множество сухоцветов, размещенных по всему ресторану.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Столы, выполненные из натурального дерева, также украшены композициями из сухоцветов, залитых в эпоксидную смолу. На одной из стен ресторана можно увидеть панно с изображением гусей — символа верности и семейных ценностей в татарской культуре. Это произведение выполнено вручную и стало не только декоративным элементом, но и своеобразным центром притяжения взглядов. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Деревянные детали, такие как резные балки на стенах, барной стойке и мебели, добавляют пространству текстуры и глубины, создавая ощущение близости к природе. Каждая деталь интерьера рассказывает свою историю и создает уникальную атмосферу, именно поэтому каждый гость приходит в заведение не просто поесть, а погрузиться в богатую культуру и традиции татарского народа.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/7-2.jpg" data-image-id="138414" srcset="https://entermedia.io/wp-content/uploads/2024/11/7-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/7-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/7-2.jpg 1200w" data-image-name="7.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138414 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кухня</h4></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="3" class="stk-grid-col" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Меню ресторана, конечно же, сосредоточено на татарской кухне и ее традициях. Для того, чтобы собрать аутентичные рецепты, команда проекта ходила в гости к семьям, в которых сильны татарские и семейные ценности, передающиеся из поколения в поколение. Так, бренд-шеф и повара побывали у мамы основателя заведения Тимура Хайрутдинова и пробовали ее блюда, а также съездили в гости к бабушке блогера Алии Резяповой (Аляски). Изучали и конкурентов — обращали внимание на используемое ими оборудование, например, печи, интересные интерпретации блюд и концепции.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Все собранные рецепты и знания удалось объединить в обширном меню с 11 разделами, в котором значатся завтраки, холодные закуски, салаты, супы, татарские блюда из печи, фирменные блюда на вертеле, горячее, татарские сладкие пироги и десерты. Шеф-повар использует свежие местные продукты, что позволяет сохранить подлинность вкусов и подчеркнуть богатство татарской кухни. Каждое блюдо подается с заботой и вниманием к деталям, а дружелюбный персонал всегда готов поделиться знаниями о традициях и культуре татарского народа, чтобы каждый гость узнал о них подробнее. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__profile" data-ce-tag="container" data-container-name="Profile"><p class="stk-theme_29689__style_small_text stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Что заказывать:</strong></p><hr class="stk-theme_29689__separator_divider_1 stk-reset"><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Домашнее лечо по маминому рецепту — 530₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Азу из печи — 950₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Утка запеченная на вертеле со слоеной домашней лепешкой из печи и соусом из катыка — 3 000₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Фирменный торт от Энием — 650₽</p><p class="stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Татарский чай с молоком и татарскими специями — 550₽ за чайник, 1 600 ₽ за самовар</p></div></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/5-2.jpg" data-image-id="138413" srcset="https://entermedia.io/wp-content/uploads/2024/11/5-2-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/5-2-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/5-2.jpg 1200w" data-image-name="5.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138413 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkPT_Jn" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/2024-11-29-19.43.59.png" data-image-id="138417" data-image-name="2024-11-29 19.43.59.png" class="stk-image stk-reset  wp-image-138417 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/2024-11-29-19.43.59-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/11/2024-11-29-19.43.59.png 766w" width="766" height="766" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Эльдар Хахоков</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">бренд-шеф </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы хотели передать основы татарской кухни в ресторанном формате, поэтому немного переработали рецепты, но сохранили изюминку каждого. У нас гости ощущают себя как дома: будто бы приехали к бабушке поесть оладушек или к маме на кыстыбый и вкусный чай. Кухня получилась по-настоящему домашней, ведь мы не сделали ничего сверхъестественного.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Наша команда просто хотела поставить кухню, блюда которой напомнят каждому гостю о доме. Многие люди сейчас работают, бегают по делам, а потом приходят в пафосные рестораны и играют роли. А у нас в «Энием» каждый может быть настоящим и съесть то, что он действительно хочет, например, котлету с кашей или пюре. </p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/4-6.jpg" data-image-id="138415" srcset="https://entermedia.io/wp-content/uploads/2024/11/4-6-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/4-6-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/4-6.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138415 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Начинать день в «Энием» советуем с завтраков, которые подают с самого открытия ресторана до 16:00. Если вы любитель сытных каш, то для вас в ресторане много вариантов — например, пшенная каша с печеной тыквой и орехами пекан, овсяная каша с ягодами на миндальном молоке и холодная рисовая каша с медом и изюмом,</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">приготовленная на катыке. К ним можно взять коймак, похожие на пышные оладушки, с теплым топленым молоком или сырники и домашнего творога с добавлением цедры апельсина со сметаной и смородиновым вареньем.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для любителей соленых завтраков такое же разнообразие из девяти позиций. Если хотите съесть что-то сытное на весь день, то заказывайте шкатулку из бриоши, скрэмбл с грибами и сырный мусс; глазунью с домашними колбасками, рукколой, томатами и соленым огурцом или бриошь с рваной телятиной и сырным соусом. А еще в меню есть татарский завтрак, в который входит казылык, запеченный картофель, каймак из печи, томаты, два яйца и соус из катыка. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Блюда из основного меню подают с 11:00. В разделе холодных закусок можно найти лечо по рецептам мамы бренд-шефа. Эльдар Хахоков вспоминает, как в детстве они «закручивали» их всей семьей, обязательно добавляя в баночки орехи. А отец Эльдара ел лечо непременно со сметаной, поэтому в «Энием» лечо подают с каймаком со страчателлой. Также из этого раздела заказывайте вяленую утку, карпаччо из рубленой конины, украшенное сушеной клюквой, паштет из утиной печени с вареньем из черной смородины, который подается со злаковыми тостами. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Из раздела салатов особенно советуем пастилу из свеклы с сырно-медовой начинкой и хурмой — это гармония вкусов, где сладость свеклы и меда прекрасно дополняется нежным сливочно-сырным начинкой с грецкими орехами и изюмом. Подается этот салат с хрустящей рукколой, создавая легкое и освежающее блюдо, идеально подходящее для начала трапезы. Не менее интересен салат с запеченным гусем, в котором хрустящие листья сочетаются с нежным мясом гусиного филе и освежающе-острым соусом, придающим блюду неповторимый вкус. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Пожалуй, два самых главных раздела — татарские блюда из печи и фирменные блюда на вертеле. Шеф готовит: коймак — оладушки из печи со взбитым маслом и медом, к которому можно заказать сметану или варенье из смородины, элеш с начинкой из картофеля и цыпленка, обжаренные до золотистой корочки кыстыбый и эчпочмак с начинкой из картофеля и говядины. Если планируете ужин в большой компании, заказывайте одну из трех позиций блюд, приготовленных на вертеле: бок ягненка, утку или гуся. В качестве основного особенно советуем пробовать котлету с томленой полбой и грибным рагу, азу из печи, жаркое по-татарски «Кыздырма» и полбу из печи с уткой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ну а на десерт — трехслойный пирог с курагой, черносливом и лимоном, который подается с фисташковым мороженым собственного производства, чак-чак, талкыш-калеве, три вида тортов и пельмени из пластичного белого шоколада с ягодами и домашней сгущенкой внутри. Если только начинаете знакомство с татарскими сладостями, берите шкатулку, в которой собрали только жемчужины сладких традиций народа.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/3-10.jpg" data-image-id="138411" srcset="https://entermedia.io/wp-content/uploads/2024/11/3-10-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/3-10-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/3-10.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138411 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkDrUB-" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/1-Olga.png" data-image-id="138397" data-image-name="1 Ольга.png" class="stk-image stk-reset  wp-image-138397 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/11/1-Olga-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/11/1-Olga.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ольга Хайрутдинова</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">основательница ресторана «Энием»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы предполагаем, гости будут говорить нам о том, что их мама готовила то или иное блюдо по-другому, по своей собственной рецептуре. Именно поэтому мы предлагаем поделиться с нами вашими семейными рецептами или блюдами, придуманными именно вашей мамой. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Оставьте заявку через соцсети, а команда «Энием» подробно изучит рецепт, интерпретирует его в ресторанную подачу и внедрит в меню. Кстати, совсем скоро в нем появится и спешл от блогера Аляски, в котором мы собрали блюда, любимые ее семьей.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/11/1-12.jpg" data-image-id="138409" srcset="https://entermedia.io/wp-content/uploads/2024/11/1-12-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/11/1-12-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/11/1-12.jpg 1200w" data-image-name="1.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset wp-image-138409 img-responsive"></div></figure></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Бар </h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В силу концепции в ресторане отказались от алкогольных напитков и сделали упор на чай, кофе, лимонады и смузи. Так, конечно же, в карте бара можно найти татарские чаи, которые подают в чайниках и самоварах. Благодаря ним в заведении еще больше раскрывают богатство национальной культуры: обязательно пробуйте чай с молоком и специями, чай  с черносливом и курагой на основе липы, а также чай с шиповником, листьями смородины и мятой.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Представлены и авторские позиции, в которых объединили современное прочтение и историю. Советуем заказывать чай с домашней облепихой и грушей, в котором сочетаются сладость и небольшая кислинка, и чай с садовой клюквой, можжевельником и Иван-чаем </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Большим спросом всего за несколько дней открытия начали пользоваться лимонады, смузи и свежевыжатые соки, в которых смешиваются свежие ягоды и фрукты. Традиционно представлена кофейная классика и три авторских напитка: латте «Бабушкин пирог» с отсылкой к шарлотке, латте «Из летнего сада» и нежная матча «Ваниль — кокос». </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По опыту работы бара в итальянском бистро Olio команда решила ввести в «Энием» и безалкогольное вино. Они по-настоящему удивляют утонченным вкусом, легкостью и фруктовыми нотками. Так, ищите в карте бара красные и белые вина с насыщенным вкусов винограда, а также безалкогольное просекко. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Инзиля Шакирова<br><strong class="stk-reset">Фото:</strong> Саша Копылов </p></div></div><style data-stk-css="stkDrUB-" class="" media="all">[data-stk-css="stkDrUB-"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkPT_Jn" class="" media="all">[data-stk-css="stkPT_Jn"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkjcM9r" class="" media="all">[data-stk-css="stkjcM9r"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkphDm9" class="" media="all">[data-stk-css="stkphDm9"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkJRm6B" class="" media="all">[data-stk-css="stkJRm6B"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F&title=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»&description=&image=https://entermedia.io/wp-content/uploads/2024/11/2-13-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="5" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">5</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F&text=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Рецепты наших мам: В «АРТ Центре» открылся ресторан татарской кухни «Энием»&related=truemisha&hashtags=Новое место&url=https%3A%2F%2Fentermedia.io%2Ffood%2Fretsepty-nashih-mam-v-art-tsentre-otkrylsya-restoran-tatarskoj-kuhni-eniem%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="4" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501092'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/09/2-10.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,552] -->
+<link rel="canonical" href="https://entermedia.io/city/pyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина&raquo;" href="https://entermedia.io/city/pyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501189&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501189&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501189&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Благоустройство первой очереди бульвара на Серова хотят завершить в октябре' href='https://entermedia.io/news/blagoustrojstvo-pervoj-ocheredi-bulvara-na-serova-hotyat-zavershit-v-oktyabre/' />
+<link rel='next' title='Заключительный шахматный турнир летнего сезона пройдет на Черном озере' href='https://entermedia.io/news/zaklyuchitelnyj-shahmatnyj-turnir-letnego-sezona-projdet-na-chernom-ozere/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-134556 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/09/2-10.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">12 сентября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F&title=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина&description=&image=https://entermedia.io/wp-content/uploads/2024/09/2-10-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="3" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F&text=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="134556">
+    <div id="post-134556" class="post-134556 post type-post status-publish format-standard has-post-thumbnail hentry category-city tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:134558,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134560,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134559,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134561,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134562,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134563,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134566,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134565,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134564,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134568,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134567,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134570,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134569,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134571,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134576,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134575,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134574,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134573,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:134572,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С 2015 году Казань то и дело появляется в туристических топах благодаря современным общественным пространствам по всему городу. Где-то парки и скверы стоили с нуля, а в отдельных районах возвращали к жизни существующие территории.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тем не менее, есть несколько бульваров и садов, которые по разным причинам исчезли с карты навсегда. По просьбе Enter краевед и наш постоянный эксперт Марк Шишкин посвятил им первую авторскую колонку. Читайте, откуда прежде горожане любовались на реку, в каком саду дебютировал Шаляпин и какое место на Кольце до революции было зеленым оазисом. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кремлевский бульвар</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/1-10.jpg" data-image-id="134558" srcset="https://entermedia.io/wp-content/uploads/2024/09/1-10-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/1-10-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/1-10.jpg 1200w" data-image-name="1.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134558 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кремлевский бульвар — одно из старейших не сохранившихся зеленых пространств Казани. Деревья у Казанского кремля высадили в середине XIX века, и это было единственное место в городе, которое называли бульваром. С его высоты казанцы каждую весну любовались видами разлившихся вод Волги и Казанки.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/2-11.jpg" data-image-id="134560" srcset="https://entermedia.io/wp-content/uploads/2024/09/2-11-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/2-11-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/2-11.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134560 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«На расстоянии восьми верст и более глазам вашим представляется водная равнина, на которой повсюду плывут барки и другие суда, несутся лодки и челноки. Со всех сторон между тем раздаются громкие клики живой деятельности промышленной. Приятнейшее зрелище открывает здесь вечерняя заря, отражаясь в самой воде, и самый закат солнца», — писала газета «Казанские губернские ведомости» в 1843 году.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/3-7.jpg" data-image-id="134559" srcset="https://entermedia.io/wp-content/uploads/2024/09/3-7-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/3-7-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/3-7.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134559 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">К началу ХХ века Кремлевский бульвар пришел в беспорядок, но озеленение продолжалось здесь и в советский период — деревья еще присутствуют на фотографиях 1990-х. К началу XXI века приняли решение снести историческую застройку кварталов под Кремлем, а деревья спилить, чтобы лучше был виден кремлевский архитектурный ансамбль. Стало ли лучше? Каждый ответит по-своему. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Банноозерский сад</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/4-5.jpg" data-image-id="134561" srcset="https://entermedia.io/wp-content/uploads/2024/09/4-5-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/4-5-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/4-5.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134561 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Многие парки и скверы Казани появились на месте озер. К примеру, самый старый парк в центре Казани «Черное озеро» возник вокруг исторического водоема, который засыпали в конце XIX века, а Ленинский сад (бывший Николаевский, — прим. Марка Шишкина) посадили в 1892 году на месте прежнего Белого озера. Куда реже вспоминают про соседнее Банное озеро и разбитый на его месте Банноозерский сад.</p><figure class="stk-layout__overhangs_right stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/5-3.jpg" data-image-id="134562" srcset="https://entermedia.io/wp-content/uploads/2024/09/5-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/5-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/5-3.jpg 1200w" data-image-name="5.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134562 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Банное озеро располагалось на улице Чернышевского, где сейчас стоит жилой комплекс Odette. Оно получило название от бань, существовавших там еще в ханские времена. Как и другие казанские озера, Банное страдало от загрязнения и было засыпано в 1845 году по решению губернатора Сергея Шипова. На его месте высадили деревья и разбили сад.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Чтобы легко переходить из Черноозерского сада в новый Банноозерский, между ними соорудили подземный туннель. Правда, интересная идея обернулась конфузом: его стали использовать как общественный туалет и дали ироничное прозвище «Шипова дыра» по фамилии активного губернатора-строителя.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">С 1890 года большая часть Банноозерского сада была занята зданием первого стационарного казанского цирка. Когда в 1961 году старый цирк закрыли, территория бывшего сада стала автостоянкой. Проект постройки на этом месте здания Центральной республиканской библиотеки (ныне Национальная библиотека РТ, — прим. Марка Шишкина) так и остался нереализованным.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Державинский сад</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/6-3.jpg" data-image-id="134563" srcset="https://entermedia.io/wp-content/uploads/2024/09/6-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/6-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/6-3.jpg 1200w" data-image-name="6.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134563 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Площадь Свободы раньше называлась Театральной и была спланировала совершенно иначе: на месте памятника Ленину в дореволюционной Казани стоял городской театр, а перед ним располагался один из самых ухоженных скверов — Державинский.</p><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/7-3.jpg" data-image-id="134564" srcset="https://entermedia.io/wp-content/uploads/2024/09/7-3-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/7-3-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/7-3.jpg 1200w" data-image-name="7.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134564 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По воспоминаниям казанского краеведа Николая Загоскина, сад высадили в 1872 году «на пустом и пыльном плаце, служившем местом воинский учений». Поводом для устройства стал перенос памятника поэту Гавриилу Державину, чье детство и молодость прошли в Казани, c территории университета на Театральную площадь.</p><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/9.jpg" data-image-id="134565" srcset="https://entermedia.io/wp-content/uploads/2024/09/9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/9.jpg 1200w" data-image-name="9.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134565 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В Державинском саду были цветочные клумбы, фонтан и беседка, где продавали минеральные воды и кумыс. Но так как Державин считался дворянским поэтом, в 1931 году памятник снесли и позже на месте сада построили Театр оперы и балета.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Панаевский сад</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/12.jpg" data-image-id="134567" srcset="https://entermedia.io/wp-content/uploads/2024/09/12-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/12-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/12.jpg 1200w" data-image-name="12.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134567 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме общественных садов, в дореволюционной Казани было несколько частных. Они представляли собой настоящие развлекательные центры с музыкой и ежевечерними шоу-программами. Из уцелевших бывших частных садов можно вспомнить Эрмитаж — правда, там уже ничего не напоминает место из светской хроники.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/13.jpg" data-image-id="134570" srcset="https://entermedia.io/wp-content/uploads/2024/09/13-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/13-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/13.jpg 1200w" data-image-name="13.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134570 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Меньше Эрмитажа повезло Панаевскому саду — самому престижному из казанских частновладельческих садов. В ХХ веке на его месте построили стадион «Динамо», дворец детского творчества имени Абдуллы Алиша и одно из 9-этажных университетских общежитий.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Панаевский сад получил название по фамилии культурных дворян, чей дом находился здесь же на Большой Лядской улице — ныне Горького, 12. Владения семьи внутри квартала было решено превратить в сад с развлечениями и платным входом. Место для отдыха в 1878 году организовал Лиодор Панаев (1817-1886) и унаследовал сын Ахиллес. В качестве партнера выступил Фердинанд Грахе — аптекарь немецкого происхождения, который наладил в Казани производство минеральных и фруктовых вод.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/11.jpg" data-image-id="134568" srcset="https://entermedia.io/wp-content/uploads/2024/09/11-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/11-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/11.jpg 1200w" data-image-name="11.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134568 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В 1887 году Панаевский сад был первым местом в Казани, где появилось электрическое освещение. Цена за вход в сад на рубеже XIX-ХХ веков составляла 25 копеек с человека, а за хорошее место перед открытой сценой летнего театра можно было заплатить и 75. И это при том, что кружка пива с завода Оскара Петцольда в садовом павильоне «Восточная Бавария» стоила 6 копеек! Впрочем, желающие просто выпить пива шли в бесплатный парк на Черном озере или в любую портерную, не смешиваясь с респектабельной публикой Панаевского сада.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/10.jpg" data-image-id="134569" srcset="https://entermedia.io/wp-content/uploads/2024/09/10-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/10-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/10.jpg 1200w" data-image-name="10.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134569 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Готовых заплатить летними вечерами ожидали спектакли, оперетты, оркестровая музыка, шансоньетные певицы, танцовщики, тир, кегельбан и бильярд, а зимой — другие сезонные активности. «Сегодня 6 января в саду Панаева на катке будет играть оркестр военной музыки, и весь каток роскошно убран и освещен электричеством. Последний вечер будет гореть электрическая елка и звезды. На катке непродолжительным временем будет бег на призы состязанием велосипедиста с конькобежцами и будет устроена электрическая ветряная мельница в три сажени вышины», — писала газета «Волжский вестник» в 1899 году. Кстати, именно в Панаевском саду состоялся театральный дебют 14-летнего Федора Шаляпина — и закончился полным провалом: выйдя на сцену, он переволновался и не смог произнести ни слова.  </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сад имени Баумана</h4></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/19.jpg" data-image-id="134575" srcset="https://entermedia.io/wp-content/uploads/2024/09/19-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/19-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/19.jpg 1200w" data-image-name="19.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134575 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Тренд первых советских десятилетий — превращение в сады и скверы бывших торговых площадей. Часть парковых пространств, возникших таким образом, сохраняется до нашего времени. Среди них нынешнее благоустроенное модное место — сад имени Кирова между улицами Московской и Столбова на территории Сенного базара. В худшем положении оказался сквер на месте торговой Мочальной площади вблизи улицы Бурхана Шахиди, где любят коротать время бездомные и маргиналы, а сквер на месте бывшего Толкучего рынка вдоль улицы Профсоюзной совсем запущен.</p><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/14.jpg" data-image-id="134573" srcset="https://entermedia.io/wp-content/uploads/2024/09/14-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/14-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/14.jpg 1200w" data-image-name="14.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134573 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/16.jpg" data-image-id="134572" srcset="https://entermedia.io/wp-content/uploads/2024/09/16-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/16-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/16.jpg 1200w" data-image-name="16.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134572 img-responsive"></div></figure><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/09/15.jpg" data-image-id="134571" srcset="https://entermedia.io/wp-content/uploads/2024/09/15-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/09/15-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/09/15.jpg 1200w" data-image-name="15.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-134571 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Полностью утрачен существовавший в 1930-е сад имени Николая Баумана на Кольце. Когда-то это тоже была торговая Рыбнорядская площадь, и после революции ее решили озеленить. В центре сквера с 1934-го до 1937 года стоял памятник революционеру, в честь которого назывался центральный район Казани и до сих пор называется главная пешеходная улица. Из-за оживленного движения садом пришлось пожертвовать, а памятник перенесли к бывшему Ветеринарному институту, где сейчас завод «Электроприбор».</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Текст:</strong> Марк Шишкин<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Фото:</strong> Кремлевский бульвар — архив Национального музея РТ, Евгений Канаев, О. В. Огнев; Баннозерский сад <em class="stk-reset">—</em> А.А. Рончевский, вырезка из газеты «Вечерняя Казань»;&nbsp;Державинский сад — почтовая открытка из цифрового архива Российской государственной библиотеки, предоставлено паблику <a class="stk-reset" href="https://vk.com/kazanhistory" target="_blank">«Старая Казань»</a> Владимиром Сухаревым, сайт pastvu;&nbsp;Панаевский сад — фотоблог Вадима Кондратьева, А.И. Бренинг, страница lj_humus в liveinternet, фрагмент открытки издательства Писчебумажного магазина Ю.Г. Ивановой с сайта pastvu;&nbsp;Сад имени Баумана — сайт&nbsp;pastvu, архив Музейного комплекса города Казани,&nbsp;сайт pastvu,&nbsp;сайт pastvu<br data-gtm-vis-has-fired10171822_255="1"><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">Дизайн обложки:</strong> marinaradio</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F&title=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина&description=&image=https://entermedia.io/wp-content/uploads/2024/09/2-10-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="3" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">3</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F&text=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Пять бульваров и садов Казани, которые мы потеряли. Колонка краеведа Марка Шишкина&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fcity%2Fpyat-bulvarov-i-sadov-kazani-kotorye-my-poteryali-kolonka-kraeveda-marka-shishkina%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="1" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">1</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501189'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

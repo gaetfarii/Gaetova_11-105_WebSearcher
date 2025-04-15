@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу» | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/10/02-1.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,544] -->
+<link rel="canonical" href="https://entermedia.io/people/krugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»&raquo;" href="https://entermedia.io/people/krugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501141&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501141&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501141&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Fauzia запустила сайд-проект Defne и представила первый сингл' href='https://entermedia.io/news/fauzia-zapustila-sajd-proekt-defne-i-predstavila-pervyj-singl/' />
+<link rel='next' title='На время подготовки и проведения саммита БРИКС в Казани ограничат парковку' href='https://entermedia.io/news/na-vremya-podgotovki-i-provedeniya-sammita-briks-v-kazani-ogranichat-parkovku/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-136093 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/10/02-1.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу» <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="http://entermedia.io/wp-content/uploads/2017/10/avatar_user_11_1509021624-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Редакция Enter</div>
+          <div class="date-publish">11 октября</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F&title=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»&description=&image=https://entermedia.io/wp-content/uploads/2024/10/02-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F&text=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»&related=truemisha&hashtags=Кто пришел&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="136093">
+    <div id="post-136093" class="post-136093 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-kto-prishel">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:137306,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136096,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136097,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136098,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136100,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136102,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136101,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136104,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136103,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136109,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136108,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136107,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136106,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136105,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:136110,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:&quot;xIjDGa1USuSBh3o6yPl6q&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">По официальным прогнозам, около 2 000 000 туристов посетят российские заводы, фабрики и офисы компаний в 2024 году — это в полтора раза больше, чем в прошлом. Промышленный туризм позволяет людям заглянуть за кулисы производственного процесса, узнать о технологиях и инновациях, а также познакомиться с историей и культурой промышленности определенного региона или страны.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">«Казаньоргсинтез» запустил экскурсии на производства в 2022 году. За это время более 4 000 туристов побывали на промышленной площадке предприятия. Редакция Enter тоже не осталась в стороне и присоединилась к очередной группе. Выяснили у участников экскурсии, почему они занимаются промышленным туризмом, а также узнали, из чего получаются продукты для ЖКХ, медицины, автопрома и многих других важных отраслей.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/06.jpg" data-image-id="136104" srcset="https://entermedia.io/wp-content/uploads/2024/10/06-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/06-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/06.jpg 1200w" data-image-name="06.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136104 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><h4 class="stk-theme_29689__style_small_header stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Как рождаются полимеры</h4><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Яркие огни и километры труб. Таким предстал вечерний «Казаньоргсинтез» перед гостями открытой экскурсии. Погрузиться в мир высоких химических технологий собрались казанцы разных профессий и возрастов.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Безопасность&nbsp;— превыше всего. Поэтому событие стартовало с обязательного инструктажа по технике безопасности. Автобусная экскурсия по предприятию охватывает весь производственный маршрут. Во время нее гости узнали, как работает круглосуточное производство полимеров и в какой последовательности проходит процесс создания гранул.  </p><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/05.jpg" data-image-id="136108" srcset="https://entermedia.io/wp-content/uploads/2024/10/05-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/05-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/05.jpg 1200w" data-image-name="05.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136108 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Остановка на маршруте — обновленный административно-бытовой корпус предприятия № 435. Здесь гости познакомились с основной продукцией предприятия&nbsp;— гранулами полиэтилена и поликарбоната. Из них можно сделать самые необходимые продукты для автомобилестроения, медицины, ЖКХ, сельского хозяйства и других отраслей. Участники узнали, какие полимеры на ощупь, а также попробовали найти их в повседневности и даже в детских игрушках. Оказалось, полимеры в буквальном смысле вокруг людей: даже отделка отремонтированного корпуса, где находились гости, содержит местные материалы.</p><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/03.jpg" data-image-id="136101" srcset="https://entermedia.io/wp-content/uploads/2024/10/03-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/03-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/03.jpg 1200w" data-image-name="03.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136101 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Гранулы&nbsp;— это основа, но как получается конечный продукт? Ответ на этот вопрос гостям подсказали представители компании Danaflex, которые также приехали на экскурсию. Они показали, во что превращаются гранулы СИБУРа на заводах партнеров. Например, фантик от конфеты когда-то был природным газом.</p><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/IMAGE-2024-11-08-110214.jpg" data-image-id="137306" srcset="https://entermedia.io/wp-content/uploads/2024/10/IMAGE-2024-11-08-110214-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/IMAGE-2024-11-08-110214-1024x682.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/IMAGE-2024-11-08-110214.jpg 1280w" data-image-name="IMAGE 2024-11-08 11:02:14.jpg" width="1280" height="853" loading="lazy" class="stk-image stk-reset wp-image-137306 img-responsive"></div></figure><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/09.jpg" data-image-id="136107" srcset="https://entermedia.io/wp-content/uploads/2024/10/09-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/09-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/09.jpg 1200w" data-image-name="09.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136107 img-responsive"></div></figure><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Отдельным бонусом экскурсии стал завораживающий вид на производство с высоты 13-го этажа. А в завершении экскурсии представители «Казаньоргсинтеза» подарили гостям памятные сувениры. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ирина</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">маркетолог</p></div></div></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Irina.jpg" data-image-id="136110" srcset="https://entermedia.io/wp-content/uploads/2024/10/Irina-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/Irina-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/Irina.jpg 1200w" data-image-name="Ирина.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136110 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мы приходим к осознанию, что промышленность должна измениться — сегодня в приоритете не только экономическая выгода, но и общественное благо. И я вижу, насколько увлеченные люди работают на «Казаньоргсинтезе».</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне было важно увидеть горящие глаза сотрудников, здоровую качественную среду со столовыми, медицинскими центрами, капсулами для сна и даже зонами психологической поддержки. Мои дети учатся во втором и шестом классе. Я хочу привести их на следующую экскурсию и познакомить с людьми, которые работают на заводе 20 лет и до сих пор горят своим делом. Это очень вдохновляет и мотивирует!</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Антон</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">старший научный сотрудник КФТИ</p></div></div></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Anton.jpg" data-image-id="136096" srcset="https://entermedia.io/wp-content/uploads/2024/10/Anton-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/Anton-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/Anton.jpg 1200w" data-image-name="Антон.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136096 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я решил поучаствовать в экскурсии, потому что любопытно. На что-то посмотрел, как обыватель, некоторые вещи стали профессиональным триггером. Например, мне понравилась идея гасить сточные воды, которые сами по себе являются щелочными, угольной кислотой из продуктов сгорания: то есть что-то сгорает, получается СО2, который сжижают до угольной кислоты. Этапы по отдельности известны, но собрать все это вместе и сделать промышленным инструментом — круто.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Или как вам история с очистными сооружениями? Производство и город сосуществуют более 60 лет. Эта синергия достигла того уровня, когда завод берет на себя часть инфраструктурных обязательств и снабжает водой огромный микрорайон Салават Купере.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Кроме технических решений, меня удивили рабочие пространства. На заводе ожидаешь увидеть что-то грязное и шумное. Но вместо этого — попадаешь в современные офисы и производственные пространства. Как минимум, визуально приятно работать в таких интерьерах.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Татьяна Евгеньевна</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">переводчик и преподаватель русского жестового языка</p></div></div></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Tatyana-Evgenevna-1.jpg" data-image-id="136097" srcset="https://entermedia.io/wp-content/uploads/2024/10/Tatyana-Evgenevna-1-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/Tatyana-Evgenevna-1-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/Tatyana-Evgenevna-1.jpg 1200w" data-image-name="Татьяна-Евгеньевна.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136097 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Люди далеки от полимеров. Интересно посмотреть, пощупать, понять, как делают простые бытовые вещи. Оказалось, например, что кубики, в которые играет мой внук, получаются из маленьких прозрачных гранул, которые производятся на подобных предприятиях. Дышится на предприятии легко. «Казаньоргсинтез» заботиться об экономике замкнутого цикла и бережном производстве, и это радует.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Несмотря на то, что производству 60 лет, выглядят офисы и корпуса, как из журналов про будущее. Ощущение, что это не завод в привычном представлении, а приятное пространство для созидания.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Ольга, Рамиль и Татьяна</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">работают в IT-сфере, окончили Институт полимеров КНИТУ КХТИ</p></div></div></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Olga-Ramil-i-Tatyana.jpg" data-image-id="136098" srcset="https://entermedia.io/wp-content/uploads/2024/10/Olga-Ramil-i-Tatyana-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/Olga-Ramil-i-Tatyana-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/Olga-Ramil-i-Tatyana.jpg 1200w" data-image-name="Ольга,-Рамиль-и-Татьяна.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136098 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Ольга:</strong> Нас интересует промышленный туризм, потому что любопытно узнать, как работают любые промышленные предприятия. Мы уже бывали на промышленных экскурсиях в других местах, поэтому решили продолжить путешествие по предприятиям Татарстана и России.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Промышленный туризм повышает прозрачность и открытость бизнеса. Сегодня мы узнали, что горящий факел – это гарантия безопасности. Сразу стало спокойнее и понятнее. Начинаешь больше понимать процессы предприятия.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Татьяна:</strong> Еще это хороший инструмент привлечения молодых кадров. Популяризация промышленности среди молодого поколения нужна, чтобы люди не боялись идти на завод. Это давно не отсталая индустрия, работать на современном производстве престижно и комфортно.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Рамиль:</strong> На экскурсию «Казаньоргсинтеза» стоит сходить элементарно для развития кругозора. Это легальная возможность попасть на закрытое режимное предприятие и посмотреть, как здесь все устроено, оценить условия труда на современных заводах. </p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h4 class="stk-theme_29689__mb_0 stk-theme_29689__style_small_header align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Татьяна и Константин</h4><p class="stk-theme_29689__color_29689_custom_color_0 align-left stk-reset wp-exclude-emoji" data-ce-tag="paragraph">промышленные туристы </p></div></div></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/10/Tatyana-i-Konstantin.jpg" data-image-id="136100" srcset="https://entermedia.io/wp-content/uploads/2024/10/Tatyana-i-Konstantin-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/10/Tatyana-i-Konstantin-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/10/Tatyana-i-Konstantin.jpg 1200w" data-image-name="Татьяна-и-Константин.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-136100 img-responsive"></div></figure><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Татьяна:</strong> Ранее мы были на заводе, который производит продукцию из сырья «Казаньоргсинтеза». Теперь решили посмотреть, как делают сами полимерные гранулы. Я окончила КХТИ, и в общем понимаю, что к чему. Мне было интересно изучить процессы изнутри.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Константин</strong><strong class="stk-reset" data-gtm-vis-has-fired10171822_255="1">:</strong> Приятно, что СИБУР работает со школьниками. У подрастающего поколения появилась возможность попасть на производство, все рассмотреть. Бизнесу это нужно, прежде всего, для воспитания и привлечения кадров. Дети же могут познакомиться с производством и актуальными профессиями.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Фото:</strong> предоставлены «Казаньоргсинтезом»</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F&title=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»&description=&image=https://entermedia.io/wp-content/uploads/2024/10/02-1-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="2" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">2</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F&text=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=«Кругом одни полимеры»: Как прошла экскурсия по ночному «Казаньоргсинтезу»&related=truemisha&hashtags=Кто пришел&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkrugom-odni-polimery-kak-proshla-ekskursiya-po-nochnomu-kazanorgsintezu%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="0" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501141'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

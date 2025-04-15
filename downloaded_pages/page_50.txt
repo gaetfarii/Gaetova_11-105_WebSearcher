@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html prefix='og: //ogp.me/ns#'>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="https://entermedia.io/wp-content/themes/entermedia/images/favicon.ico">
+    <title>Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма | Enter</title>
+    <meta property="og:image" content="https://entermedia.io/wp-content/uploads/2024/12/1-9.jpg" />
+	<meta name="yandex-verification" content="65f64a7747e67c65" />
+  <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script type="text/javascript">
+        var ajaxurl = 'https://entermedia.io/wp-admin/admin-ajax.php';
+      </script>
+    
+<!-- All in One SEO Pack 2.12.1 by Michael Torbert of Semper Fi Web Design[461,576] -->
+<link rel="canonical" href="https://entermedia.io/people/kazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-136157915-4', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Enter &raquo; Лента комментариев к &laquo;Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма&raquo;" href="https://entermedia.io/people/kazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma/feed/" />
+<link rel='stylesheet' id='css-1-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/fonts.min.css?1742501121&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-3-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/font-awesome.min.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-4-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/reset.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-5-css'  href='https://entermedia.io/wp-content/themes/entermedia/style.css?1742501121&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-6-css'  href='https://entermedia.io/wp-content/themes/entermedia/css/media.css?1742501121&#038;ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-common-279-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/common_css/common_css_1634572086.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-themes-29689-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/css/m71RwasLdnL8VRxOvb-5XQ.css?ver=4.8.25' type='text/css' media='all' />
+<link rel='stylesheet' id='setka-editor-standalone-layouts-6col_9382-css'  href='https://entermedia.io/wp-content/uploads/setka-editor/clients/mIXsYd_8XVIoZgSUUQQzXeVQaBBM8QAa/layout_option_builds/9382/Tmw7r2IwXV51t3rmfYD5dA.css?ver=4.8.25' type='text/css' media='all' />
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='prev' title='Open Space Market, день рождения «Соли» и многое другое' href='https://entermedia.io/weekend/open-space-market-den-rozhdeniya-soli-i-mnogoe-drugoe-3/' />
+<link rel='next' title='В Казани установили границы территории, где запрещена продажа алкоголя' href='https://entermedia.io/news/v-kazani-ustanovili-granitsy-territorii-gde-zapreshhena-prodazha-alkogolya/' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '316981952050385');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=316981952050385&ev=PageView&noscript=1"
+      /></noscript>
+  <!-- End Facebook Pixel Code -->
+  </head>
+  <body class="post-template-default single single-post postid-139218 single-format-standard wpb-js-composer js-comp-ver-6.10.0 vc_responsive" id="desktop">
+   <div class="header_section image-thumbnail"><div class="thumb-single async" data-original="https://entermedia.io/wp-content/uploads/2024/12/1-9.jpg"></div>      <header id="header" class="header">
+        <div class="container">
+          <div class="top-header">
+            <div class="section-left">
+              <div class="search-form unselect"><span>Поиск</span></div>
+            </div>
+
+            <div class="logo-top unselect">
+              <a href="/">
+                <div class="logo-box"></div>
+                <div class="logo-event"><div class="logo-hidden-box"></div></div>
+              </a>
+            </div>
+
+
+
+            <div class="section-right">
+              <ul class="nav navbar-nav nav-top"><li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2084"><a href="https://entermedia.io/about/">О проекте</a></li>
+</ul>            </div>
+          </div>
+          <div class="bottom-header">
+            <div class="list-toggle-input">
+            <form role="search" method="get" id="searchform" action="https://entermedia.io/" >
+  <input type="text" name="s" id="s" value="">
+  <label for="s"><i class="fa fa-search"></i></label>
+</form>            </div>
+            <div class="list-toggle-menu">
+              <div class="section-left">
+                <div class="header-left-info"><span class='weather'>0<sup>0</sup>C</span><span class='traffic_j'>ПРОБКИ 1 балл</span></div>
+              </div>
+              <div class="menu-section">
+                <ul class="nav navbar-nav nav-main"><li id="menu-item-2028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li id="menu-item-2029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>              </div>
+              <div class="section-right">
+                <div class="social-box">
+                  <ul>
+                    <li><a href="//vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+		              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                    <li><a href="//twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header></div>
+<div class="empty_place_box_big"></div>
+<div class="single-content">
+  <div class="container">
+    <div class="container-single clearfix">
+      <h1>Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма <span></span></span></h1>
+      <div class="static-info clearfix">
+        <hr>
+        <div class="social-input author_i clearfix">
+        <div class="author-post clearfix">
+          <div class="img-radius"><img data-original="https://entermedia.io/wp-content/uploads/2022/03/IMAGE-2022-03-16-193215-96x96.jpg" class="img-responsive async"></div>
+          <div class="name-author">Инзиля Шакирова</div>
+          <div class="date-publish">20 декабря</div>
+        </div>
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F&title=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-9-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F&text=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="6" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>        </div>
+      </div>
+    </div>
+  </div>
+    <!-- CONTENT -->
+    <div class="content-post clearfix" data-post_id="139218">
+    <div id="post-139218" class="post-139218 post type-post status-publish format-standard has-post-thumbnail hentry category-people tag-mneniye">
+  <div class="stk-post stk-layout_6col_9382 stk-theme_29689 wp-exclude-emoji" data-stk="{&quot;images&quot;:[{&quot;id&quot;:139222,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139221,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139223,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139224,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139225,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139226,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139227,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139229,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;},{&quot;id&quot;:139228,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;}]}" data-ui-id="post" data-ce-tag="post" data-reset-type="class" data-layout-type="auto" data-editor-version="3.2.8-rc1"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">erid: 2SDnjcbvV4X</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В современном мире, где технологии позволяют оставаться на связи круглосуточно, жизнь и работа инфлюенсеров становятся частью цифрового потока. Они проводят за телефонами и другими гаджетами буквально целые сутки, но также умудряются совмещать это с отдыхом, хобби и другими активностями.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Редакция Enter и <a href="https://kazan.rt.ru/" target="_blank" class="stk-reset">«Ростелеком»</a> поговорили с казанскими инфлюенсерами и узнали о том, как им удается быть онлайн 24/7, где они любят работать и как найти себя и свое предназначение вне найма.</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="2" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><hr class="stk-theme_29689__separator_divider_1 stk-reset"></div><div data-col-width="2" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/2-9.jpg" data-image-id="139227" srcset="https://entermedia.io/wp-content/uploads/2024/12/2-9-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/2-9-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/2-9.jpg 1200w" data-image-name="2.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139227 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkzyzhK" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/Alyaska.png" data-image-id="139222" data-image-name="Аляска.png" class="stk-image stk-reset  wp-image-139222 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/12/Alyaska-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/12/Alyaska.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Алия Резяпова </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">лайф-стайл блогер </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Мне иногда кажется, что я 24/7 в телефоне: засыпаю и просыпаюсь с ним — и это правда моя боль! У меня уже год как есть сын, и мы с мужем решили перед сном, за два часа до отправления в постель убирать телефоны, чтобы проводить время с ребенком и друг с другом без гаджетов. Не хотим, чтобы сын видел, что мы постоянно сидим в телефоне, и не хотим подавать ему плохой пример.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">И, честно говоря, мне это дается тяжело, но я стараюсь. С одной стороны, я очень люблю телефон и интернет — это моя отдушина, хобби, работа, увлечение, любимое дело, а с другой стороны — из-за этой зависимости я могу пропустить что-то важное в жизни, и боюсь упустить моменты, которые не вернутся.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Несмотря на то, что телефон часто приклеен к моей руке, на семейных посиделках и дружеских встречах я стараюсь им не пользоваться. И, кстати, у меня это даже хорошо получается. Я стараюсь отключиться и найти баланс, чтобы качественно провести время с близкими. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Но в то же время я связываю свою зависимость от телефона с тем, что, когда ты работаешь сам на себя, у тебя нет «стопа». Даже вечером, когда ты пытаешься расслабиться, ты не просто отдыхаешь, а вновь думаешь о том, как сгенерировать новую идею для своего проекта или адаптировать референс видео под свой контент. Именно поэтому иногда мне даже хочется устроиться в какую-нибудь серьезную компанию маркетологом или PR-менеджером, чтобы у меня был график, обеды, отпуски и офис. Но эта мысль быстро исчезает, потому что я никогда и ни на что не променяю свой блог! </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Конечно, когда я сижу в телефоне, чувствую вину перед ребенком, что не уделяю ему достаточно времени. Поэтому в последнее время, чтобы хотя бы немного разделить работу и дом, ухожу оформлять контент в кофейни. Там получается поработать спокойно, не отвлекаясь. К тому же по натуре я всегда работаю продуктивно, ведь занимаюсь тем, что искренне люблю. </p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkGXd-b" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/Rusina.png" data-image-id="139223" data-image-name="Русина.png" class="stk-image stk-reset  wp-image-139223 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/12/Rusina-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/12/Rusina.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Русина Семененко</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">автор блога «Казань Интересная»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Моя головная боль — это думать о том, что я трачу свою жизнь на телефон и нахождение в онлайн. Мое экранное время составляет около 10 часов в день, и, если учесть, что я сплю восемь часов, то получается, что всего лишь шесть часов в день я не провожу в телефоне. Эти моменты бывают редкими, например, когда я хожу на йогу или выбираюсь в глэмпинги по работе, но все равно этот режим меня немного пугает.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Летом я старалась устраивать себе выходные по воскресеньям, и экранное время снижалось до четырех-пяти часов, что помогало предотвращать выгорание. Сейчас я часто практикую занятия, где искусственно создаю для себя ситуации, где просто не могу взять телефон в руки, — это те же самые тренировки, СПА или поездки с семьей или друзьями за город. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Но я все равно всегда стараюсь оставаться онлайн, насколько это возможно. Если я не могу быть в сети, то прошу свою команду поддерживать связь, например, с клиентами и отвечать на их запросы. Тем не менее, я стараюсь сама коммуницировать с подписчиками, отвечая в личных сообщениях или на комментарии. Личный контакт с аудиторией для меня очень важен.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я пробовала разные варианты локаций для работы — в прошлом году меня можно было часто встретить в заведениях на Баумана, Профсоюзной или на Столбова. Я бывала в ресторанах и кафе настолько часто, что меня уже знал весь персонал. Но в этом году я поняла, что мне отлично работается и дома. Я не отвлекаюсь на бытовые дела, потому что у меня есть домработница и повар, поэтому спокойно могу быть погружена в работу. Даже находясь дома, я всегда в эпицентре событий и наслаждаюсь своей жизнью. И такой формат жизни мне нравится: это продуктивно и комфортно одновременно!</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/3-6.jpg" data-image-id="139229" srcset="https://entermedia.io/wp-content/uploads/2024/12/3-6-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/3-6-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/3-6.jpg 1200w" data-image-name="3.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139229 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkBnnMU" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/Hong.png" data-image-id="139225" data-image-name="Хонг.png" class="stk-image stk-reset  wp-image-139225 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/12/Hong-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/12/Hong.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Миша Хонг </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">экс-основатель кофейни Miñ, инфлюенсер </p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я стараюсь придерживаться четкого рабочего графика — с 9 до 18, и после этого обычно не отвечаю на рабочие вопросы. Мой главный принцип — это уважать свои границы, не работать вечером и уделять больше времени отдыху, особенно в выходные. Работать из дома мне комфортно, и я стараюсь создавать подходящую атмосферу для работы прямо в квартире.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Однако последнее время я чаще бываю в офисе. Кофейни, на самом деле, не подходят для работы — это, наверное, профессиональная деформация, так как я часто отвлекаюсь на знакомых и случайные встречи, которые иногда затягиваются на несколько часов. Я не против таких встреч и даже рад им, но когда нужно сосредоточиться на работе — это не удобно, поэтому выбираю работать дома. Зато мне нравится, как многие люди устраивают свою работу в таких местах как, например, Skuratov Coffee, Surf Coffee или Национальная библиотека. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Что касается ритуалов, которые помогают мне быть продуктивным, то мне нравится готовить кофе вручную и устраивать маленькие чайные церемонии, иногда даже во время работы. А еще у нас есть семейная традиция — субботние завтраки с сырниками. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Моя жизнь сейчас похожа на сочетание привычного 5/2 и постоянного потока работы и событий. В этом помогает ведение планеров и декомпозиция целей, но иногда мне кажется, что этого все равно недостаточно. К счастью, моя девушка в роли ассистента помогает мне не забывать о важных моментах и напоминать о предстоящих событиях, что делает мою жизнь немного более организованной.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stkOzFIO" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/Tolkueva.png" data-image-id="139224" data-image-name="Толкуева.png" class="stk-image stk-reset  wp-image-139224 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/12/Tolkueva-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/12/Tolkueva.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Карина Толкуева</h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Автор гастрономического блога</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В последнее время я стала внимательнее относиться к своему времени и самоощущению. Посмотрела экранное время — около четырех часов в день в среднем провожу в телефоне, а хотелось бы сократить хотя бы до двух. Если что-то действительно важное, стараюсь быть на связи, а все остальное откладываю без зазрения совести.Моя тревожность растет от большого количества социальных контактов, включая онлайн-общение, поэтому я все дозирую.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Большую часть времени я работаю из дома, но периодически выхожу в заведения. Мое любимое место сейчас — Skuratov Coffee на Волкова. Там много пространства и рабочая атмосфера, что помогает сосредоточиться. И в целом мой день не начинается без чашки черного кофе. Обычно я готовлю его воронкой — этот тоже медитативный для меня процесс. После этого я обычно ставлю несколько важных задач на день, а остальное выполняю уже по обстоятельствам.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Стараюсь понимать себя и делать только то, что действительно хочется, по возможности. Спокойно отказываюсь от всего, что мне не интересно или идет вразрез с моими взглядами. Я уже давно отпустила ощущение гонки — иначе я ее не выиграю без потерь.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><figure class="stk-layout__overhangs_both stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/4-4.jpg" data-image-id="139228" srcset="https://entermedia.io/wp-content/uploads/2024/12/4-4-300x200.jpg 300w, https://entermedia.io/wp-content/uploads/2024/12/4-4-1024x683.jpg 1024w, https://entermedia.io/wp-content/uploads/2024/12/4-4.jpg 1200w" data-image-name="4.jpg" width="1200" height="800" loading="lazy" class="stk-image stk-reset  wp-image-139228 img-responsive"></div></figure><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk8HD5u" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><figure class="stk-reset stk-image-figure" data-ce-tag="image-figure"><div class="stk-mask" data-ce-tag="mask"><img src="https://entermedia.io/wp-content/uploads/2024/12/Vagiz.png" data-image-id="139221" data-image-name="Вагиз.png" class="stk-image stk-reset  wp-image-139221 img-responsive" srcset="https://entermedia.io/wp-content/uploads/2024/12/Vagiz-300x300.png 300w, https://entermedia.io/wp-content/uploads/2024/12/Vagiz.png 500w" width="500" height="500" loading="lazy"></div></figure><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"><h5 class="stk-theme_29689__style_font_style-1490606702672 stk-theme_29689__mb_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Вагиз Аюпов </h5><p class="stk-theme_29689__color_29689_custom_color_0 stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Сооснователь студии мультимедийного контента «Взмах» и театра-ресторана «Огива»</p></div></div><div class="stk-container stk-theme_29689__spec stk-theme_29689__author_block_big" data-ce-tag="container" data-container-name="Big portrait"><div class="stk-container stk-portrait-text align-center" data-ce-tag="container"></div></div></div><div data-col-width="3" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">В телефоне я провожу много времени, и мне всегда удается оставаться онлайн по работе. Однако я специально делаю так, чтобы время от времени быть недоступным, и важно, чтобы все об этом знали. Главное правило для меня — это предупреждать, если у меня есть какие-то планы, например, тренировка или два часа, когда я буду занят. Даже если у меня встреча и во время нее приходится сидеть в телефоне, я тоже стараюсь спрашивать, будет ли человеку комфортно, если я буду отвлекаться на телефон. Это элементарное проявление уважения как к своему времени, так и ко времени других людей.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Я считаю важным также отключать телефон на определенные промежутки, чтобы не быть онлайн 24/7. Для этого очень часто использую специальные приложения-блокираторы — они ограничивают доступ ко всему, кроме самых необходимых приложений. Эти методы помогают поддерживать баланс между работой и личной жизнью. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Работаю я всегда вне дома. Был период, когда работал дома, но понял, что это не лучший вариант, особенно если работать лежа в кровати или на диване. Важно разделять рабочую и нерабочую зоны — это принципиальное правило, которое отражается на теле и психике. Сейчас я работаю только в офисе — у нас очень комфортное пространство с отличными условиями для работы, но со временем он тоже начинает надоедать. Поэтому я часто работаю в кофейне «Ясный» и редко бываю в популярных сетях, потому что там слишком много людей, а я предпочитаю тишину.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Недавно открыл для себя коворкинги, например, на Островского. Хотя бываю там не часто, но если нужно провести важный звонок в тишине, это идеальный вариант. Однажды я даже созванивался с психологом в коворкинге, потому что в офисе было шумно, а доехать до дома не успевал. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Также мне нравится работать в путешествиях. Работать в другом городе в новой обстановке — это очень круто. Конечно, иногда хочется просто отдохнуть, но если удается совмещать отдых и работу, это просто потрясающе. В путешествиях главное — найти хорошие места, где можно не только поработать и выполнить задачи, но и отдохнуть и зарядиться энергией.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для меня продуктивность основывается на нескольких простых вещах: нормальном питании, полноценном сне и спорте. Если я выспался и немного раньше встал, то день точно пройдет продуктивно. Спорт, в свою очередь, не только расслабляет, но и заряжает энергией, вдохновляет. Например, после тренировки я всегда чувствую себя спокойным и энергичным, готовым решать задачи. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Еще один важный элемент моей продуктивности — использование приложения с to-do листом, куда можно записать задачи или идеи. Эта привычка записывать задачи сразу помогает мне не забывать ничего важного и быстро реагировать на любые предложения или изменения в планах. При этом доступ к нему должен быть быстрым, буквально с одной кнопки, поэтому я использую приложение, которое упрощает мне планировку во время записи задачи. </p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">У многих моих друзей жизнь устроена по принципу 5/2, но для меня это постоянная работа, и я с этим смирился. К этому можно относиться по-разному: можно жаловаться на количество задач или можно понять, что я сам контролирую этот процесс. Я могу спланировать свою работу так, чтобы у меня были выходные в любой день, если я чувствую, что устал. Например, если мне предложат поехать в другой город на три дня, я смогу организовать свою работу таким образом, чтобы освободить это время. В отличие от системы 5/2, где ты зависишь от внешних факторов, у меня есть возможность опираться на внутренние ресурсы. Когда я понял это, мне стало легче, и я начал наслаждаться своей работой и жизнью.</p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">При этом очень важно правильно расставлять приоритеты и придерживаться их. Легко можно закапываться в работу и постоянно находиться в состоянии стресса, но можно выбрать другой подход. Например, если спорт для тебя важен, нужно выделить время для тренировок и сделать это своим приоритетом, даже если в это время есть другие дела. То же касается отдыха и встреч с друзьями. К отдыху нужно относиться так же, как к работе — как к важной задаче, которая помогает восстановить силы и повысить продуктивность. Когда ты планируешь отдых, у тебя остаются силы для работы, общения и взаимодействия с другими людьми. Отношения с семьей, спорт, хобби — все это влияет на твою эффективность и общее восприятие жизни. К этому нужно относиться с такой же серьезностью, как и к рабочим задачам.</p><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-layout__overhangs_both stk-grid" data-stk-css="stk8jx12" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="4" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p><p class="stk-reset wp-exclude-emoji" data-ce-tag="paragraph">Для тех, кто хочет всегда быть на связи, «Ростелеком» запустил акцию «Навсегда», в рамках которой предлагает фиксированные тарифы на цифровые услуги для дома и семьи, которые не будут меняться со временем. В условиях нестабильности цен на рынке клиенты могут подключить домашний интернет, мобильную связь, IPTV и онлайн-кинотеатр Wink.ru с гарантией, что абонентская плата останется неизменной. Подробности ищите <a class="stk-reset" href="https://kazan.rt.ru/navsegda" target="_blank">на сайте.</a></p><p class="stk-reset wp-exclude-emoji stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text" data-ce-tag="paragraph">Реклама.&nbsp;ПАО «Ростелеком»</p></div><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div></div><div class="stk-grid" data-ce-tag="grid"><div data-col-width="1" class="stk-grid-col stk-grid-col_empty" data-stk-css="" data-stk-css-m="" data-ce-tag="grid-col"><p class="ce-element--empty stk-element_no-text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"></p></div><div data-col-width="5" class="stk-grid-col stk-grid-col_last" data-ce-tag="grid-col"><p class="stk-theme_29689__color_29689_custom_color_0 stk-theme_29689__style_small_text stk-reset wp-exclude-emoji" data-ce-tag="paragraph"><strong class="stk-reset">Текст:</strong> Инзиля Шакирова<br><strong class="stk-reset">Фото:</strong> Предоставлены героями материала </p></div></div><style data-stk-css="stk8HD5u" class="" media="all">[data-stk-css="stk8HD5u"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkOzFIO" class="" media="all">[data-stk-css="stkOzFIO"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkBnnMU" class="" media="all">[data-stk-css="stkBnnMU"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkGXd-b" class="" media="all">[data-stk-css="stkGXd-b"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stkzyzhK" class="" media="all">[data-stk-css="stkzyzhK"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style><style data-stk-css="stk8jx12" class="" media="all">[data-stk-css="stk8jx12"]:not(#stk):not(#stk):not(style){background-color: rgba(243, 243, 243, 1)}</style></div></div>    </div>
+    <a href="/"><div class="btn-all-news">Смотреть<br>все материалы</div></a>
+    <!-- //CONTENT -->
+
+  <div class="container">   
+
+    <div class="container-single clearfix">
+      <div class="static-info">
+        <hr>
+        <div class="social-input clearfix">
+          
+    <a href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F&title=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма&description=&image=https://entermedia.io/wp-content/uploads/2024/12/1-9-555x396.jpg&noparse=true" title="Поделиться в Вконтакте" target="_parent" data-type="vk" data-count="4" class="btn-social">
+      <div class="soc-btns vk-btn">
+        <i class="fa fa-vk" aria-hidden="true"></i>
+        <div class="count-click">4</div>
+      </div>
+    </a>
+
+    <a href="https://t.me/share/url?url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F&text=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма" target="_parent" title="Поделиться в Telegram" data-type="facebook" data-count="0" class="btn-social">
+      <div class="soc-btns telegram-btn">
+        <i class="fa fa-telegram" aria-hidden="true"></i>
+        <div class="count-click">0</div>
+      </div>
+    </a>
+
+    <a href="http://twitter.com/share?text=Казанские инфлюенсеры — о том, как быть на связи 24/7, любимых местах для удаленки и поиске себя вне найма&related=truemisha&hashtags=Мнение&url=https%3A%2F%2Fentermedia.io%2Fpeople%2Fkazanskie-inflyuensery-o-tom-kak-byt-na-svyazi-24-7-lyubimyh-mestah-dlya-udalenki-i-poiske-sebya-vne-najma%2F" title="Добавить в Twitter" target="_parent" data-type="twitter" data-count="6" class="btn-social">
+      <div class="soc-btns twitter-btn">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+        <div class="count-click">6</div>
+      </div>
+    </a>        </div>
+      </div>
+      <div class="bottom-single clearfix">
+        <div class="slider-main-content sort-i"><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/04/4-prevyu-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/city/ot-pustyrya-do-tochki-prityazheniya-kak-zhiloj-kompleks-zarya-izmenit-tsentr-goroda/">
+                  <h1>От пустыря до точки притяжения: Как жилой комплекс «Заря» изменит цент</h1>
+                  <div class="name-author">Кристина Лешкова <span>24 апреля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2024/07/prevyu1-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/food/gastronom-redaktsiya-enter-zapuskaet-tematicheskie-set-menyu-v-zavedeniyah-kazani/">
+                  <h1>Гастроном: Редакция Enter запускает тематические сет-меню в заведениях</h1>
+                  <div class="name-author">Редакция Enter <span>4 июля</span></div>
+                </a>
+              </div>
+            </div><div class="slide">
+              <img src="https://entermedia.io/wp-content/uploads/2023/04/prevyu3-min-555x396.jpg">
+              <div class="overlay_slider_thumb"></div>
+              <div class="text-slider">
+                <div class="category"><a href="/tag/guide" class="tag-link">Гид Enter</a></div>
+                <a href="https://entermedia.io/people/novye-litsa-12-molodyh-geroev-elektronnoj-stseny-kazani/">
+                  <h1>Новые лица: 12 молодых героев электронной сцены Казани</h1>
+                  <div class="name-author">Инзиля Шакирова <span>13 апреля</span></div>
+                </a>
+              </div>
+            </div></div><div class="news-slider-mainpage sort-i"><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/city" class="tag-link"><span>Город</span></a></div>
+            <a href="https://entermedia.io/city/chernoe-zoloto-tatnefti-15-glupyh-voprosov-o-dobyche-nefti/">
+              <h1>Черное золото «Татнефти»: 15 глупых вопросов о добыче нефти</h1>
+              <div class="name-author">Ксения Монастырская <span>18 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/1-11-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/food" class="tag-link"><span>Еда</span></a></div>
+            <a href="https://entermedia.io/food/gde-otmetit-8-marta-v-kazani-restorany-spa-otel-i-vecherinki/">
+              <h1>Где отметить 8 марта в Казани: Рестораны, СПА, отель и вечеринки</h1>
+              <div class="name-author">Редакция Enter <span>27 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/2-9-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/people" class="tag-link"><span>Люди</span></a></div>
+            <a href="https://entermedia.io/people/uchastniki-pryg-skoka-ot-enter-i-federatsii-nastolnogo-tennisa-rossii-o-lyubvi-k-kazani-sportu-i-nastupivshej-vesne/">
+              <h1>Участники «Прыг-Скока» от Enter и Федерации настольного тенниса России</h1>
+              <div class="name-author">Камила Саитова <span>17 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-3-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/weekend" class="tag-link"><span>Развлечения</span></a></div>
+            <a href="https://entermedia.io/weekend/stendap-kontsert-maksa-evdokimova-knizhnyj-market-i-mnogoe-drugoe/">
+              <h1>Стендап-концерт Макса Евдокимова, книжный маркет и многое другое</h1>
+              <div class="name-author">Ксения Монастырская <span>20 марта</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/03/3-6-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div><div class="item size1">
+            <div class="b_border">
+            <div class="category"><a href="/category/fashion" class="tag-link"><span>Стиль</span></a></div>
+            <a href="https://entermedia.io/fashion/kak-v-modu-voshli-nesovershennye-veshhi-sviter-s-zatsepkami-nerovnye-shvy-i-asimmetriya/">
+              <h1>Как в моду вошли несовершенные вещи: Свитер с зацепками, неровные швы </h1>
+              <div class="name-author">Ксения Монастырская <span>10 февраля</span></div>
+              <div class="link-post">
+                <div class="thumb-post async" data-original="https://entermedia.io/wp-content/uploads/2025/02/1-2-256x158.jpg"></div>
+              </div>
+            </a>
+            </div>
+        </div></div>      </div>
+    </div>
+  </div>
+</div>
+
+ 
+<div class="container">
+<!--<h2 class="partnrers">Новости партнеров</h2>
+<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='990' data-height='120' data-img='true' data-imgsize='170' data-type='text-over-image' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='4' data-inline='' data-font='small' data-fontfamily='arial' data-border='' data-borderwidth='0' data-alignment='horizontal' data-country='ru' data-site='mmet/entermedia_io'> </script>-->
+<br><br><br><br>
+</div>
+  <footer id="footer">
+    <div class="empty_place_box_black"></div>
+    <div class="footer-box">
+      <div class="container">
+        <div class="wrapper-footer clearfix">
+          <div class="logo-footer"><a href="/"><img src="https://entermedia.io/wp-content/themes/entermedia/images/logo-white.png" class="img-responsive"></a></div>
+          <div class="middle-block">
+            <div class="copywrite"><span>18+</span>© 2017 Enter</div>
+            <div class="menu">
+              <ul class="nav navbar-nav nav-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2028"><a href="https://entermedia.io/category/city/">Город</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029"><a href="https://entermedia.io/category/food/">Еда</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2030"><a href="https://entermedia.io/category/people/">Люди</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2031"><a href="https://entermedia.io/category/fashion/">Стиль</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2032"><a href="https://entermedia.io/category/weekend/">Развлечения</a></li>
+</ul>            </div>
+          </div>
+          <div class="section-right">
+            <div class="social-box">
+              <ul>
+              <li><a href="https://t.me/enter_media"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                
+                <li><a href="https://vk.com/enter.media"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/entr_media"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="copywrite_footer"><a href="http://ilartech.com">Создание сайта ILAR Technology</a></div>
+        <div class="lc_footer">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+" of visitors for 24 hours and for today is shown' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66327235, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66327235" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/flowtype.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/slick.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.lazyload.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/jquery.scrollstop.min.js'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-content/themes/entermedia/js/app.js?1742501121'></script>
+<script type='text/javascript' src='https://entermedia.io/wp-includes/js/comment-reply.min.js?ver=4.8.25'></script>
+<script async type='text/javascript' src='https://ceditor.setka.io/public/3.2.8-rc1/01/01/public.v3.2.8-rc1.1658243032.min.js?ver=2.1.20'></script>
+        <script src="https://entermedia.io/wp-content/themes/entermedia/js/single.js"></script>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44104624 = new Ya.Metrika2({
+                    id:44104624,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44104624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
