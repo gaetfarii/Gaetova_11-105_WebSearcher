@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поисковая система</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; }
+        input[type="text"] { width: 300px; padding: 8px; }
+        button { padding: 8px 16px; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 8px 0; }
+    </style>
+</head>
+<body>
+    <h1>Поиск по статьям Enter Media</h1>
+    <form method="POST">
+        <input type="text" name="query" placeholder="Введите запрос" value="{{ query }}">
+        <button type="submit">Искать</button>
+    </form>
+
+    {% if results %}
+        <h2>Топ 10 результатов:</h2>
+        <ul>
+            {% for url, score in results %}
+                <li>
+                    <a href="{{ url }}" target="_blank">{{ url }}</a> — релевантность: {{ "%.4f"|format(score) }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% elif query %}
+        <p>Ничего не найдено по запросу.</p>
+    {% endif %}
+</body>
+</html>
